@@ -1,0 +1,68 @@
+1	( "Squeeze " ) Debian GNU/Linux 6.0 
+6	Release Candidate 1 published 2011-01-13 Debian 2011-01-13 APT ( several front-ends available ) dpkg i386 , AMD64 , PowerPC , SPARC , DEC Alpha , ARM , MIPS , PA-RISC , S390 , IA-64 Monolithic ( Linux , FreeBSD ) , Micro ( Hurd ) GNU GNOME Free software , mainly the GNU GPL , and other licenses http ://www.debian 
+15	What Does Free Mean ? or What do you mean by Free Software ? The Debian Project Debian official website 2009-12-01 Debian GNU/ Linux , which includes the GNU OS tools and Linux kernel , http ://debian .org/index 
+21	What is Debian ? The Debian Project Debian official website 2009-12-01 is a popular and influential Linux distribution . 
+34	The Debian GNU/Linux FAQ : Definitions and overview Debian 2008-05-12 http ://www.debian 
+38	The Debian GNU/Linux FAQ : Definitions and overview Debian 2008-05-12 Debian can be used on a variety of hardware , from NAS devices to phones , laptops , desktops and servers . 
+52	" Squeeze " to be released with completely free Linux Kernel Debian 2010-12-15 http ://www.debian 
+55	" Squeeze " to be released with completely free Linux Kernel Debian 2010-12-15 from around the world and supported by donations through several nonprofit organization around the world . 
+69	2008-05-12 Thus , the Debian Project is an independent decentralized organization ; it is not backed by a company like Linux distributions such as Ubuntu , openSUSE , Fedora , and Mandriva . 
+79	Debian GNU/Linux Ohloh .net 
+82	Debian GNU/Linux Ohloh .net 
+90	" Squeeze " released Debian 2011-02-06 using the Linux kernel . 
+96	The Debian GNU/Linux FAQ : Compatibility issues Debian 2008-05-12 http ://www.debian 
+99	The Debian GNU/Linux FAQ : Compatibility issues Debian 2008-05-12 The Debian standard install makes use of the GNOME desktop environment . 
+112	Installing Debian GNU/Linux via the Internet Debian 2008-12-11 http ://www.debian 
+114	Installing Debian GNU/Linux via the Internet Debian 2008-12-11 These CD/DVD images can be freely obtained by web download , BitTorrent , jigdo or from online retailers . 
+117	Debian GNU/Linux on CDs Debian 2009-01-06 http ://www.debian 
+119	Debian GNU/Linux on CDs Debian 2009-01-06 Debian was one of the earlier Linux distributions to compose itself from packages , Debian and the grass roots of Linux http ://www.itpro.co.uk/applications/features/135084/debian-and-the-grass-roots-of-linux 
+121	Hillesley Richard 2007-11-05 2008-10-31 Debian and the grass roots of Linux http ://www.itpro.co.uk/applications/features/135084/debian-and-the-grass-roots-of-linux 
+161	Debian GNU/Linux 4.0 
+164	Debian GNU/Linux 4.0 
+190	What 's new in Debian GNU/Linux 5.0 
+197	What 's new in Debian GNU/Linux 5.0 
+206	What 's new in Debian GNU/Linux 6.0 
+213	What 's new in Debian GNU/Linux 6.0 
+220	Release Notes for Debian GNU/Linux 4.0 
+221	( "etch" ) , ARM What 's new in Debian GNU/Linux 4.0 
+227	Release Notes for Debian GNU/Linux 4.0 
+228	( "etch" ) , ARM What 's new in Debian GNU/Linux 4.0 
+238	A Brief History of Debian : Introduction : What is the Debian Project ? Debian 2008-05-12 who initially called the system " the Debian Linux Release " . 
+261	Getting Started with Linux : Lesson 1 / About Debian 2008-10-31 www.linux 
+266	Getting Started with Linux : Lesson 1 / About Debian 2008-10-31 www.linux 
+268	Prior to Debian 's release , the Softlanding Linux System ( SLS ) had been the first Linux distribution compiled from various software packages , and was a popular basis for other distributions in 1993-1994 . 
+312	The Advanced Packaging Tool was deployed during this time and the first port to a non - Linux kernel , Debian GNU/Hurd , was started . 
+313	The first Linux distribution based on Debian , namely Libranet , Corel Linux and Stormix 's Storm Linux , were started in 1999 . 
+318	Debian GNU/Linux 2.2 
+322	Debian GNU/Linux 2.2 
+337	Chapter 2 - What 's new in Debian GNU/Linux 3.1 
+342	Chapter 2 - What 's new in Debian GNU/Linux 3.1 
+370	Debian GNU/Linux 5.0 
+374	Debian GNU/Linux 5.0 
+407	The Debian GNU/Linux FAQ : Getting support for Debian GNU/Linux Debian 2008-05-12 http ://www.debian 
+411	The Debian GNU/Linux FAQ : Getting support for Debian GNU/Linux Debian 2008-05-12 For issues with single packages or domains , a public bug tracking system is used by developers and end-users . 
+477	2007-05-24 The Debian GNU/Linux FAQ Chapter 6 : The Debian FTP archives Debian http ://www .us.debian 
+479	2007-05-24 The Debian GNU/Linux FAQ Chapter 6 : The Debian FTP archives Debian After a version of a software package has remained in unstable for a certain length of time ( depending on the urgency of the software 's changes ) , that package is automatically migrated to the testing distribution . 
+557	2008-12-13 Securing Debian Manual Debian SELinux ( Security-Enhanced Linux ) packages are installed by default though not enabled . 
+563	What 's new in Debian GNU/Linux 5.0 
+569	What 's new in Debian GNU/Linux 5.0 
+598	2009-07-21 2009-04-08 Debian GNU/Linux 4.0 
+601	2009-07-21 2009-04-08 Debian GNU/Linux 4.0 
+639	Debian GNU/Linux 6.0 
+642	Debian GNU/Linux 6.0 
+675	Debian permits binary blobs DesktopLinux.com 
+677	Debian permits binary blobs DesktopLinux.com 
+679	These two repositories are not officially part of Debian GNU/ Linux . 
+697	squeeze main contrib non-free Debian has no hardware requirements beyond those of the Linux kernel and the GNU tool-sets ( gcc , coreutils , bash , etc. 
+712	System Requirements 2008-11-02 Debian Linux , and therefore Debian , supports many processors or " symmetric multiprocessing " . 
+737	Debian was ranked second only to Ubuntu ( which is derived from Debian ) for Most Used Linux Distribution for both personal and organizational use in a 2007 survey by Survey Monkey .com 
+745	2008-11-02 Debian won the 2007 poll on Server Distribution of the Year by LinuxQuestions .org 
+758	Debian was awarded the 2004 Readers ' Choice Award for Favorite Linux Distribution by the Linux Journal . 
+763	2004-11-01 2008-11-02 A total of fifteen other awards have been awarded throughout Debian 's lifetime including Best Linux Distribution . 
+820	Debian Backports Debian Project 2010-04-10 Free software 30em Category :Debian Category :Debian-based distributions Category :1993 introductions Category :1993 software Category :X86-64 Linux distributions Category : Free software culture and documents Category :Cross-platform software ar af:Debian als :Debian ar :دبيان bn :ডেবিয়ান map-bms :Debian be :Debian bg :Дебиан bar :Debian bs :Debian br :Debian GNU/Linux ca :Debian cs :Debian da :Debian de :Debian et :Debian el :Debian es :Debian eo :Debiano eu:Debian fa :دبیان fr :Debian ga:Debian gl:Debian GNU/Linux gu :ડેબિયન ko :데비안 hi :डेबियन hsb :Debian hr:Debian id :Debian ia :Debian os :Debian is :Debian it :Debian he :דביאן jv:Debian ku:Debian la:Debian GNU/Linux lv:Debian lt :Debian hu:Debian mg :Debian ml :ഡെബിയൻ mr :डेबिअन ऑपरेटिंग सिस्टिम ms :Debian nl :Debian ne :डेबियन ja:Debian no:Debian nn :Debian nds :Debian GNU/Linux pl :Debian pt:Debian ro:Debian GNU/Linux ru:Debian simple :Debian sk :Debian sl :Debian so :Debian sr :Debian sh :Debian fi:Debian sv:Debian GNU/Linux tl:Debian GNU/Linux ta :டெபியன ் tt :Debian te :డెబియన ్ th :เดเบียน tr :Debian uk :Debian vi:Debian zh-yue :Debian zh :Debian Software Center , originally developed for Ubuntu , is a GNOME program to discover and install applications . 
+835	What 's new in Debian GNU/Linux 6.0 
+841	What 's new in Debian GNU/Linux 6.0 
+913	2008-10-11 Supported Hardware Debian amd64 : x86-64 architecture designed for Intel /AMD 64-bit single/multi core PCs armel : little - endian ARM architecture on RiscPC and various embedded systems ( EABI ) sparc : Sun SPARC architecture on sun4u/v systems powerpc : PowerPC architecture ia64 : Intel Itanium ( IA-64 ) architecture mips , mipsel : MIPS architecture ( big-endian and little-endian ) s390 : IBM ESA/390 architecture and z/Architecture kfreebsd-i386 : Kernel of FreeBSD on 32-bit architecture kfreebsd-amd64 : Kernel of FreeBSD on 64-bit architecture hurd-i386 : GNU Hurd kernel on 32-bit architecture armhf : ARM hard-float architecture requiring hardware with a floating-point unit ( FPU) s390x : IBM ESA/390 architecture and z/Architecture with 64-bit userland alpha : DEC Alpha architecture avr32 : Atmel AVR32 architecture hppa : HP PA-RISC architecture m68k : Motorola 68k architecture on Amiga , Atari , Macintosh and various embedded VME systems powerpcspe : PowerPCSPE architecture ( binary-incompatible variant of the PowerPC ) sh4 : Hitachi SuperH architecture sparc64 : Sun SPARC architecture with 64-bit userland Comparison of Linux distributions DCC Alliance Debian Live List of Linux distributions Krafft Martin F. 
+917	1-59327-069-0 Mako Hill Benjamin Benjamin Mako Hill Debian GNU/Linux 3.1 
+918	Bible John Wiley &amp; Sons 2005 672 0-7645-7644-5 Jurzik Heike Debian GNU / Linux Galileo Press GmbH 2005 630 3898426270 Schoblick Robert Debian / GNU Linux BHV Verlag 2005 767 3826681517 Bellomo Michael Debian GNU/Linux for Dummies Hungry Minds 2000 324 0764507133 McCarty Bill Learning Debian GNU/Linux O'Reilly 1999 360 1565927052 Goerzen John John Goerzen Debian Gnu/Linux : Guide to Installation and Usage New Riders Pub 1999 158 0735709149 Scheetz Dale The Debian Linux User 's Guide Linux Press 1998 268 0965957519 http ://www.debian 
+922	Official website for Debian Live debian Debian GNU/Linux 

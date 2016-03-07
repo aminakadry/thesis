@@ -1,0 +1,913 @@
+January 2012 Debian logo50px 300pxScreenshot of Debian 6.0 	0
+( "Squeeze " ) Debian GNU/Linux 6.0 	1
+( "Squeeze " ) with GNOME Debian Project Unix-like Current Free and open source software 1993 08 16 yes yes over 65 http ://debian .org/News/2011/20110113 	2
+Debian Installer 6.0 	3
+Release Candidate 1 published 2011-01-13 Debian 2011-01-13 http ://debian .org/News/2011/20110113 	4
+Debian Installer 6.0 	5
+Release Candidate 1 published 2011-01-13 Debian 2011-01-13 APT ( several front-ends available ) dpkg i386 , AMD64 , PowerPC , SPARC , DEC Alpha , ARM , MIPS , PA-RISC , S390 , IA-64 Monolithic ( Linux , FreeBSD ) , Micro ( Hurd ) GNU GNOME Free software , mainly the GNU GPL , and other licenses http ://www.debian 	6
+"dpkg i386"	"is"	"IA-64 Monolithic Linux"	6	Linux
+"dpkg i386"	"is"	"IA-64 Linux Micro GNU GNOME Free software"	6	Linux
+"dpkg i386"	"is"	"IA-64 Linux mainly the GNU GPL"	6	Linux
+"dpkg i386"	"is"	"IA-64 Linux other licenses http"	6	Linux
+"dpkg AMD64"	"is"	"IA-64 Monolithic Linux"	6	Linux
+"dpkg AMD64"	"is"	"IA-64 Linux Micro GNU GNOME Free software"	6	Linux
+"dpkg AMD64"	"is"	"IA-64 Linux mainly the GNU GPL"	6	Linux
+"dpkg AMD64"	"is"	"IA-64 Linux other licenses http"	6	Linux
+"dpkg PowerPC"	"is"	"IA-64 Monolithic Linux"	6	Linux
+"dpkg PowerPC"	"is"	"IA-64 Linux Micro GNU GNOME Free software"	6	Linux
+"dpkg PowerPC"	"is"	"IA-64 Linux mainly the GNU GPL"	6	Linux
+"dpkg PowerPC"	"is"	"IA-64 Linux other licenses http"	6	Linux
+"dpkg SPARC"	"is"	"IA-64 Monolithic Linux"	6	Linux
+"dpkg SPARC"	"is"	"IA-64 Linux Micro GNU GNOME Free software"	6	Linux
+"dpkg SPARC"	"is"	"IA-64 Linux mainly the GNU GPL"	6	Linux
+"dpkg SPARC"	"is"	"IA-64 Linux other licenses http"	6	Linux
+"dpkg DEC Alpha"	"is"	"IA-64 Monolithic Linux"	6	Linux
+"dpkg DEC Alpha"	"is"	"IA-64 Linux Micro GNU GNOME Free software"	6	Linux
+"dpkg DEC Alpha"	"is"	"IA-64 Linux mainly the GNU GPL"	6	Linux
+"dpkg DEC Alpha"	"is"	"IA-64 Linux other licenses http"	6	Linux
+"dpkg ARM"	"is"	"IA-64 Monolithic Linux"	6	Linux
+"dpkg ARM"	"is"	"IA-64 Linux Micro GNU GNOME Free software"	6	Linux
+"dpkg ARM"	"is"	"IA-64 Linux mainly the GNU GPL"	6	Linux
+"dpkg ARM"	"is"	"IA-64 Linux other licenses http"	6	Linux
+"dpkg MIPS"	"is"	"IA-64 Monolithic Linux"	6	Linux
+"dpkg MIPS"	"is"	"IA-64 Linux Micro GNU GNOME Free software"	6	Linux
+"dpkg MIPS"	"is"	"IA-64 Linux mainly the GNU GPL"	6	Linux
+"dpkg MIPS"	"is"	"IA-64 Linux other licenses http"	6	Linux
+"dpkg PA-RISC"	"is"	"IA-64 Monolithic Linux"	6	Linux
+"dpkg PA-RISC"	"is"	"IA-64 Linux Micro GNU GNOME Free software"	6	Linux
+"dpkg PA-RISC"	"is"	"IA-64 Linux mainly the GNU GPL"	6	Linux
+"dpkg PA-RISC"	"is"	"IA-64 Linux other licenses http"	6	Linux
+"dpkg S390"	"is"	"IA-64 Monolithic Linux"	6	Linux
+"dpkg S390"	"is"	"IA-64 Linux Micro GNU GNOME Free software"	6	Linux
+"dpkg S390"	"is"	"IA-64 Linux mainly the GNU GPL"	6	Linux
+"dpkg S390"	"is"	"IA-64 Linux other licenses http"	6	Linux
+"dpkg S390"	"is"	"IA-64 Linux other licenses http"	6	Linux
+/ License information Debian 2009-02-28 http ://www.debian 	8
+/ License information Debian 2009-02-28 www.debian 	10
+Debian ( icon ˈ d ɛ b i ə n ) is a computer operating system composed of software packages released as free and open source software primarily under the GNU General Public License along with other free software licenses . 	12
+"Debian icon ˈ d ɛ b i ə n"	"is a computer operating system"	"composed of software packages released as free source software primarily under the GNU General Public License along with other free software licenses"	12	Debian
+"Debian icon ˈ d ɛ b i ə n"	"is a computer operating system"	"composed of software packages released as open source software primarily under the GNU General Public License along with other free software licenses"	12	Debian
+"Debian icon ˈ d ɛ b i ə n"	"is"	"a computer operating system"	12	Debian
+What Does Free Mean ? or What do you mean by Free Software ? The Debian Project Debian official website 2009-12-01 http ://debian .org/intro/free 	14
+What Does Free Mean ? or What do you mean by Free Software ? The Debian Project Debian official website 2009-12-01 Debian GNU/ Linux , which includes the GNU OS tools and Linux kernel , http ://debian .org/index 	15
+What is Debian ? The Debian Project Debian official website 2009-12-01 http ://debian .org/index 	18
+What is Debian ? The Debian Project Debian official website 2009-12-01 is a popular and influential Linux distribution . 	21
+"The Debian Project Debian official website 2009-12-01"	"is"	"a popular Linux distribution"	21	Linux
+"The Debian Project Debian official website 2009-12-01"	"is"	"a influential Linux distribution"	21	Linux
+?section=popularity Linux Distributions : Facts and Figures distrowatch.com 	24
+?section=popularity Linux Distributions : Facts and Figures distrowatch.com 	27
+Debian is known for relatively strict adherence to the philosophies of Unix and free software on Debian homepage as well as using collaborative software development and testing processes . 	29
+"Debian"	"is known"	"for relatively strict adherence to the philosophies of Unix software on Debian homepage"	29	Debian
+"Debian"	"is known"	"for relatively strict adherence to the philosophies of free software on Debian homepage as well as using collaborative software development and testing processes"	29	Debian
+"Debian"	"is known"	"for relatively strict to the philosophies of Unix software on Debian homepage using collaborative software development"	29	Debian
+"Debian"	"is known"	"for relatively strict to the philosophies of Unix software on Debian homepage using collaborative software testing processes"	29	Debian
+The Debian GNU/Linux FAQ : Definitions and overview Debian 2008-05-12 http ://www.debian 	34
+The Debian GNU/Linux FAQ : Definitions and overview Debian 2008-05-12 Debian can be used on a variety of hardware , from NAS devices to phones , laptops , desktops and servers . 	38
+"Definitions Debian 2008-05-12 Debian"	"can be used"	"on a variety of hardware from NAS devices to phones"	38	Debian
+"Definitions Debian 2008-05-12 Debian"	"can be used"	"on a variety of hardware from NAS devices to laptops"	38	Debian
+"Definitions Debian 2008-05-12 Debian"	"can be used"	"on a variety of hardware from NAS devices to desktops"	38	Debian
+"Definitions Debian 2008-05-12 Debian"	"can be used"	"on a variety of hardware from NAS devices to servers"	38	Debian
+"overview Debian 2008-05-12 Debian"	"can be used"	"on a variety of hardware from NAS devices to phones"	38	Debian
+"overview Debian 2008-05-12 Debian"	"can be used"	"on a variety of hardware from NAS devices to laptops"	38	Debian
+"overview Debian 2008-05-12 Debian"	"can be used"	"on a variety of hardware from NAS devices to desktops"	38	Debian
+"overview Debian 2008-05-12 Debian"	"can be used"	"on a variety of hardware from NAS devices to servers"	38	Debian
+"Definitions Debian 2008-05-12 Debian"	"can be used"	"on a variety of hardware"	38	Debian
+"overview Debian 2008-05-12 Debian"	"can be used"	"on a variety of hardware"	38	Debian
+The Debian Project is governed by the Debian Constitution and the Social Contract which set out the governance structure of the project and explicitly states that the goal of the project is the development of a free operating system . 	40
+"The Debian Project"	"is governed"	"by the Debian Constitution"	40	Debian
+"The Debian Project"	"is governed"	"by the Debian the Social Contract"	40	Debian
+The Debian Constitution Debian 2008-05-18 http ://www.debian 	43
+The Debian Constitution Debian 2008-05-18 http ://www.debian 	45
+Debian Social Contract Debian 2008-11-21 http ://www.debian 	47
+Debian Social Contract Debian 2008-11-21 Debian is developed by over three thousand volunteers http ://www.debian 	49
+"Debian Social Contract Debian 2008-11-21 Debian"	"is developed"	"by over three thousand volunteers"	49	Debian
+Debian 6.0 	51
+" Squeeze " to be released with completely free Linux Kernel Debian 2010-12-15 http ://www.debian 	52
+Debian 6.0 	54
+" Squeeze " to be released with completely free Linux Kernel Debian 2010-12-15 from around the world and supported by donations through several nonprofit organization around the world . 	55
+A Brief History of Debian : Debian Releases Debian 2008-10-31 http ://www.debian 	60
+A Brief History of Debian : Debian Releases Debian 2008-10-31 the owner of the Debian trademark and umbrella organization for various other community free software projects . 	64
+2008-05-12 Thus , the Debian Project is an independent decentralized organization ; it is not backed by a company like Linux distributions such as Ubuntu , openSUSE , Fedora , and Mandriva . 	69
+"the Debian Project"	"is"	"an independent decentralized organization"	69	Debian
+"the Debian Project"	"is"	"an independent decentralized organization"	69	Linux
+"the Debian Project"	"is"	"an independent decentralized organization"	69	Linux
+"the Debian Project"	"is"	"an independent decentralized organization"	69	Linux
+"the Debian Project"	"is"	"an independent decentralized organization"	69	Linux
+The cost of developing all the packages included in Debian 5.0 	70
+"The cost of developing all the packages"	"included"	"in Debian 5.0"	70	Debian
+Measuring Lenny : the size of Debian 5.0 	73
+Measuring Lenny : the size of Debian 5.0 	75
+Debian GNU/Linux Ohloh .net 	79
+Debian GNU/Linux Ohloh .net 	82
+Debian is known for an abundance of options . 	83
+"Debian"	"is known"	"for an abundance of options"	83	Debian
+Debian 6.0 	86
+" Squeeze " released Debian 2011-02-06 http ://www.debian 	87
+Debian 6.0 	89
+" Squeeze " released Debian 2011-02-06 using the Linux kernel . 	90
+The Debian GNU/Linux FAQ : Compatibility issues Debian 2008-05-12 http ://www.debian 	96
+The Debian GNU/Linux FAQ : Compatibility issues Debian 2008-05-12 The Debian standard install makes use of the GNOME desktop environment . 	99
+"2008-05-12 The Debian standard"	"install"	"Compatibility issues Debian"	99	Debian
+"2008-05-12 The Debian standard"	"install"	"Compatibility issues"	99	Debian
+Downloading Debian CD/DVD images via HTtp ://FTP Debian 2008-12-11 http ://www.debian 	105
+Downloading Debian CD/DVD images via HTtp ://FTP Debian 2008-12-11 The remaining discs , which span five DVDs or over thirty CDs , contain all packages currently available and are not necessary for a standard install . 	107
+"FTP Debian 2008-12-11 The remaining discs"	"contain"	"all packages currently available"	107	Debian
+"FTP Debian 2008-12-11 The remaining discs"	"contain"	"all packages currently are not necessary for a standard install"	107	Debian
+Installing Debian GNU/Linux via the Internet Debian 2008-12-11 http ://www.debian 	112
+Installing Debian GNU/Linux via the Internet Debian 2008-12-11 These CD/DVD images can be freely obtained by web download , BitTorrent , jigdo or from online retailers . 	114
+"Installing Debian GNU/Linux via the Internet Debian 2008-12-11 These CD/DVD images"	"can be obtained"	"by web download freely"	114	Linux
+"Installing Debian GNU/Linux via the Internet Debian 2008-12-11 These CD/DVD images"	"can be obtained"	"by web BitTorrent freely"	114	Linux
+"Installing Debian GNU/Linux via the Internet Debian 2008-12-11 These CD/DVD images"	"can be obtained"	"by web jigdo freely"	114	Linux
+"Installing Debian GNU/Linux via the Internet Debian 2008-12-11 These CD/DVD images"	"can be obtained"	"by web from online retailers freely"	114	Linux
+"Installing Debian GNU/Linux via the Internet Debian 2008-12-11 These CD/DVD images"	"can be obtained"	"by web download"	114	Linux
+"Installing Debian GNU/Linux via the Internet Debian 2008-12-11 These CD/DVD images"	"can be obtained"	"by web BitTorrent"	114	Linux
+"Installing Debian GNU/Linux via the Internet Debian 2008-12-11 These CD/DVD images"	"can be obtained"	"by web jigdo"	114	Linux
+"Installing Debian GNU/Linux via the Internet Debian 2008-12-11 These CD/DVD images"	"can be obtained"	"by web from online retailers"	114	Linux
+Debian GNU/Linux on CDs Debian 2009-01-06 http ://www.debian 	117
+Debian GNU/Linux on CDs Debian 2009-01-06 Debian was one of the earlier Linux distributions to compose itself from packages , Debian and the grass roots of Linux http ://www.itpro.co.uk/applications/features/135084/debian-and-the-grass-roots-of-linux 	119
+"Debian GNU/Linux on CDs Debian 2009-01-06 Debian"	"was one www.itpro.co.uk/applications/features/135084/debian-and-the-grass-roots-of-linux"	"of the earlier Linux distributions to compose itself from packages"	119	Linux
+"Debian GNU/Linux on CDs Debian 2009-01-06 Debian"	"was one www.itpro.co.uk/applications/features/135084/debian-and-the-grass-roots-of-linux"	"of the earlier Linux distributions to compose itself from Debian"	119	Linux
+"Debian GNU/Linux on CDs Debian 2009-01-06 Debian"	"was one www.itpro.co.uk/applications/features/135084/debian-and-the-grass-roots-of-linux"	"of the earlier Linux distributions to compose itself from the grass roots of Linux http"	119	Linux
+"Debian GNU/Linux on CDs Debian 2009-01-06 Debian"	"was"	"one www.itpro.co.uk/applications/features/135084/debian-and-the-grass-roots-of-linux"	119	Linux
+"the earlier Linux distributions"	"be compose"	"itself from packages"	119	Linux
+"the earlier Linux distributions"	"be compose"	"itself from Debian"	119	Linux
+"the earlier Linux distributions"	"be compose"	"itself from the grass roots of Linux http"	119	Linux
+Hillesley Richard 2007-11-05 2008-10-31 Debian and the grass roots of Linux http ://www.itpro.co.uk/applications/features/135084/debian-and-the-grass-roots-of-linux 	121
+Hillesley Richard 2007-11-05 2008-10-31 and robust package management is perhaps Debian 's most prominent feature . 	123
+"Hillesley Richard 2007-11-05 2008-10-31"	"is"	"Debian 's most prominent feature perhaps 123"	123	Debian
+"Hillesley 2007-11-05 2008-10-31 robust package management"	"is"	"Debian 's most prominent feature perhaps 123"	123	Debian
+"Hillesley Richard 2007-11-05 2008-10-31"	"is"	"Debian 's most prominent feature 123"	123	Debian
+"Hillesley 2007-11-05 2008-10-31 robust package management"	"is"	"Debian 's most prominent feature 123"	123	Debian
+"Hillesley 2007-11-05 2008-10-31 robust package management"	"is"	"Debian 's most prominent feature 123"	123	Debian
+dpkg is the base of the Debian package management system . 	125
+"dpkg"	"is the base"	"of the Debian package management system"	125	Debian
+Debian Wiki dpkg Debian 2008-12-10 http ://wiki.debian 	130
+Debian Wiki dpkg Debian 2008-12-10 GDebi is a tool that expands the functionality of dpkg by not only installing local .deb 	132
+A Debian Live system is a version of Debian that can be booted directly from removable media ( CDs , DVDs , USB keys ) or via netboot without having to install it on the hard drive . 	137
+"A Debian Live system"	"is a version"	"of Debian"	137	Debian
+"A Debian Live system"	"is"	"a version"	137	Debian
+"a version of Debian"	"can be booted"	"directly from removable media CDs"	137	Debian
+"a version of Debian"	"can be booted"	"directly via removable media CDs netboot"	137	Debian
+"a version of Debian"	"can be booted"	"directly without having to install it on the hard drive"	137	Debian
+"a version of Debian"	"can be booted"	"directly"	137	Debian
+.org/DebianLive/ 	139
+DebianLive : Debian Wiki Debian 2008-10-31 http ://wiki.debian 	140
+.org/DebianLive/ 	141
+DebianLive : Debian Wiki Debian 2008-10-31 This allows the user to try out Debian before installing it or use it as a boot-disk . 	142
+DebianLive : Debian Wiki Debian 2008-10-31 This allows the user to try out Debian before installing it or use it as a boot-disk . 	142	Debian
+DebianLive : Debian Wiki Debian 2008-10-31 This allows the user to try out Debian before installing it or use it as a boot-disk . 	142	Debian
+DebianLive : Debian Wiki Debian 2008-10-31 This allows the user to try out Debian before installing it or use it as a boot-disk . 	142	Debian
+There are prebuilt Debian Live images for rescue , standard , GNOME , KDE Plasma Workspaces , Xfce and LXDE for several architectures . 	143
+"prebuilt Debian Live images for rescue for several architectures"	"There are"	"143"	143	Debian
+"prebuilt Debian Live images for standard for several architectures"	"There are"	"143"	143	Debian
+"prebuilt Debian Live images for GNOME for several architectures"	"There are"	"143"	143	Debian
+"prebuilt Debian Live images for KDE Plasma Workspaces for several architectures"	"There are"	"143"	143	Debian
+"prebuilt Debian Live images for Xfce for several architectures"	"There are"	"143"	143	Debian
+"prebuilt Debian Live images for LXDE for several architectures"	"There are"	"143"	143	Debian
+A hard disk installation can be achieved using the Debian Installer included in the live image . 	144
+"A hard disk installation"	"can be achieved"	"using the Debian Installer"	144	Debian
+DebianLive/ live-build : Debian Wiki Debian 2011-08-15 http ://live .debian 	149
+DebianLive/ live-build : Debian Wiki Debian 2011-08-15 Live -build can not only generate CD Images , but also bootable DVDs , images for USB thumb drives , or netboot images . 	151
+"Debian Wiki Debian 2011-08-15 Live build"	"can not generate"	"CD Images only"	151	Debian
+"Debian Wiki Debian 2011-08-15 Live build"	"can not generate"	"CD Images"	151	Debian
+"Debian Wiki Debian 2011-08-15 Live build"	"can not bootable DVDs"	"CD Images only"	151	Debian
+"Debian Wiki Debian 2011-08-15 Live build"	"can not bootable DVDs"	"CD Images also"	151	Debian
+"Debian Wiki Debian 2011-08-15 Live build"	"can not bootable DVDs"	"CD Images"	151	Debian
+Ging is a Debian GNU/ kFreeBSD Live CD . 	153
+"Ging"	"is"	"a Debian GNU kFreeBSD Live CD"	153	Debian
+/ The Ging FAQ Debian 2008-10-31 http ://glibc-bsd .alioth.debian 	156
+/ The Ging FAQ Debian 2008-10-31 Debian offers stable and testing CD images specifically built for GNOME ( the default ) , KDE Plasma Workspaces , Xfce and LXDE . 	158
+Debian GNU/Linux 4.0 	161
+released Debian 2008-04-08 2008-10-31 http ://www.debian 	162
+Debian GNU/Linux 4.0 	164
+released Debian 2008-04-08 2008-10-31 Less common window manager such as Enlightenment , Openbox , Fluxbox , GNUstep , IceWM , Window Maker and others can also be installed . 	165
+"released Debian 2008-04-08 2008-10-31 Less common window manager such as Enlightenment"	"can be installed"	"also"	165	Debian
+"released Debian 2008-04-08 2008-10-31 Less common window manager such as Openbox"	"can be installed"	"also"	165	Debian
+"released Debian 2008-04-08 2008-10-31 Less common window manager such as Fluxbox"	"can be installed"	"also"	165	Debian
+"released Debian 2008-04-08 2008-10-31 Less common window manager such as GNUstep"	"can be installed"	"also"	165	Debian
+"released Debian 2008-04-08 2008-10-31 Less common window manager such as IceWM"	"can be installed"	"also"	165	Debian
+"released Debian 2008-04-08 2008-10-31 Less common window manager such as Window Maker"	"can be installed"	"also"	165	Debian
+"released Debian 2008-04-08 2008-10-31 Less common window manager such as others"	"can be installed"	"also"	165	Debian
+Recent releases of Debian support an increasing number of ARM -based NAS devices . 	166
+The cheap NSLU2 was supported by Debian 4.0 	167
+"The cheap NSLU2"	"was supported"	"by Debian 4.0"	167	Debian
+Upgrading your Slug LG # 161 Linuxgazette .net 	171
+Upgrading your Slug LG # 161 Linuxgazette .net 	174
+2011-07-27 and can be upgraded to Debian 6.0 	175
+Installing Debian on NSLU2 Cyrius.com 	180
+Installing Debian on NSLU2 Cyrius.com 	183
+2011-02-24 2011-07-27 Debian 5.0 	184
+What 's new in Debian GNU/Linux 5.0 	190
+"new in Debian GNU/Linux 5.0"	"'s"	"What"	190	Linux
+Debian .org 	191
+What 's new in Debian GNU/Linux 5.0 	197
+"new in Debian GNU/Linux 5.0"	"'s"	"What"	197	Linux
+Debian .org 	198
+2011-07-27 and Debian 6.0 	199
+What 's new in Debian GNU/Linux 6.0 	206
+"new in Debian GNU/Linux 6.0"	"'s"	"What"	206	Linux
+Debian .org 	207
+What 's new in Debian GNU/Linux 6.0 	213
+"new in Debian GNU/Linux 6.0"	"'s"	"What"	213	Linux
+Debian .org 	214
+2011-07-27 Other NAS devices supported by Debian , but perhaps not so widely-used by home users , include GLAN Tank The GLAN Tank is a Japanese NAS device , described on Japanese Wikipedia GLAN Tank and Thecus N2100 as of Debian 4.0, 	215
+"2011-07-27 Other NAS devices"	"be supported"	"by Debian"	215	Debian
+"2011-07-27 Other NAS perhaps not so widely-used by home users"	"be supported"	"by Debian"	215	Debian
+"2011-07-27 Other NAS devices supported by Debian"	"include"	"GLAN Tank The GLAN Tank is a Japanese NAS device described on Japanese Wikipedia GLAN Tank as of Debian 4.0"	215	Debian
+"2011-07-27 Other NAS devices supported by Debian"	"include"	"GLAN Tank The GLAN Tank is a Japanese NAS device described on Japanese Wikipedia GLAN Thecus N2100 as of Debian 4.0"	215	Debian
+"2011-07-27 Other NAS supported by Debian perhaps not so widely-used by home users"	"include"	"GLAN Tank The GLAN Tank is a Japanese NAS device described on Japanese Wikipedia GLAN Tank as of Debian 4.0"	215	Debian
+"2011-07-27 Other NAS supported by Debian perhaps not so widely-used by home users"	"include"	"GLAN Tank The GLAN Tank is a Japanese NAS device described on Japanese Wikipedia GLAN Thecus N2100 as of Debian 4.0"	215	Debian
+"GLAN Tank The GLAN Tank"	"is a Japanese NAS device"	"described on Japanese Wikipedia GLAN Tank as of Debian 4.0"	215	Debian
+"GLAN Tank The GLAN Tank"	"is a Japanese NAS device"	"described on Japanese Wikipedia GLAN Thecus N2100 as of Debian 4.0"	215	Debian
+"a Japanese NAS device"	"be described"	"on Japanese Wikipedia GLAN Tank as of Debian 4.0"	215	Debian
+"a Japanese NAS device"	"be described"	"on Japanese Wikipedia GLAN Thecus N2100 as of Debian 4.0"	215	Debian
+Release Notes for Debian GNU/Linux 4.0 	220
+( "etch" ) , ARM What 's new in Debian GNU/Linux 4.0 	221
+"etch"	"is"	"ARM"	221	Linux
+Debian .org 	222
+Release Notes for Debian GNU/Linux 4.0 	227
+( "etch" ) , ARM What 's new in Debian GNU/Linux 4.0 	228
+"etch"	"is"	"ARM"	228	Linux
+Debian .org 	229
+2007-08-16 2011-07-27 QNAP Turbo Station ( TS-109 , TS-209 , TS-409 ) and HP mv2120 as of Debian 5.0, 	230
+and QNAP Turbo NAS TS-11x , TS-21x and TS-41x , OpenRD , Lanner EM7210 and Intel SS4000-e as of Debian 6.0. 	231
+"Turbo NAS TS-11x as of Debian 6.0"	"is"	"TS-21x"	231	Debian
+"Turbo NAS TS-11x as of Debian 6.0"	"is"	"TS-41x"	231	Debian
+"QNAP Turbo NAS TS-11x Lanner EM7210 and Intel SS4000-e as of Debian 6.0"	"is"	"TS-21x"	231	Debian
+"QNAP Turbo NAS TS-11x Lanner EM7210 and Intel SS4000-e as of Debian 6.0"	"is"	"TS-41x"	231	Debian
+"Turbo NAS Lanner EM7210 as of Debian 6.0"	"is"	"TS-21x"	231	Debian
+"Turbo NAS Lanner EM7210 as of Debian 6.0"	"is"	"TS-41x"	231	Debian
+"Turbo NAS Intel SS4000-e as of Debian 6.0"	"is"	"TS-21x"	231	Debian
+"Turbo NAS Intel SS4000-e as of Debian 6.0"	"is"	"TS-41x"	231	Debian
+"Turbo NAS TS-11x as of Debian 6.0"	"is"	"OpenRD"	231	Debian
+"QNAP Turbo NAS TS-11x Lanner EM7210 and Intel SS4000-e as of Debian 6.0"	"is"	"OpenRD"	231	Debian
+"Turbo NAS Lanner EM7210 as of Debian 6.0"	"is"	"OpenRD"	231	Debian
+"Turbo NAS Intel SS4000-e as of Debian 6.0"	"is"	"OpenRD"	231	Debian
+Debian was first announced on 16 August 1993 by Ian Murdock , http ://www.debian 	232
+"Debian"	"was announced"	"on 16 August 1993 first"	232	Debian
+"Debian"	"was announced"	"on 16 August 1993 by Ian Murdock"	232	Debian
+"Debian"	"was announced"	"on 16 August 1993"	232	Debian
+A Brief History of Debian : Introduction : What is the Debian Project ? Debian 2008-05-12 http ://www.debian 	235
+A Brief History of Debian : Introduction : What is the Debian Project ? Debian 2008-05-12 who initially called the system " the Debian Linux Release " . 	238
+"Debian 2008-05-12"	"called"	"the system the Debian Linux Release initially"	238	Linux
+"Debian 2008-05-12"	"called"	"the system the Debian Linux Release"	238	Linux
+2008-10-31 The word " Debian " was formed as a combination of the first name of his then-girlfriend Debra Lynn and his own first name . 	257
+"2008-10-31 The word Debian"	"was formed"	"as a combination of the first name of his then-girlfriend Debra Lynn"	257	Debian
+"2008-10-31 The word Debian"	"was formed"	"as a combination of the first name of his then-girlfriend Debra his own first name"	257	Debian
+Getting Started with Linux : Lesson 1 / About Debian 2008-10-31 www.linux 	261
+Getting Started with Linux : Lesson 1 / About Debian 2008-10-31 www.linux 	261	Linux
+Getting Started with Linux : Lesson 1 / About Debian 2008-10-31 www.linux 	266
+Getting Started with Linux : Lesson 1 / About Debian 2008-10-31 www.linux 	266	Linux
+Prior to Debian 's release , the Softlanding Linux System ( SLS ) had been the first Linux distribution compiled from various software packages , and was a popular basis for other distributions in 1993-1994 . 	268
+Prior to Debian 's release , the Softlanding Linux System ( SLS ) had been the first Linux distribution compiled from various software packages , and was a popular basis for other distributions in 1993-1994 . 	268	Debian
+"the Softlanding Linux System"	"is"	"SLS"	268	Linux
+"the Softlanding Linux System"	"had been"	"the first Linux distribution"	268	Linux
+In 1993 Murdock also released the Debian Manifesto , Appendix A: The Debian Manifesto http ://www.debian 	278
+"In 1993 Murdock"	"released"	"the Debian Manifesto The Debian Manifesto http www.debian also"	278	Debian
+"In 1993 Murdock"	"released"	"the Debian Manifesto The Debian Manifesto http www.debian"	278	Debian
+"the Debian Manifesto The Debian Manifesto http www.debian"	"is"	"Appendix A"	278	Debian
+Debian 2008-08-13 Appendix A: The Debian Manifesto http ://www.debian 	281
+Debian 2008-08-13 outlining his view for the new operating system . 	284
+"Debian 2008-08-13"	"be outlining"	"his view for the new operating system"	284	Debian
+In it he called for the creation of a distribution to be maintained in an open manner , in the spirit of Linux and GNU . 	285
+The Debian Project grew slowly at first and released the first 0.9x 	286
+"The Debian Project"	"grew"	"slowly at first"	286	Debian
+"The Debian Project"	"grew"	"slowly"	286	Debian
+"The Debian Project"	"released"	"the first 0.9 x slowly"	286	Debian
+"The Debian Project"	"released"	"the first 0.9 x at first"	286	Debian
+"The Debian Project"	"released"	"the first 0.9 x"	286	Debian
+A Brief History of Debian What is the Debian Project ? Debian .org 	292
+A Brief History of Debian What is the Debian Project ? Debian .org 	296
+version of Debian was released in 1996 . 	298
+"version of Debian"	"was released"	"in 1996"	298	Debian
+Perens decided to create a social contract for Debian , created a first draft , and edited suggestions from a month-long discussion on the Debian mailing lists into the Debian Social Contract and the Debian Free Software Guidelines , defining fundamental commitments for the development of the distribution . 	301
+"Perens"	"decided"	"to create a social contract for Debian"	301	Debian
+"Perens decided to create a social contract for Debian created a first draft"	"be defining"	"fundamental commitments for the development of the distribution"	301	Debian
+"Perens decided to create a social contract for Debian a first draft edited suggestions from a month-long discussion on the Debian mailing lists into the Debian Social Contract"	"be defining"	"fundamental commitments for the development of the distribution"	301	Debian
+"Perens decided to create a social contract for Debian a first draft edited suggestions from a month-long discussion on the Debian mailing lists into the Debian Social the Debian Free Software Guidelines"	"be defining"	"fundamental commitments for the development of the distribution"	301	Debian
+He broke apart the "base system" , the core packages of Debian , which had been maintained by Murdock alone , and distributed them to many maintainers . 	304
+He broke apart the "base system" , the core packages of Debian , which had been maintained by Murdock alone , and distributed them to many maintainers . 	304	Debian
+He broke apart the "base system" , the core packages of Debian , which had been maintained by Murdock alone , and distributed them to many maintainers . 	304	Debian
+He broke apart the "base system" , the core packages of Debian , which had been maintained by Murdock alone , and distributed them to many maintainers . 	304	Debian
+He created the BusyBox program to make it possible to run a Debian installer on a single floppy , and wrote a new installer . 	307
+He created the BusyBox program to make it possible to run a Debian installer on a single floppy , and wrote a new installer . 	307	Debian
+He created the BusyBox program to make it possible to run a Debian installer on a single floppy , and wrote a new installer . 	307	Debian
+He created the BusyBox program to make it possible to run a Debian installer on a single floppy , and wrote a new installer . 	307	Debian
+He created the BusyBox program to make it possible to run a Debian installer on a single floppy , and wrote a new installer . 	307	Debian
+He created the BusyBox program to make it possible to run a Debian installer on a single floppy , and wrote a new installer . 	307	Debian
+He created the BusyBox program to make it possible to run a Debian installer on a single floppy , and wrote a new installer . 	307	Debian
+Perens was also responsible for many policy and design elements of Debian that persist to this day .Perens 	308
+The Advanced Packaging Tool was deployed during this time and the first port to a non - Linux kernel , Debian GNU/Hurd , was started . 	312
+"the first port to a non Linux kernel"	"is"	"Debian GNU/Hurd"	312	Linux
+The first Linux distribution based on Debian , namely Libranet , Corel Linux and Stormix 's Storm Linux , were started in 1999 . 	313
+"The first Linux distribution"	"be based"	"on Debian"	313	Linux
+"The first Linux distribution"	"be based"	"on namely Libranet"	313	Linux
+"The first Linux distribution"	"be based"	"on Corel Linux"	313	Linux
+"The first Linux distribution"	"be based"	"on Stormix 's Storm Linux"	313	Linux
+"The first Linux distribution"	"be based"	"on Stormix 's Storm Linux"	313	Linux
+"The first Linux distribution based on Debian"	"were started"	"in 1999"	313	Linux
+"The first Linux distribution based on namely Libranet"	"were started"	"in 1999"	313	Linux
+"The first Linux distribution based on Corel Linux"	"were started"	"in 1999"	313	Linux
+"The first Linux distribution based on Stormix 's Storm Linux"	"were started"	"in 1999"	313	Linux
+Debian GNU/Linux 2.2 	318
+, the " Joel 'Espy ' Klecker " release , is officially released Debian .org 	319
+Debian GNU/Linux 2.2 	322
+, the " Joel 'Espy ' Klecker " release , is officially released Debian .org 	323
+codenamed woody , ( each Debian release is named after a character in the movie Toy Story ) , a stable release which would see relatively few updates until the following release . 	327
+"codenamed woody each Debian release is named after a character in the movie Toy Story"	"is"	"a stable release"	327	Debian
+"each Debian release"	"is named"	"after a character in the movie Toy Story"	327	Debian
+The long release cycle employed by the Debian Project during this time drew considerable criticism from the free software community January 2012 , and this triggered the creation of Ubuntu in 2004 , to date one of the more influential Debian forks . 	328
+"The long release cycle"	"be employed"	"by the Debian Project during this time"	328	Debian
+"The long release cycle"	"be employed"	"by the Debian Project"	328	Debian
+"The long release cycle employed by the Debian Project during this time"	"be date"	"one of the more influential Debian forks"	328	Debian
+"The long release cycle employed by the Debian Project during this time"	"drew"	"considerable criticism from the free software community January 2012"	328	Debian
+"The long release cycle employed by the Debian Project during this time"	"drew"	"considerable criticism to date one of the more influential Debian forks"	328	Debian
+"The long release cycle employed by the Debian Project during this time"	"drew"	"considerable criticism"	328	Debian
+Chapter 2 - What 's new in Debian GNU/Linux 3.1 	337
+Chapter 2 - What 's new in Debian GNU/Linux 3.1 	337	Linux
+Debian 2010-08-05 http ://www.debian 	338
+Chapter 2 - What 's new in Debian GNU/Linux 3.1 	342
+Chapter 2 - What 's new in Debian GNU/Linux 3.1 	342	Linux
+Debian 2010-08-05 A new installer replaced the aging boot-floppies installer with a modular design . 	343
+"Debian 2010-08-05 A new installer"	"replaced"	"the aging boot-floppies installer with a modular design"	343	Debian
+"Debian 2010-08-05 A new installer"	"replaced"	"the aging boot-floppies installer"	343	Debian
+This release included the efforts of the Debian- Edu/ Skolelinux , Debian-Med and Debian- Accessibility sub-projects which raised the number of packages that were educational , had a medical affiliation , and ones made for people with disabilities . 	347
+"This release"	"included"	"the efforts of the Debian Edu Skolelinux Accessibility sub-projects"	347	Debian
+"This release"	"included"	"the efforts of the Debian Edu Debian-Med Accessibility sub-projects"	347	Debian
+"This release"	"included"	"the efforts of the Debian Edu Debian Accessibility sub-projects"	347	Debian
+"This release"	"ones"	"the efforts of the Debian Edu Skolelinux Accessibility sub-projects made for people with disabilities"	347	Debian
+"This release"	"ones"	"the efforts of the Debian Edu Debian-Med Accessibility sub-projects made for people with disabilities"	347	Debian
+"This release"	"ones"	"the efforts of the Debian Edu Debian Accessibility sub-projects made for people with disabilities"	347	Debian
+"This release"	"ones"	"the efforts of the Debian Edu Skolelinux Accessibility sub-projects"	347	Debian
+"This release"	"ones"	"the efforts of the Debian Edu Debian-Med Accessibility sub-projects"	347	Debian
+"This release"	"ones"	"the efforts of the Debian Edu Debian Accessibility sub-projects"	347	Debian
+"This release"	"had"	"the efforts of the Debian Edu Skolelinux Accessibility sub-projects a medical affiliation"	347	Debian
+"This release"	"had"	"the efforts of the Debian Edu Debian-Med Accessibility sub-projects a medical affiliation"	347	Debian
+"This release"	"had"	"the efforts of the Debian Edu Debian Accessibility sub-projects a medical affiliation"	347	Debian
+In 2006 , as a result of a much-publicized dispute , Mozilla software was rebranded in Debian , with Firefox becoming Iceweasel , Thunderbird becoming Icedove , along with other Mozilla programs . 	348
+"In 2006"	"Mozilla software was rebranded"	"in Debian as a result of a much-publicized dispute"	348	Debian
+"In 2006"	"Mozilla software was rebranded"	"in Debian with Firefox becoming Iceweasel"	348	Debian
+"In 2006"	"Mozilla software was rebranded"	"in Debian"	348	Debian
+"Mozilla software"	"348 In 2006 was rebranded"	"in Debian as a result of a much-publicized dispute"	348	Debian
+"Mozilla software"	"348 In 2006 was rebranded"	"in Debian with Firefox becoming Iceweasel"	348	Debian
+"Mozilla software"	"348 In 2006 was rebranded"	"in Debian"	348	Debian
+The Mozilla Corporation stated that Debian may not use the Firefox trademark if it distributes Firefox with modifications which have not been approved by the Mozilla Corporation . 	349
+"The Mozilla Corporation"	"stated"	"that Debian may not use the Firefox trademark if it distributes Firefox with modifications"	349	Debian
+"The Mozilla Corporation"	"stated"	"that Debian may not use the Firefox trademark if it distributes Firefox with modifications"	349	Debian
+"The Mozilla Corporation"	"stated"	"that Debian may not use the Firefox trademark if it distributes Firefox with modifications"	349	Debian
+Two prominent reasons that Debian modifies the Firefox software are to change the artwork , and to provide security patches . 	350
+Two prominent reasons that Debian modifies the Firefox software are to change the artwork , and to provide security patches . 	350	Debian
+Debian Free Software Guidelines consider Mozilla 's artwork non-free . 	351
+"Debian Free Software Guidelines"	"consider"	"Mozilla 's artwork non-free"	351	Debian
+Debian provides long term support for older versions of Firefox in the stable release , where Mozilla prefers that old versions are not supported . 	352
+"Debian"	"provides"	"long term support for older versions of Firefox in the stable release"	352	Debian
+Behind the Debian and Mozilla dispute over use of Firefox 2006-10-10 Lisa Hoover 2009-02-09 http ://www.linux.com/feature/57675 	356
+Behind the Debian and Mozilla dispute over use of Firefox 2006-10-10 Lisa Hoover 2009-02-09 Debian 4.0 	358
+There were approximately 18,200 binary packages maintained by more than 1,030 Debian developers . 	362
+"approximately 18,200 binary packages maintained by more than 1,030 Debian developers"	"There were"	"362"	362	Debian
+"approximately 18,200 binary packages"	"be maintained"	"by more than 1,030 Debian developers"	362	Debian
+Debian 5.0 	363
+Debian GNU/Linux 5.0 	370
+released 2009-02-15 Debian 2009-02-14 http ://www.debian 	371
+Debian GNU/Linux 5.0 	374
+released 2009-02-15 Debian 2009-02-14 The release was dedicated to Thiemo Seufer , an active developer and member of the community who died in a car accident on December 26 , 2008 . 	375
+released 2009-02-15 Debian 2009-02-14 The release was dedicated to Thiemo Seufer , an active developer and member of the community who died in a car accident on December 26 , 2008 . 	375	Debian
+"released 2009-02-15 Debian 2009-02-14 The release"	"was dedicated"	"to Thiemo Seufer"	375	Debian
+Lenny dedicated to Thiemo Seufer 2009-02-22 Debian 2009-02-14 http ://www.debian 	380
+"Lenny"	"dedicated"	"to Thiemo Seufer 2009-02-22 Debian 2009-02-14 http www.debian"	380	Debian
+"Lenny"	"dedicated"	"to Thiemo Seufer 2009-02-22 Debian 2009-02-14 http"	380	Debian
+Lenny dedicated to Thiemo Seufer 2009-02-22 Debian 2009-02-14 On September 5 , 2010 , Debian officially acquired the backports service , which provides more recent versions of some software for the stable release of Debian . 	384
+"Lenny"	"dedicated"	"to Thiemo Seufer 2009-02-22 Debian 2009-02-14 On September 5 2010"	384	Debian
+"Lenny"	"dedicated"	"to Thiemo Seufer 2009-02-22 Debian 2009-02-14"	384	Debian
+"Lenny"	"dedicated"	"to Thiemo Seufer 2009-02-22 Debian 2009-02-14"	384	Debian
+"Lenny"	"dedicated"	"to Thiemo Seufer 2009-02-22 Debian 2009-02-14"	384	Debian
+"Lenny"	"dedicated"	"to Thiemo Seufer 2009-02-22 Debian 2009-02-14"	384	Debian
+"Lenny"	"dedicated"	"to Thiemo Seufer 2009-02-22 Debian 2009-02-14"	384	Debian
+"Lenny"	"dedicated"	"to Thiemo Seufer 2009-02-22 Debian 2009-02-14"	384	Debian
+"the backports service"	"provides"	"more recent versions of some software for the stable release of Debian"	384	Debian
+Debian -- News -- Backports service becoming official 13 September 2010 http ://www.debian 	387
+Debian -- News -- Backports service becoming official 13 September 2010 Debian 6.0 	389
+"Backports service"	"be becoming"	"official 13 September 2010 Debian 6.0"	389	Debian
+For the first time , Debian GNU/ kFreeBSD was introduced with this version as a technology preview . 	391
+"For the first time Debian GNU kFreeBSD"	"was introduced"	"with this version as a technology preview"	391	Debian
+"For the first time Debian GNU kFreeBSD"	"was introduced"	"with this version"	391	Debian
+Debian 6.0 	392
+" Squeeze " released Debian -- News http ://www.debian 	393
+2011-02-06 2011-02-06 Debian 6.0 	395
+" Squeeze " released Debian -- News http ://www.debian 	396
+2011-02-06 2011-02-06 thumb300pxDiagram of the organizational structure of the project The Debian Project is a volunteer organization with three foundational documents : Currently , the project includes more than a thousand developers . 	398
+"The Debian Project"	"is a volunteer organization"	"with three foundational documents"	398	Debian
+"The Debian Project"	"is"	"a volunteer organization"	398	Debian
+The Debian GNU/Linux FAQ : Getting support for Debian GNU/Linux Debian 2008-05-12 http ://www.debian 	407
+The Debian GNU/Linux FAQ : Getting support for Debian GNU/Linux Debian 2008-05-12 For issues with single packages or domains , a public bug tracking system is used by developers and end-users . 	411
+The Debian Project Leader has several special powers , but this power is far from absolute and is rarely used . 	416
+"The Debian Project Leader"	"has"	"several special powers"	416	Debian
+A role in Debian with a similar importance to the Project Leader 's is that of a Release Manager . 	420
+The Debian organization web page 2008-11-01 Debian http ://www.debian 	424
+The Debian organization web page 2008-11-01 Debian http ://www.business 	426
+2008-05-29 The Debian Project Leader ( DPL) is the public face of the project and defines the current direction of the project . 	444
+"2008-05-29 The Debian Project Leader"	"is"	"DPL"	444	Debian
+"2008-05-29 The Debian Project Leader"	"is the public face"	"of the project"	444	Debian
+"2008-05-29 The Debian Project Leader"	"is"	"the public face"	444	Debian
+"2008-05-29 The Debian Project Leader"	"is"	"the public defines of the project the current direction of the project"	444	Debian
+"2008-05-29 The Debian Project Leader"	"is"	"the public defines the current direction of the project"	444	Debian
+A Brief History of Debian Chapter 2 : Leadership 2008-11-01 Debian http ://www.debian 	449
+A Brief History of Debian Chapter 2 : Leadership 2008-11-01 Debian A supplemental position , Debian Second in Charge ( 2IC ) , was created by Anthony Towns . 	451
+"Leadership 2008-11-01 Debian A supplemental position"	"is"	"Debian Second in Charge"	451	Debian
+"Leadership 2008-11-01 Debian A supplemental position"	"is"	"2IC"	451	Debian
+"Leadership 2008-11-01 Debian A supplemental position"	"was created"	"by Anthony Towns"	451	Debian
+DPL Platform&nbsp; — Stefano Zacchiroli 2010-04-16 Debian http ://www.debian 	457
+DPL Platform&nbsp; — Stefano Zacchiroli 2010-04-16 Debian Note that this list includes the active release managers ; it does not include the release assistants ( first introduced in 2003 ) and the retiring managers ( "release wizards " ) . 	459
+"Stefano Zacchiroli 2010-04-16 Debian"	"Note"	"that this list includes the active release managers 459 DPL Platform"	459	Debian
+The Debian project has a steady influx of applicants wishing to become developers . 	460
+"The Debian project"	"has"	"a steady influx of applicants wishing to become developers"	460	Debian
+Debian New Maintainers Debian 2008-10-31 http ://www.debian 	464
+Debian New Maintainers Debian 2008-10-31 Debian Developers join the Project for a number of reasons ; some that have been cited in the past include : http ://www.debian 	466
+"Debian New Maintainers Debian 2008-10-31 Debian Developers"	"join"	"the Project for a number of reasons"	466	Debian
+"Debian New Maintainers Debian 2008-10-31 Debian Developers"	"join"	"the Project for a number of reasons"	466	Debian
+How You Can Join Debian 2008-10-31 http ://www.debian 	468
+How You Can Join Debian 2008-10-31 http ://www.debian 	468	Debian
+How You Can Join Debian 2008-10-31 http ://www.debian 	468	Debian
+How You Can Join Debian 2008-10-31 Debian Developers may resign their positions at any time by orphaning the packages they were responsible for and sending a notice to the developers and the keyring maintainer ( so that their upload authorization can be revoked ) . 	470
+How You Can Join Debian 2008-10-31 Debian Developers may resign their positions at any time by orphaning the packages they were responsible for and sending a notice to the developers and the keyring maintainer ( so that their upload authorization can be revoked ) . 	470	Debian
+How You Can Join Debian 2008-10-31 Debian Developers may resign their positions at any time by orphaning the packages they were responsible for and sending a notice to the developers and the keyring maintainer ( so that their upload authorization can be revoked ) . 	470	Debian
+"How You Can Join Debian 2008-10-31 Debian Developers"	"may resign"	"their positions at any time"	470	Debian
+"How You Can Join Debian 2008-10-31 Debian Developers"	"may resign"	"their positions by orphaning the packages"	470	Debian
+"How You Can Join Debian 2008-10-31 Debian Developers"	"may resign"	"their positions by the packages the keyring maintainer"	470	Debian
+"How You Can Join Debian 2008-10-31 Debian Developers"	"may resign"	"their positions"	470	Debian
+Software packages uploaded to unstable are normally versions stable enough to be released by the original upstream developer , but with the added Debian- specific packaging and other modifications introduced by Debian developers . 	472
+"normally versions stable enough to be released by the original upstream developer"	"with"	"the added Debian specific packaging introduced by Debian developers"	472	Debian
+"normally versions stable enough to be released by the original upstream developer"	"with"	"the added Debian specific other modifications introduced by Debian developers"	472	Debian
+"the added Debian specific packaging"	"be introduced"	"by Debian developers"	472	Debian
+"the added Debian specific other modifications"	"be introduced"	"by Debian developers"	472	Debian
+2007-05-24 The Debian GNU/Linux FAQ Chapter 6 : The Debian FTP archives Debian http ://www .us.debian 	477
+2007-05-24 The Debian GNU/Linux FAQ Chapter 6 : The Debian FTP archives Debian After a version of a software package has remained in unstable for a certain length of time ( depending on the urgency of the software 's changes ) , that package is automatically migrated to the testing distribution . 	479
+"The Debian FTP archives Debian After a version of a software package"	"has remained"	"in unstable depending on the urgency of the software 's changes"	479	Debian
+"The Debian FTP archives Debian After a version of a software package"	"has remained"	"for a certain length of time depending on the urgency of the software 's changes"	479	Debian
+"The Debian FTP archives Debian After a version of a software package"	"has remained"	"depending on the urgency of the software 's changes"	479	Debian
+Since updates to Debian software packages between official releases do not contain new features , some choose to use the testing and unstable distributions for their newer packages . 	481
+"updates to Debian software packages between official releases"	"do not contain"	"new features"	481	Debian
+"updates to Debian software packages between official releases"	"do not contain"	"new features"	481	Debian
+"updates to Debian software packages between official releases"	"do not contain"	"new features"	481	Debian
+"updates to Debian software packages between official releases"	"do not contain"	"new features"	481	Debian
+"updates to Debian software packages between official releases"	"do not contain"	"new features"	481	Debian
+Debian security FAQ 2007-02-28 2008-10-21 Debian http ://www.debian 	486
+Debian security FAQ 2007-02-28 2008-10-21 Debian Since September 9 , 2005 http ://lists .debian 	488
+Debian testing security team Debian 2008-10-31 http ://testing-security .debian 	495
+Debian testing security team Debian 2008-10-31 After the packages in testing have matured and the goals for the next release are met , the testing distribution becomes the next stable release . 	497
+2009-02-07 thumb300pxFlowchart of the life cycle of a Debian package Each Debian software package has a maintainer who keeps track of releases by the "upstream " authors of the software and ensures that the package is compliant with Debian Policy , coheres with the rest of the distribution , and meets the standards of quality of Debian . 	507
+"Each Debian software package"	"has"	"a maintainer a Debian package"	507	Debian
+"a maintainer"	"ensures"	"track of releases that the package is compliant with Debian Policy by the upstream authors of the software"	507	Debian
+"a maintainer"	"ensures"	"track of releases that the package is compliant with Debian Policy"	507	Debian
+"the package"	"is compliant"	"with Debian Policy"	507	Debian
+2008-12-13 General Resolution : Endorse the concept of Debian Maintainers Debian http ://www.debian 	512
+2008-12-13 General Resolution : Endorse the concept of Debian Maintainers Debian Periodically , a package maintainer makes a release of a package by uploading it to the "incoming " directory of the Debian package archive ( or an "upload queue " which periodically batch-transmits packages to the incoming directory ) . 	514
+"a package maintainer"	"makes"	"a release of a package by uploading it to the incoming directory of the Debian package archive an upload queue to the incoming directory"	514	Debian
+Package uploads are automatically processed to ensure that they are well-formed ( all the requisite files are in place ) and that the package is digitally signed by a Debian developer using OpenPGP -compatible software . 	515
+"Package uploads"	"are processed"	"to ensure that they are all the requisite files are in place that the package is digitally signed by a Debian developer using OpenPGP compatible software automatically"	515	Debian
+"Package uploads"	"are processed"	"to ensure that they are all the requisite files are in place that the package is digitally signed by a Debian developer using OpenPGP compatible software"	515	Debian
+"the package"	"is signed"	"by a Debian developer using OpenPGP compatible software digitally"	515	Debian
+"the package"	"is signed"	"by a Debian developer using OpenPGP compatible software"	515	Debian
+"a Debian developer"	"be using"	"OpenPGP compatible software"	515	Debian
+All Debian developers have individual cryptographic key pairs . 	516
+"All Debian developers"	"have"	"individual cryptographic key pairs"	516	Debian
+2010-10-09 Debian Developer 's Reference Debian http ://www.debian 	520
+2010-10-09 Debian Developer 's Reference Debian Packages are signed to be able to reject uploads from hostile outsiders to the project , and to permit accountability in the event that a package contains a serious bug , a violation of policy , or malicious code . 	523
+"2010-10-09 Debian Developer"	"has"	"Reference Debian Packages"	523	Debian
+"2010-10-09 Debian Developer 's Reference Debian Packages"	"are signed"	"to be able to reject uploads from hostile outsiders to the project"	523	Debian
+"2010-10-09 Debian Developer 's Reference Debian Packages"	"are signed"	"to be able to reject uploads from hostile outsiders"	523	Debian
+"2010-10-09 Debian Developer 's Reference Debian Packages"	"are to permit"	"to be able to reject uploads from hostile outsiders to the project accountability in the event that a package contains a serious bug"	523	Debian
+"2010-10-09 Debian Developer 's Reference Debian Packages"	"are to permit"	"to be able to reject uploads from hostile outsiders to the project accountability in the event that a package contains a serious a violation of policy"	523	Debian
+"2010-10-09 Debian Developer 's Reference Debian Packages"	"are to permit"	"to be able to reject uploads from hostile outsiders to the project accountability in the event that a package contains a serious malicious code"	523	Debian
+"2010-10-09 Debian Developer 's Reference Debian Packages"	"are to permit"	"to be able to reject uploads from hostile outsiders accountability in the event that a package contains a serious bug"	523	Debian
+"2010-10-09 Debian Developer 's Reference Debian Packages"	"are to permit"	"to be able to reject uploads from hostile outsiders accountability in the event that a package contains a serious a violation of policy"	523	Debian
+"2010-10-09 Debian Developer 's Reference Debian Packages"	"are to permit"	"to be able to reject uploads from hostile outsiders accountability in the event that a package contains a serious malicious code"	523	Debian
+For packages to become candidates for the next " stable " release of the Debian distribution , they first need to be included in the "testing " suite . 	527
+For packages to become candidates for the next " stable " release of the Debian distribution , they first need to be included in the "testing " suite . 	527	Debian
+"For packages to become candidates for the next stable release of the Debian distribution"	"they need"	"to be included in the testing suite first"	527	Debian
+"For packages to become candidates for the next stable release of the Debian distribution"	"they need"	"to be included in the testing suite"	527	Debian
+2008-10-31 Debian Developer Reference Debian http ://www.debian 	531
+2008-10-31 Debian Developer Reference Debian http ://www.debian 	534
+2008-11-24 Debian "testing " distribution Debian http ://www.debian 	536
+2008-11-24 Debian "testing " distribution Debian Thus , a release-critical bug in a package on which many packages depend , such as a shared library , may prevent many packages from entering the testing area , because that library is considered deficient . 	538
+"2008-11-24 Debian testing distribution Debian Thus such as a shared library"	"is"	"a release-critical bug in a package"	538	Debian
+"2008-11-24 Debian testing distribution Debian Thus such as a shared library"	"may prevent"	"many packages from entering the testing area"	538	Debian
+"2008-11-24 Debian testing distribution Debian Thus such as a shared library"	"may prevent"	"many packages because that library is considered deficient"	538	Debian
+"2008-11-24 Debian testing distribution Debian Thus such as a shared library"	"may prevent"	"many packages"	538	Debian
+The Debian Project , being free software , handles security policy through public disclosure rather than through security through obscurity . 	544
+"The Debian Project being free software"	"handles"	"security policy through public disclosure"	544	Debian
+"The Debian Project being free software"	"handles"	"security policy public disclosure through security"	544	Debian
+"The Debian Project being free software"	"handles"	"security policy through obscurity"	544	Debian
+"The Debian Project being free software"	"handles"	"security policy"	544	Debian
+Many advisories are coordinated with other free software vendors ( Debian is a member of vendor-sec ) and are published the same day a vulnerability is made public . 	545
+"Many advisories"	"are coordinated"	"with other free software vendors Debian is a member of vendor-sec"	545	Debian
+"Many advisories"	"are are published"	"the same day with other free software vendors Debian is a member of vendor-sec"	545	Debian
+"Many advisories"	"are are published"	"the same day"	545	Debian
+"Many advisories"	"are are published"	"the same day"	545	Debian
+Debian has a security audit team that reviews the archive looking for new or unfixed security bugs . 	546
+"Debian"	"has"	"a security audit team"	546	Debian
+Debian also participates in security standardization efforts : the Debian security advisories are compatible with the Common Vulnerabilities and Exposures ( CVE ) dictionary , and Debian is represented in the Board of the Open Vulnerability and Assessment Language ( OVAL ) project . 	547
+"Debian"	"participates"	"in security standardization efforts also"	547	Debian
+"Debian"	"participates"	"in security standardization efforts"	547	Debian
+"the Debian security advisories"	"are compatible"	"with the Common Vulnerabilities"	547	Debian
+"the Debian security advisories"	"are compatible"	"with the Common Exposures CVE dictionary"	547	Debian
+"the Debian security advisories"	"are"	"compatible"	547	Debian
+"the Debian security advisories"	"are"	"compatible"	547	Debian
+"the Debian security advisories"	"are"	"compatible"	547	Debian
+/ 2008-12-13 Security Information Debian http ://www.debian 	550
+/ 2008-12-13 Security Information Debian The Debian Project offers extensive documentation and tools to harden a Debian installation both manually and automatically . 	552
+"2008-12-13 Security Information Debian The Debian Project"	"offers"	"extensive documentation to harden a Debian installation manually"	552	Debian
+"2008-12-13 Security Information Debian The Debian Project"	"offers"	"extensive tools to harden a Debian installation manually"	552	Debian
+"2008-12-13 Security Information Debian The Debian Project"	"offers"	"extensive tools to harden a Debian installation automatically"	552	Debian
+"2008-12-13 Security Information Debian The Debian Project"	"offers"	"extensive documentation to harden a Debian installation automatically"	552	Debian
+"extensive documentation"	"be harden"	"a Debian installation manually"	552	Debian
+"extensive documentation"	"be harden"	"a Debian installation automatically"	552	Debian
+"extensive tools"	"be harden"	"a Debian installation manually"	552	Debian
+"extensive tools"	"be harden"	"a Debian installation automatically"	552	Debian
+2008-12-13 Securing Debian Manual Debian http ://www.debian 	555
+2008-12-13 Securing Debian Manual Debian SELinux ( Security-Enhanced Linux ) packages are installed by default though not enabled . 	557
+"2008-12-13 Securing Debian Manual Debian SELinux"	"is"	"Security-Enhanced Linux"	557	Linux
+"2008-12-13 Securing Debian Manual Debian SELinux packages"	"are installed"	"by default though not enabled"	557	Linux
+"2008-12-13 Securing Debian Manual Debian SELinux packages"	"are installed"	"by default"	557	Linux
+What 's new in Debian GNU/Linux 5.0 	563
+"new in Debian GNU/Linux 5.0"	"'s"	"What"	563	Linux
+Debian 2009-02-18 http ://www.debian 	564
+What 's new in Debian GNU/Linux 5.0 	569
+"new in Debian GNU/Linux 5.0"	"'s"	"What"	569	Linux
+Debian 2009-02-18 Debian provides an optional hardening wrapper but does not compile their packages by default using gcc features such as PIE and buffer overflow protection to harden their software , unlike Ubuntu , Fedora and Hardened Gentoo among others . 	570
+"Debian 2009-02-18 Debian"	"provides"	"an optional hardening wrapper unlike Ubuntu among others"	570	Debian
+"Debian 2009-02-18 Debian"	"provides"	"an optional hardening wrapper unlike Fedora among others"	570	Debian
+"Debian 2009-02-18 Debian"	"provides"	"an optional hardening wrapper unlike Hardened Gentoo among others"	570	Debian
+"Debian 2009-02-18 Debian"	"provides"	"an optional hardening wrapper"	570	Debian
+"Debian 2009-02-18 Debian"	"does not compile"	"an optional hardening wrapper their packages by default using gcc features such as PIE overflow protection to harden their software"	570	Debian
+"Debian 2009-02-18 Debian"	"does not compile"	"an optional hardening wrapper their packages by default using gcc features such as buffer overflow protection to harden their software"	570	Debian
+"Debian 2009-02-18 Debian"	"does not compile"	"an optional hardening wrapper their packages unlike Ubuntu among others"	570	Debian
+"Debian 2009-02-18 Debian"	"does not compile"	"an optional hardening wrapper their packages unlike Fedora among others"	570	Debian
+"Debian 2009-02-18 Debian"	"does not compile"	"an optional hardening wrapper their packages unlike Hardened Gentoo among others"	570	Debian
+"Debian 2009-02-18 Debian"	"does not compile"	"an optional hardening wrapper their packages"	570	Debian
+/ Debian Secure by Default Debian : Secure by Default Project 2011-01-31 http ://d-sbd .alioth.debian 	577
+/ Debian Secure by Default Debian : Secure by Default Project 2011-01-31 thumbframelessDebian Installer 2011 02 , the latest stable release is version 6.0, 	579
+"Installer 2011 02"	"is"	"Default Project 2011-01-31 thumbframelessDebian version 6.0"	579	Debian
+/ 2011-02-05 Debian Releases Debian http ://www .us.debian 	583
+/ 2011-02-05 Debian Releases Debian When a new version is released , the prior stable version becomes oldstable . 	585
+"2011-02-05 Debian Releases Debian"	"the prior stable version becomes"	"oldstable When a new version is released"	585	Debian
+"2011-02-05 Debian Releases Debian"	"the prior stable version becomes"	"oldstable"	585	Debian
+The numbering scheme for the point releases up to Debian 4.0 	589
+"The numbering scheme for the point"	"releases up"	"to Debian 4.0"	589	Debian
+2009-07-21 2009-04-08 Debian GNU/Linux 4.0 	598
+updated Debian http ://www.debian 	599
+2009-07-21 2009-04-08 Debian GNU/Linux 4.0 	601
+updated Debian From Debian 5.0 	602
+( lenny ) , the numbering scheme of point releases has been changed and conforms to the GNU version numbering standard ; so , for example , the first point release of Debian 5.0 	603
+Debian squeeze waiting for development Debian http ://lists .debian 	611
+Debian squeeze waiting for development Debian The Debian security team releases security updates for the latest stable major release , and for the prior stable release for one year . 	615
+"Debian squeeze"	"be waiting"	"for development Debian The Debian security team"	615	Debian
+"Debian squeeze waiting for development Debian The Debian security team"	"releases"	"security updates for the latest stable major release"	615	Debian
+"Debian squeeze waiting for development Debian The Debian security team"	"for"	"security updates for the latest stable major release the prior stable release for one year"	615	Debian
+"Debian squeeze waiting for development Debian The Debian security team"	"for"	"security updates for the latest stable major release"	615	Debian
+Debian testing security team 2008-10-31 Debian http ://secure-testing-master.debian 	623
+Debian testing security team 2008-10-31 Debian For Debian 6.0 	625
+Time-based freezes are intended to allow the Debian Project to blend the predictability of time based releases with its policy of feature based releases . 	627
+The new freeze policy aims to provide better predictability of releases for users of the Debian distribution , and to allow Debian developers to do better long-term planning . 	628
+"The new freeze policy"	"aims"	"to provide better predictability of releases for users of the Debian distribution 628"	628	Debian
+"The new freeze policy"	"aims"	"to provide better predictability of releases for users of the Debian distribution to allow Debian developers to do better long-term planning"	628	Debian
+Debian developers expect that a two-year release cycle will give more time for disruptive changes , reducing inconveniences caused for users . 	629
+"Debian developers"	"expect"	"that a two-year release cycle will give more time for disruptive changes reducing inconveniences caused for users"	629	Debian
+Debian decides to adopt time-based release freezes Debian 2009-09-12 2009-07-29 http ://www.debian 	634
+"Debian"	"decides"	"to adopt time-based release"	634	Debian
+Debian decides to adopt time-based release freezes Debian 2009-09-12 2009-07-29 However this short freeze cycle for squeeze was abandoned . 	636
+"Debian"	"decides"	"to adopt time-based release"	636	Debian
+Debian GNU/Linux 6.0 	639
+" Squeeze " release goals Debian 2009-12-01 2009-07-30 http ://www.debian 	640
+Debian GNU/Linux 6.0 	642
+" Squeeze " release goals Debian 2009-12-01 2009-07-30 The code names of Debian releases are names of characters from the film Toy Story . 	643
+"release goals Debian 2009-12-01 2009-07-30 The code names of Debian releases"	"are 643 Squeeze names"	"of characters from the film Toy Story"	643	Debian
+"release goals Debian 2009-12-01 2009-07-30 The code names of Debian releases"	"are"	"643 Squeeze names"	643	Debian
+debian-devel-announce Release Update : freeze guidelines , transitions , BSP , rc bug fixes 2010-09-03 2010-09-03 thumbA Debian 4.0 	650
+"freeze guidelines"	"is"	"rc bug fixes 2010-09-03 2010-09-03 thumbA Debian 4.0"	650	Debian
+for Debian CDs2009-01-11Debianhttp ://www.debian 	653
+for Debian CDs2009-01-11Debian Debian has made eleven major stable releases : TBA stands for to be announced . 	655
+"for Debian CDs2009-01-11Debian Debian"	"has made"	"eleven major stable releases TBA stands for to be announced"	655	Debian
+The Debian Project offers three distributions , each with different characteristics . 	659
+"The Debian Project"	"offers"	"three distributions 659"	659	Debian
+The distributions include packages which comply with the Debian Free Software Guidelines ( DFSG) , which are included inside the main repositories . 	660
+"The distributions"	"include"	"packages"	660	Debian
+"the Debian Free Software Guidelines"	"is"	"DFSG"	660	Debian
+"the Debian Free Software Guidelines"	"are included"	"inside the main repositories"	660	Debian
+Resources for Debian Developers 2008-10-31 Debian http ://www.debian 	665
+Resources for Debian Developers 2008-10-31 Debian The Debian Free Software Guidelines ( DFSG) adhere to a relatively strict interpretation of free and open source software ( FOSS) , although it is still not endorsed by the Free Software Foundation as it includes and supports a proprietary repository and documentation that recommends non-free software . 	669
+"Debian Developers 2008-10-31 Debian The Debian Free Software Guidelines"	"is"	"DFSG"	669	Debian
+"Resources for Debian Developers 2008-10-31 Debian The Debian Free Software Guidelines"	"adhere"	"to a relatively strict interpretation of free source software although it is still not endorsed by the Free Software Foundation as it includes"	669	Debian
+"Resources for Debian Developers 2008-10-31 Debian The Debian Free Software Guidelines"	"adhere"	"to a relatively strict interpretation of free source software although it is still not endorsed by the Free Software Foundation as it supports a proprietary repository"	669	Debian
+"Resources for Debian Developers 2008-10-31 Debian The Debian Free Software Guidelines"	"adhere"	"to a relatively strict interpretation of free source software although it is still not endorsed by the Free Software Foundation as it supports a proprietary documentation"	669	Debian
+"Resources for Debian Developers 2008-10-31 Debian The Debian Free Software Guidelines"	"adhere"	"to a relatively strict interpretation of open source software although it is still not endorsed by the Free Software Foundation as it includes"	669	Debian
+"Resources for Debian Developers 2008-10-31 Debian The Debian Free Software Guidelines"	"adhere"	"to a relatively strict interpretation of open source software although it is still not endorsed by the Free Software Foundation as it supports a proprietary repository"	669	Debian
+"Resources for Debian Developers 2008-10-31 Debian The Debian Free Software Guidelines"	"adhere"	"to a relatively strict interpretation of open source software although it is still not endorsed by the Free Software Foundation as it supports a proprietary documentation"	669	Debian
+"Resources for Debian Developers 2008-10-31 Debian The Debian Free Software Guidelines"	"adhere"	"to a relatively strict interpretation of free source software"	669	Debian
+"Resources for Debian Developers 2008-10-31 Debian The Debian Free Software Guidelines"	"adhere"	"to a relatively strict interpretation of open source software"	669	Debian
+Debian Explaining Why We Do n't Endorse Other Systems FSF 2010-02-21 http ://www.gnu.org/philosophy/common-distros 	672
+Debian Explaining Why We Do n't Endorse Other Systems FSF 2010-02-21 http ://www.desktoplinux.com/news/NS8731622728.html 	674
+Debian permits binary blobs DesktopLinux.com 	675
+Debian permits binary blobs DesktopLinux.com 	677
+These two repositories are not officially part of Debian GNU/ Linux . 	679
+"These two repositories"	"are not part"	"of Debian GNU Linux"	679	Linux
+These are other repositories available in Debian : These repositories are not part of the Debian Project , they are maintained by third party organizations . 	680
+"These"	"are"	"other repositories available in Debian"	680	Debian
+"These repositories"	"are not part"	"of the Debian Project"	680	Debian
+"These repositories"	"are not"	"part"	680	Debian
+"These repositories"	"are not"	"part"	680	Debian
+They contain packages that are either more modern than the ones found in stable or include packages that are not included in the Debian Project for a variety of reasons such as : e.g 	681
+"the ones"	"be found"	"in stable"	681	Debian
+The Debian Project discourages the use of these repositories as they are not part of the project . 	685
+"The Debian Project"	"discourages"	"the use of these repositories as they are not part of the project"	685	Debian
+"The Debian Project"	"discourages"	"the use of these repositories"	685	Debian
+Debian provides repositories of more than twenty nine thousand installable packages . 	686
+"Debian"	"provides"	"repositories of more than twenty nine thousand installable packages"	686	Debian
+Chapter 2 : Basic Configuration 2008-10-31 Debian http ://www.debian 	692
+Chapter 2 : Basic Configuration 2008-10-31 Debian This is an example of the contents of this file : deb http ://ftp.us.debian 	695
+"2008-10-31 Debian This"	"is"	"an example of the contents of this file Configuration deb http ftp.us.debian"	695	Debian
+"2008-10-31 Debian This"	"is"	"an example Configuration deb http ftp.us.debian"	695	Debian
+squeeze main contrib non-free Debian has no hardware requirements beyond those of the Linux kernel and the GNU tool-sets ( gcc , coreutils , bash , etc. 	697
+"squeeze main contrib non-free Debian"	"has"	"no hardware requirements beyond those of the Linux kernel"	697	Linux
+"squeeze main contrib non-free Debian"	"the GNU tool-sets"	"no hardware requirements beyond those of the Linux kernel"	697	Linux
+"squeeze main contrib non-free Debian"	"the GNU tool-sets"	"no hardware requirements beyond those of the Linux kernel"	697	Linux
+"squeeze main contrib non-free Debian"	"the GNU tool-sets"	"no hardware requirements beyond those of the Linux kernel"	697	Linux
+"squeeze main contrib non-free Debian"	"the GNU tool-sets"	"no hardware requirements beyond those of the Linux kernel"	697	Linux
+Therefore , any architecture or platform to which these packages have been ported , and for which a Debian port exists , can run Debian . 	699
+"these packages"	"have been ported"	"any for which a Debian port exists to which"	699	Debian
+"these packages"	"have been ported"	"any for which a Debian port exists"	699	Debian
+"a Debian port"	"exists"	"for which"	699	Debian
+"any architecture"	"can run"	"Debian 699 Therefore"	699	Debian
+"any platform"	"can run"	"Debian 699 Therefore"	699	Debian
+"any for which a Debian port exists"	"can run"	"Debian 699 Therefore"	699	Debian
+"any architecture"	"can run"	"Debian 699"	699	Debian
+"any platform"	"can run"	"Debian 699"	699	Debian
+"any for which a Debian port exists"	"can run"	"Debian 699"	699	Debian
+System Requirements 2008-11-02 Debian http ://www.debian 	706
+System Requirements 2008-11-02 Debian Linux , and therefore Debian , supports many processors or " symmetric multiprocessing " . 	712
+"System Requirements 2008-11-02 Debian Linux"	"supports"	"many processors"	712	Linux
+"System Requirements 2008-11-02 Debian therefore Debian"	"supports"	"many processors"	712	Debian
+"System Requirements 2008-11-02 Debian Linux"	"symmetric multiprocessing"	"many processors"	712	Linux
+"System Requirements 2008-11-02 Debian therefore Debian"	"symmetric multiprocessing"	"many processors"	712	Debian
+Debian 's recommended system requirements differ depending on the level of installation , which corresponds to increased numbers of installed components : http ://www.debian 	714
+Debian 's recommended system requirements differ depending on the level of installation , which corresponds to increased numbers of installed components : http ://www.debian 	714	Debian
+"Debian 's recommended system requirements"	"differ"	"depending on the level of installation"	714	Debian
+Meeting Minimum Hardware Requirements 2008-10-31 Debian http ://www.debian 	717
+Meeting Minimum Hardware Requirements 2008-10-31 Debian http ://www.debian 	717	Debian
+Meeting Minimum Hardware Requirements 2008-10-31 Debian A 1&nbsp;GHz processor is the minimum recommended for desktop systems . 	720
+Meeting Minimum Hardware Requirements 2008-10-31 Debian A 1&nbsp;GHz processor is the minimum recommended for desktop systems . 	720	Debian
+"Meeting Minimum Hardware Requirements 2008-10-31 Debian A 1 GHz processor"	"is the minimum recommended"	"for desktop systems"	720	Debian
+Depending on the architecture , it is possible to install Debian with as little as 20 MB RAM for s390 or 48 MB RAM for i386 and AMD64 . 	722
+"possible to install Debian with as little as 20 MB RAM for s390 for i386"	"be Depending"	"on the architecture"	722	Debian
+"possible to install Debian with as little as 20 MB RAM for 48 MB RAM for i386"	"be Depending"	"on the architecture"	722	Debian
+"possible to install Debian with as little as 20 MB RAM for 48 MB RAM for AMD64"	"be Depending"	"on the architecture"	722	Debian
+"possible to install Debian with as little as 20 MB RAM for s390 for AMD64"	"be Depending"	"on the architecture"	722	Debian
+"possible to install Debian with as little as 20 MB RAM for s390 for AMD64"	"be Depending"	"on the architecture"	722	Debian
+"possible to install Debian with as little as 20 MB RAM for s390 for AMD64"	"be Depending"	"on the architecture"	722	Debian
+"possible to install Debian with as little as 20 MB RAM for s390 for AMD64"	"be Depending"	"on the architecture"	722	Debian
+"possible to install Debian with as little as 20 MB RAM for s390 for AMD64"	"be Depending"	"on the architecture"	722	Debian
+"possible to install Debian with as little as 20 MB RAM for s390 for AMD64"	"be Depending"	"on the architecture"	722	Debian
+"possible to install Debian with as little as 20 MB RAM for s390 for AMD64"	"be Depending"	"on the architecture"	722	Debian
+"possible to install Debian with as little as 20 MB RAM for s390 for AMD64"	"be Depending"	"on the architecture"	722	Debian
+"possible to install Debian with as little as 20 MB RAM for s390 for AMD64"	"be Depending"	"on the architecture"	722	Debian
+"possible to install Debian with as little as 20 MB RAM for s390 for AMD64"	"be Depending"	"on the architecture"	722	Debian
+"possible to install Debian with as little as 20 MB RAM for s390 for AMD64"	"be Depending"	"on the architecture"	722	Debian
+"possible to install Debian with as little as 20 MB RAM for s390 for AMD64"	"be Depending"	"on the architecture"	722	Debian
+"possible to install Debian with as little as 20 MB RAM for s390 for AMD64"	"be Depending"	"on the architecture"	722	Debian
+(embedded Debian ) improves installation to devices with minimal disk space , partially by removing documentation and installing only needed translations . 	724
+"embedded Debian"	"improves"	"installation to devices with minimal disk space partially by removing documentation"	724	Debian
+"embedded Debian"	"improves"	"installation to devices with minimal disk space partially by documentation installing only needed translations"	724	Debian
+"embedded Debian"	"improves"	"installation to devices with minimal disk space"	724	Debian
+/ 2009-02-15 Debian Ports Debian http ://www.debian 	731
+/ 2009-02-15 Debian Ports Debian and as a "technology preview" : In addition to the stable ports , in the official unstable distribution are : Unofficial ports are also available as part of the unstable distribution at : The m68k port was the second official one in Debian , and has been part of five stable Debian releases . 	733
+"Unofficial ports"	"are available"	"at The m68k port was the second official one in Debian"	733	Debian
+"Unofficial ports"	"are available"	"at The m68k port was the second one in Debian has been part of five stable Debian releases"	733	Debian
+"The m68k port"	"was"	"the second official one in Debian"	733	Debian
+"The m68k port"	"was has been the second one in Debian part"	"of five stable Debian releases"	733	Debian
+"The m68k port"	"was has been"	"the second one in Debian part"	733	Debian
+Many distributions use one of Debian 's branches as a base . 	736
+"Many distributions"	"use"	"one of Debian 's branches as a base"	736	Debian
+"Many distributions"	"use"	"one of Debian 's branches as a base"	736	Debian
+Debian was ranked second only to Ubuntu ( which is derived from Debian ) for Most Used Linux Distribution for both personal and organizational use in a 2007 survey by Survey Monkey .com 	737
+2007 Linux Desktop/Client Survey Results http ://www .surveymonkey 	739
+2008-11-02 2007 Linux Desktop/Client Survey Results http ://www .surveymonkey 	742
+2008-11-02 Debian won the 2007 poll on Server Distribution of the Year by LinuxQuestions .org 	745
+2007 LinuxQuestions .org 	747
+Members Choice Awards LinuxQuestions .org 	748
+2008-11-02 2007 LinuxQuestions .org 	752
+Members Choice Awards LinuxQuestions .org 	753
+2008-11-02 Both the Debian distribution and their website have won various awards from different organizations . 	757
+"2008-11-02 the Debian distribution"	"have won"	"various awards from different organizations"	757	Debian
+"2008-11-02 the Debian their website"	"have won"	"various awards from different organizations"	757	Debian
+Debian was awarded the 2004 Readers ' Choice Award for Favorite Linux Distribution by the Linux Journal . 	758
+"Debian"	"was awarded"	"the 2004 Readers ' Choice Award for Favorite Linux Distribution by the Linux Journal"	758	Linux
+"the 2004 Readers"	"has"	"Choice Award for Favorite Linux Distribution by the Linux Journal"	758	Linux
+2004-11-01 2008-11-02 A total of fifteen other awards have been awarded throughout Debian 's lifetime including Best Linux Distribution . 	763
+"2004-11-01 2008-11-02 A total of fifteen other awards"	"have been awarded"	"throughout Debian 's lifetime including Best Linux Distribution"	763	Linux
+"2004-11-01 2008-11-02 A total of fifteen other awards"	"have been awarded"	"throughout Debian 's lifetime including Best Linux Distribution"	763	Linux
+Debian 2008-11-02 Awards http ://www.debian 	766
+Debian 2008-11-02 Debian has also received negative assessments . 	768
+"Debian 2008-11-02 Debian"	"has received"	"negative assessments also"	768	Debian
+"Debian 2008-11-02 Debian"	"has received"	"negative assessments"	768	Debian
+In May 2008 , a Debian Developer revealed his discovery that changes made in 2006 to the random number generator in the version of the openSSL package distributed with Debian and other Debian-based distributions such as Ubuntu or Knoppix , made a variety of security keys vulnerable to a random number generator attack . 	769
+"a Debian Developer"	"revealed"	"his discovery that changes made in 2006 to the random number generator in the version of the openSSL package distributed with Debian Debian-based distributions such as Ubuntu made a variety of security keys vulnerable to a random number generator attack 769 In May 2008"	769	Debian
+"a Debian Developer"	"revealed"	"his discovery that changes made in 2006 to the random number generator in the version of the openSSL package distributed with other Debian-based distributions such as Ubuntu or Knoppix made a variety of security keys vulnerable to a random number generator attack 769 In May 2008"	769	Debian
+"a Debian Developer"	"revealed"	"his discovery that changes made in 2006 to the random number generator in the version of the openSSL package distributed with Debian Debian-based distributions such as Knoppix made a variety of security keys vulnerable to a random number generator attack 769 In May 2008"	769	Debian
+"a Debian Developer"	"revealed"	"his discovery that changes made in 2006 to the random number generator in the version of the openSSL package distributed with Debian Debian-based distributions such as Knoppix made a variety of security keys vulnerable to a random number generator attack 769 In May 2008"	769	Debian
+"a Debian Developer"	"revealed"	"his discovery that changes made in 2006 to the random number generator in the version of the openSSL package distributed with Debian Debian-based distributions such as Knoppix made a variety of security keys vulnerable to a random number generator attack 769 In May 2008"	769	Debian
+"a Debian Developer"	"revealed"	"his discovery that changes made in 2006 to the random number generator in the version of the openSSL package distributed with Debian Debian-based distributions such as Knoppix made a variety of security keys vulnerable to a random number generator attack 769 In May 2008"	769	Debian
+"a Debian Developer"	"revealed"	"his discovery that changes made in 2006 to the random number generator in the version of the openSSL package distributed with Debian Debian-based distributions such as Knoppix made a variety of security keys vulnerable to a random number generator attack 769 In May 2008"	769	Debian
+"a Debian Developer"	"revealed"	"his discovery that changes made in 2006 to the random number generator in the version of the openSSL package distributed with Debian Debian-based distributions such as Knoppix made a variety of security keys vulnerable to a random number generator attack 769 In May 2008"	769	Debian
+"a Debian Developer"	"revealed"	"his discovery that changes made in 2006 to the random number generator in the version of the openSSL package distributed with Debian Debian-based distributions such as Knoppix made a variety of security keys vulnerable to a random number generator attack 769 In May 2008"	769	Debian
+"the version of the openSSL package"	"be distributed"	"with Debian Debian-based distributions such as Ubuntu"	769	Debian
+"the version of the openSSL package"	"be distributed"	"with other Debian-based distributions such as Ubuntu or Knoppix"	769	Debian
+"the version of the openSSL package"	"be distributed"	"with Debian Debian-based distributions such as Knoppix"	769	Debian
+"changes made in 2006 to the random number generator in the version of the openSSL package distributed with Debian Debian-based distributions such as Ubuntu"	"made"	"a variety of security keys vulnerable to a random number generator attack"	769	Debian
+"changes made in 2006 to the random number generator in the version of the openSSL package distributed with other Debian-based distributions such as Ubuntu or Knoppix"	"made"	"a variety of security keys vulnerable to a random number generator attack"	769	Debian
+"changes made in 2006 to the random number generator in the version of the openSSL package distributed with Debian Debian-based distributions such as Knoppix"	"made"	"a variety of security keys vulnerable to a random number generator attack"	769	Debian
+DSA-1571-1 openssl : predictable random number generator 2008-10-31 Debian http ://www.debian 	772
+DSA-1571-1 openssl : predictable random number generator 2008-10-31 Debian http ://cve .mitre 	774
+The security weakness was caused by changes made to the openssl code by another Debian Developer in response to memory debugger warnings . 	782
+"The security weakness"	"was caused"	"by changes made to the openssl code by another Debian Developer in response to memory debugger warnings"	782	Debian
+"The security weakness"	"was caused"	"by changes made to the openssl code by another Debian Developer in response to memory debugger warnings"	782	Debian
+Debian OpenSSL Security Flaw 2008-10-31 2008-05-26 http ://cryptogon.com/ 	785
+Debian OpenSSL Security Flaw 2008-10-31 2008-05-26 The security hole was soon patched by Debian and others , but the complete resolution procedure was cumbersome for users because it involved regenerating all affected keys , and it drew criticism to Debian 's practice of making Debian- specific changes to software . 	787
+"Debian OpenSSL Security Flaw 2008-10-31 2008-05-26 The security hole"	"was patched"	"by Debian soon"	787	Debian
+"Debian OpenSSL Security Flaw 2008-10-31 2008-05-26 The security hole"	"was patched"	"by others soon"	787	Debian
+"Debian OpenSSL Security Flaw 2008-10-31 2008-05-26 The security hole"	"was patched"	"by Debian"	787	Debian
+"Debian OpenSSL Security Flaw 2008-10-31 2008-05-26 The security hole"	"was patched"	"by others"	787	Debian
+"the complete resolution procedure"	"was cumbersome"	"because it regenerating all affected keys it drew criticism to Debian 's practice of making Debian specific changes to software"	787	Debian
+"the complete resolution procedure"	"was"	"cumbersome"	787	Debian
+"the complete resolution procedure"	"was"	"cumbersome"	787	Debian
+Richard Stallman and the Free Software Foundation ( FSF ) have criticized the Debian Project for providing the non-free repository , rather than excluding this type of software entirely , http ://www.gnu.org/philosophy/common-distros 	788
+"Richard Stallman"	"have criticized"	"the Debian Project for providing the non-free repository"	788	Debian
+"Richard Stallman"	"have criticized"	"the Debian Project for providing the non-free excluding this type of software entirely http www.gnu.org/philosophy/common-distros"	788	Debian
+"Richard the Free Software Foundation"	"have criticized"	"the Debian Project for providing the non-free repository"	788	Debian
+"Richard the Free Software Foundation"	"have criticized"	"the Debian Project for providing the non-free excluding this type of software entirely http www.gnu.org/philosophy/common-distros"	788	Debian
+"Richard Stallman"	"have criticized"	"the Debian Project"	788	Debian
+"Richard the Free Software Foundation"	"have criticized"	"the Debian Project"	788	Debian
+Explaining Why We Do n't Endorse Other Systems 2009-09-28 Free Software Foundation an opinion also echoed by some in Debian including the then - Project Leader Wichert Akkerman . 	792
+Explaining Why We Do n't Endorse Other Systems 2009-09-28 Free Software Foundation an opinion also echoed by some in Debian including the then - Project Leader Wichert Akkerman . 	792	Debian
+"Why We Do n't Endorse Other Systems 2009-09-28 Free Software Foundation an opinion"	"echoed"	"by some in Debian including the then Project Leader Wichert Akkerman also"	792	Debian
+"Why We Do n't Endorse Other Systems 2009-09-28 Free Software Foundation an opinion"	"echoed"	"by some in Debian including the then Project Leader Wichert Akkerman"	792	Debian
+Wichert Akkerman 1999-06-21 The internal dissent in the Debian Project regarding the non-free section has persisted , but the last time it came to a vote in 2006 , a large majority decided to keep it . 	801
+"Akkerman 1999-06-21 The internal dissent in the Debian Project"	"be regarding"	"the non-free section"	801	Debian
+General Resolution : Status of the non-free section 2009-09-28 Debian http ://www.debian 	804
+General Resolution : Status of the non-free section 2009-09-28 Debian During the release cycles of Woody and Sarge , the Debian Project drew considerable criticism from the free software community because of the long time between stable releases . 	806
+"the Debian Project"	"drew"	"considerable criticism from the free software community Status of the non-free section 2009-09-28 Debian During the release cycles of Woody"	806	Debian
+"the Debian Project"	"drew"	"considerable criticism from the free software community Status of the non-free section 2009-09-28 Debian During the release cycles of Sarge"	806	Debian
+"the Debian Project"	"drew"	"considerable criticism of because the long time between stable releases Status of the non-free section 2009-09-28 Debian During the release cycles of Woody"	806	Debian
+"the Debian Project"	"drew"	"considerable criticism of because the long time between stable releases Status of the non-free section 2009-09-28 Debian During the release cycles of Sarge"	806	Debian
+"the Debian Project"	"drew"	"considerable criticism Status of the non-free section 2009-09-28 Debian During the release cycles of Woody"	806	Debian
+"the Debian Project"	"drew"	"considerable criticism Status of the non-free section 2009-09-28 Debian During the release cycles of Sarge"	806	Debian
+Ubuntu has releases every 6 months which are forks of Debian 's unstable distribution with bug fixes and other modifications . 	808
+"every 6 months"	"are forks"	"of Debian 's unstable distribution with bug fixes"	808	Debian
+"every 6 months"	"are forks"	"of Debian 's unstable distribution with bug other modifications"	808	Debian
+"every 6 months"	"are"	"forks"	808	Debian
+"every 6 months"	"are"	"forks"	808	Debian
+However , it may be more appropriate to compare Debian releases ( which continue to be supported after the release of subsequent versions ) to Ubuntu 's Long Term Support releases ( which are supported for five years for servers and also for five years for desktops starting with Ubuntu 12.04 	809
+However , it may be more appropriate to compare Debian releases ( which continue to be supported after the release of subsequent versions ) to Ubuntu 's Long Term Support releases ( which are supported for five years for servers and also for five years for desktops starting with Ubuntu 12.04 	809	Debian
+However , it may be more appropriate to compare Debian releases ( which continue to be supported after the release of subsequent versions ) to Ubuntu 's Long Term Support releases ( which are supported for five years for servers and also for five years for desktops starting with Ubuntu 12.04 	809	Debian
+However , it may be more appropriate to compare Debian releases ( which continue to be supported after the release of subsequent versions ) to Ubuntu 's Long Term Support releases ( which are supported for five years for servers and also for five years for desktops starting with Ubuntu 12.04 	809	Debian
+However , it may be more appropriate to compare Debian releases ( which continue to be supported after the release of subsequent versions ) to Ubuntu 's Long Term Support releases ( which are supported for five years for servers and also for five years for desktops starting with Ubuntu 12.04 	809	Debian
+However , it may be more appropriate to compare Debian releases ( which continue to be supported after the release of subsequent versions ) to Ubuntu 's Long Term Support releases ( which are supported for five years for servers and also for five years for desktops starting with Ubuntu 12.04 	809	Debian
+However , it may be more appropriate to compare Debian releases ( which continue to be supported after the release of subsequent versions ) to Ubuntu 's Long Term Support releases ( which are supported for five years for servers and also for five years for desktops starting with Ubuntu 12.04 	809	Debian
+LTS ) ; Ubuntu Wiki : Ubuntu produces a new LTS release every two years , which is therefore similar to Debian 's new two-year release cycle for post- Debian 6.0 	810
+LTS ) ; Ubuntu Wiki : Ubuntu produces a new LTS release every two years , which is therefore similar to Debian 's new two-year release cycle for post- Debian 6.0 	810	Debian
+LTS ) ; Ubuntu Wiki : Ubuntu produces a new LTS release every two years , which is therefore similar to Debian 's new two-year release cycle for post- Debian 6.0 	810	Debian
+LTS ) ; Ubuntu Wiki : Ubuntu produces a new LTS release every two years , which is therefore similar to Debian 's new two-year release cycle for post- Debian 6.0 	810	Debian
+LTS ) ; Ubuntu Wiki : Ubuntu produces a new LTS release every two years , which is therefore similar to Debian 's new two-year release cycle for post- Debian 6.0 	810	Debian
+When in need of updated versions of software , it is possible to use Debian testing instead of stable as it usually contains more modern , though slightly less stable packages . 	812
+When in need of updated versions of software , it is possible to use Debian testing instead of stable as it usually contains more modern , though slightly less stable packages . 	812	Debian
+When in need of updated versions of software , it is possible to use Debian testing instead of stable as it usually contains more modern , though slightly less stable packages . 	812	Debian
+When in need of updated versions of software , it is possible to use Debian testing instead of stable as it usually contains more modern , though slightly less stable packages . 	812	Debian
+When in need of updated versions of software , it is possible to use Debian testing instead of stable as it usually contains more modern , though slightly less stable packages . 	812	Debian
+When in need of updated versions of software , it is possible to use Debian testing instead of stable as it usually contains more modern , though slightly less stable packages . 	812	Debian
+When in need of updated versions of software , it is possible to use Debian testing instead of stable as it usually contains more modern , though slightly less stable packages . 	812	Debian
+Another alternative is to use Debian backports , which are "recompiled packages from testing ( mostly ) and unstable ( in a few cases only , e.g 	813
+"Another alternative"	"is"	"to use Debian backports"	813	Debian
+"Debian backports"	"are recompiled packages mostly"	"from testing"	813	Debian
+"Debian backports"	"are recompiled mostly unstable in a few cases only e.g"	"from testing"	813	Debian
+"Debian backports"	"are"	"recompiled packages mostly"	813	Debian
+"Debian backports"	"are"	"recompiled mostly unstable in a few cases only e.g"	813	Debian
+security updates ) , so they will run without new libraries ( wherever it is possible ) on a stable Debian distribution " . 	815
+security updates ) , so they will run without new libraries ( wherever it is possible ) on a stable Debian distribution " . 	815	Debian
+Debian Backports Debian Project 2010-04-10 http ://www.backports 	818
+Debian Backports Debian Project 2010-04-10 Free software 30em Category :Debian Category :Debian-based distributions Category :1993 introductions Category :1993 software Category :X86-64 Linux distributions Category : Free software culture and documents Category :Cross-platform software ar af:Debian als :Debian ar :دبيان bn :ডেবিয়ান map-bms :Debian be :Debian bg :Дебиан bar :Debian bs :Debian br :Debian GNU/Linux ca :Debian cs :Debian da :Debian de :Debian et :Debian el :Debian es :Debian eo :Debiano eu:Debian fa :دبیان fr :Debian ga:Debian gl:Debian GNU/Linux gu :ડેબિયન ko :데비안 hi :डेबियन hsb :Debian hr:Debian id :Debian ia :Debian os :Debian is :Debian it :Debian he :דביאן jv:Debian ku:Debian la:Debian GNU/Linux lv:Debian lt :Debian hu:Debian mg :Debian ml :ഡെബിയൻ mr :डेबिअन ऑपरेटिंग सिस्टिम ms :Debian nl :Debian ne :डेबियन ja:Debian no:Debian nn :Debian nds :Debian GNU/Linux pl :Debian pt:Debian ro:Debian GNU/Linux ru:Debian simple :Debian sk :Debian sl :Debian so :Debian sr :Debian sh :Debian fi:Debian sv:Debian GNU/Linux tl:Debian GNU/Linux ta :டெபியன ் tt :Debian te :డెబియన ్ th :เดเบียน tr :Debian uk :Debian vi:Debian zh-yue :Debian zh :Debian Software Center , originally developed for Ubuntu , is a GNOME program to discover and install applications . 	820
+"Debian Software Center"	"be developed"	"originally for Ubuntu"	820	Debian
+"Debian Software Center"	"be developed"	"originally"	820	Debian
+"Debian Software Center originally developed for Ubuntu"	"is a GNOME program"	"to discover applications"	820	Debian
+"Debian Software Center originally developed for Ubuntu"	"is a GNOME program"	"to install applications"	820	Debian
+"Debian Software Center originally developed for Ubuntu"	"is"	"a GNOME program"	820	Debian
+Debian Wiki Synaptic Debian 2008-12-10 http ://wiki.debian 	824
+Debian Wiki Synaptic Debian 2008-12-10 KPackage is KDE 's front-end for APT . 	826
+"Debian Wiki Synaptic Debian 2008-12-10 KPackage"	"is KDE 's front-end"	"for APT"	826	Debian
+"Debian Wiki Synaptic Debian 2008-12-10 KPackage"	"is"	"KDE 's front-end"	826	Debian
+What 's new in Debian GNU/Linux 6.0 	835
+"new in Debian GNU/Linux 6.0"	"'s"	"What"	835	Linux
+Debian 2011-01-08 http ://www.debian 	836
+What 's new in Debian GNU/Linux 6.0 	841
+"new in Debian GNU/Linux 6.0"	"'s"	"What"	841	Linux
+Debian 2011-01-08 http ://www.debian 	842
+Debian package management . 	846
+aptitude Debian 2011-02-24 http ://www.debian 	849
+Debian package management . 	853
+aptitude Debian 2011-02-24 aptitude is the most versatile package management tool and the preferred APT front-end for interactive package management . 	856
+"aptitude Debian 2011-02-24 aptitude"	"is"	"the most versatile package management tool"	856	Debian
+"aptitude Debian 2011-02-24 aptitude"	"is"	"the most versatile package management the preferred APT front-end for interactive package management"	856	Debian
+The Debian Social Contract defines a set of basic principles by which the project and its developers conduct affairs . 	861
+"The Debian Social Contract"	"defines"	"a set of basic principles by which the project"	861	Debian
+"The Debian Social Contract"	"defines"	"a set of basic principles by which the its developers conduct affairs"	861	Debian
+The Debian Free Software Guidelines define the criteria for "free software " and thus what software is permissible in the distribution , as referenced in the Social Contract . 	862
+"The Debian Free Software Guidelines"	"define"	"the criteria for free software thus what software is permissible in the distribution"	862	Debian
+"The Debian Free Software Guidelines"	"define"	"the criteria for free software"	862	Debian
+The Debian Constitution describes the organizational structure for formal decision-making within the Project , and enumerates the powers and responsibilities of the Debian Project Leader , the Debian Project Secretary , and the Debian Developers generally . 	865
+"The Debian Constitution"	"describes"	"the organizational structure for formal decision-making within the Project"	865	Debian
+"The Debian Constitution"	"describes"	"the organizational structure"	865	Debian
+"The Debian Constitution"	"enumerates"	"the organizational structure the powers of the Debian Project Leader for formal decision-making within the Project"	865	Debian
+"The Debian Constitution"	"enumerates"	"the organizational structure the responsibilities of the Debian Project Leader for formal decision-making within the Project"	865	Debian
+"The Debian Constitution"	"enumerates"	"the organizational structure the of the Debian Project Leader the Debian Developers generally for formal decision-making within the Project"	865	Debian
+"The Debian Constitution"	"enumerates"	"the organizational structure the powers of the Debian Project Leader"	865	Debian
+"The Debian Constitution"	"enumerates"	"the organizational structure the responsibilities of the Debian Project Leader"	865	Debian
+"The Debian Constitution"	"enumerates"	"the organizational structure the of the Debian Project Leader the Debian Developers generally"	865	Debian
+"the Debian Project Leader"	"is"	"the Debian Project Secretary"	865	Debian
+Ian Murdock ( August 1993 – March 1996 ) , founder of the Debian Project Bruce Perens ( April 1996 – December 1997 ) Ian Jackson ( January 1998 – December 1998 ) Wichert Akkerman ( January 1999 – March 2001 ) Ben Collins ( April 2001 – April 2002 ) Bdale Garbee ( April 2002 – April 2003 ) Martin Michlmayr ( March 2003 – March 2005 ) Branden Robinson ( April 2005 – April 2006 ) Anthony Towns ( April 2006 – April 2007 ) Sam Hocevar ( April 2007 – April 2008 ) Steve McIntyre ( April 2008 – April 2010 ) Stefano Zacchiroli ( April 2010 – present ) Brian C. 	866
+"Ian Murdock"	"is"	"founder of the Debian Project Bruce Perens April 1996 December 1997 Ian Jackson Wichert Akkerman January 1999 March 2001 Ben Collins April 2001 April 2002 Bdale Garbee April 2002 April 2003 Martin Michlmayr March 2003 March 2005 Branden Robinson April 2005 April 2006 Anthony Towns April 2006 April 2007 Sam Hocevar April 2007 April 2008 Steve McIntyre April 2008 April 2010 Stefano Zacchiroli April 2010 present Brian C."	866	Debian
+Bits from the ( chilly ) release team A desire to contribute back to the free-software community ( practically all applicants are users of free software ) A desire to see some specific software task accomplished ( some view the Debian user community as a valuable testing or proving ground for new software ) A desire to make , or keep , free software competitive with proprietary alternatives A desire to work closely with people who share some of their aptitudes , interests , and goals ( there is a very strong sense of community within the Debian project which some applicants do not experience in their paid jobs ) A simple enjoyment of the iterative process of software development and maintenance It must have been in unstable for the appropriate length of time ( the exact duration depends on the "urgency " of the upload ) It must not have a greater number of "release-critical " bugs filed against it than the current version in testing . 	872
+"Bits from the chilly release team A desire to contribute back to the free-software community A desire"	"be see"	"some specific software task accomplished some view the Debian user community as a valuable testing"	872	Debian
+"Bits from the chilly release team A desire to contribute back to the free-software community A desire"	"be see"	"some specific software task accomplished some the Debian user community as a valuable testing proving ground for new software A desire to make free software competitive with proprietary alternatives A desire to work closely with people"	872	Debian
+"Bits from the chilly release team A desire to contribute back to the free-software community A desire"	"be see"	"some specific software task accomplished some the Debian user community as a valuable testing proving ground for new software A desire to keep free software competitive with proprietary alternatives A desire to work closely with people"	872	Debian
+"Bits from the chilly release team A desire to contribute back to the free-software community A desire"	"be see"	"some specific software task accomplished some the Debian user community as a valuable testing proving ground for new software A desire to keep free software competitive with proprietary alternatives A desire to work closely with people"	872	Debian
+"Bits from the chilly release team A desire to contribute back to the free-software community A desire"	"be see"	"some specific software task accomplished some the Debian user community as a valuable testing proving ground for new software A desire to keep free software competitive with proprietary alternatives A desire to work closely with people"	872	Debian
+"Bits from the chilly release team A desire to contribute back to the free-software community A desire"	"be see"	"some specific software task accomplished some the Debian user community as a valuable testing proving ground for new software A desire to keep free software competitive with proprietary alternatives A desire to work closely with people"	872	Debian
+"Bits from the chilly release team A desire to contribute back to the free-software community A desire"	"be see"	"some specific software task accomplished some the Debian user community as a valuable testing proving ground for new software A desire to keep free software competitive with proprietary alternatives A desire to work closely with people"	872	Debian
+"Bits from the chilly release team A desire to contribute back to the free-software community A desire"	"be see"	"some specific software task accomplished some the Debian user community as a valuable testing proving ground for new software A desire to keep free software competitive with proprietary alternatives A desire to work closely with people"	872	Debian
+"Bits from the chilly release team A desire to contribute back to the free-software community A desire"	"be see"	"some specific software task accomplished some the Debian user community as a valuable testing proving ground for new software A desire to keep free software competitive with proprietary alternatives A desire to work closely with people"	872	Debian
+"A simple enjoyment of the iterative process of software development"	"there is a very strong sense of community"	"within the Debian project"	872	Debian
+"A simple enjoyment of the iterative process of software maintenance"	"there is a very strong sense of community"	"within the Debian project"	872	Debian
+"a very strong sense of community"	"there is A simple enjoyment of the iterative process of software development"	"within the Debian project"	872	Debian
+"a very strong sense of community"	"there is A simple enjoyment of the iterative process of software maintenance"	"within the Debian project"	872	Debian
+"some applicants"	"do not experience"	"the Debian project in their paid jobs"	872	Debian
+"some applicants"	"do not experience"	"the Debian project"	872	Debian
+lenny A A 11 architectures + 1 additional ARM binary ABI ( armel ) squeeze B B 9 architectures with Linux kernel + 2 architectures with kernel of FreeBSD stable , currently aliased squeeze , is the current release that has stable and well-tested software . 	877
+"lenny A A 11 1 additional ARM binary ABI squeeze B B 9 architectures with Linux kernel with kernel of FreeBSD stable"	"is"	"currently aliased squeeze"	877	Linux
+"lenny A A 11 1 additional ARM binary ABI squeeze B B 9 architectures with Linux 2 architectures with kernel of FreeBSD stable"	"is"	"currently aliased squeeze"	877	Linux
+"lenny A A 11 1 additional ARM binary ABI squeeze B B 9 architectures with Linux kernel with kernel of FreeBSD stable"	"is"	"the current release"	877	Linux
+"lenny A A 11 1 additional ARM binary ABI squeeze B B 9 architectures with Linux 2 architectures with kernel of FreeBSD stable"	"is"	"the current release"	877	Linux
+After Debian 6.0, 	880
+Stable 's CDs and DVDs can be found in the Debian web site . 	882
+"Stable 's CDs"	"can be found"	"in the Debian web site"	882	Debian
+"Stable 's DVDs"	"can be found"	"in the Debian web site"	882	Debian
+Security updates for testing distribution are provided by Debian testing security team . 	887
+"Security updates for testing distribution"	"are provided"	"by Debian testing security team"	887	Debian
+Testing 's CDs and DVDs can be found on the Debian web site . 	888
+"Testing 's CDs"	"can be found"	"on the Debian web site"	888	Debian
+"Testing 's DVDs"	"can be found"	"on the Debian web site"	888	Debian
+This repository is designed for Debian developers who participate in a project and need the latest libraries available , or for those who like to "live on the edge" , therefore it will not be as stable as the other distributions . 	890
+"This repository"	"is designed"	"for Debian developers therefore it will not be as stable as the other distributions"	890	Debian
+"This repository"	"is designed"	"for Debian developers"	890	Debian
+"Debian developers"	"participate"	"in a project"	890	Debian
+"Debian developers"	"need"	"the latest libraries available in a project"	890	Debian
+"Debian developers"	"need"	"the latest available for those in a project"	890	Debian
+"Debian developers"	"need"	"the latest libraries available"	890	Debian
+"Debian developers"	"need"	"the latest available for those"	890	Debian
+Debian warns that these packages are likely unstable or buggy and are to be used at the user 's own risk . 	898
+"Debian"	"warns"	"that these packages are likely unstable"	898	Debian
+"Debian"	"warns"	"that these packages are likely buggy and are to be used at the user 's own risk"	898	Debian
+"Debian"	"warns"	"that these packages likely unstable are to be used at the user 's own risk"	898	Debian
+Debian recommends to update to the new stable once it has been released . 	903
+"Debian"	"recommends"	"to update to the new stable once it has been released"	903	Debian
+"Debian"	"recommends"	"to update to the new stable"	903	Debian
+2008-10-11 Supported Hardware Debian http ://www.debian 	910
+2008-10-11 Supported Hardware Debian amd64 : x86-64 architecture designed for Intel /AMD 64-bit single/multi core PCs armel : little - endian ARM architecture on RiscPC and various embedded systems ( EABI ) sparc : Sun SPARC architecture on sun4u/v systems powerpc : PowerPC architecture ia64 : Intel Itanium ( IA-64 ) architecture mips , mipsel : MIPS architecture ( big-endian and little-endian ) s390 : IBM ESA/390 architecture and z/Architecture kfreebsd-i386 : Kernel of FreeBSD on 32-bit architecture kfreebsd-amd64 : Kernel of FreeBSD on 64-bit architecture hurd-i386 : GNU Hurd kernel on 32-bit architecture armhf : ARM hard-float architecture requiring hardware with a floating-point unit ( FPU) s390x : IBM ESA/390 architecture and z/Architecture with 64-bit userland alpha : DEC Alpha architecture avr32 : Atmel AVR32 architecture hppa : HP PA-RISC architecture m68k : Motorola 68k architecture on Amiga , Atari , Macintosh and various embedded VME systems powerpcspe : PowerPCSPE architecture ( binary-incompatible variant of the PowerPC ) sh4 : Hitachi SuperH architecture sparc64 : Sun SPARC architecture with 64-bit userland Comparison of Linux distributions DCC Alliance Debian Live List of Linux distributions Krafft Martin F. 	913
+"x86-64 architecture"	"be designed"	"for Intel AMD 64-bit single/multi core PCs armel little endian ARM architecture on RiscPC sparc Sun SPARC architecture on sun4u/v systems powerpc PowerPC architecture ia64 Intel Itanium architecture mips MIPS architecture big-endian s390 IBM ESA/390 architecture Kernel of FreeBSD on 32-bit architecture kfreebsd-amd64 Kernel of FreeBSD on 64-bit architecture hurd-i386 GNU Hurd kernel on 32-bit architecture armhf ARM hard-float architecture requiring hardware with a floating-point unit s390x IBM ESA/390 architecture with 64-bit userland alpha DEC Alpha architecture avr32 Atmel AVR32 architecture hppa HP PA-RISC architecture m68k Motorola 68k architecture on Amiga PowerPCSPE architecture binary-incompatible variant of the PowerPC sh4 Hitachi SuperH architecture sparc64 Sun SPARC architecture with 64-bit userland Comparison of Linux distributions DCC Alliance Debian Live List of Linux distributions Krafft Martin F."	913	Linux
+"x86-64 architecture"	"be designed"	"for Intel AMD 64-bit single/multi core PCs armel little endian ARM architecture on various embedded systems sparc Sun SPARC architecture on sun4u/v systems powerpc PowerPC architecture ia64 Intel Itanium architecture mips MIPS architecture big-endian and little-endian s390 IBM ESA/390 architecture and z/Architecture kfreebsd-i386 Kernel of FreeBSD on 32-bit architecture kfreebsd-amd64 Kernel of FreeBSD on 64-bit architecture hurd-i386 GNU Hurd kernel on 32-bit architecture armhf ARM hard-float architecture requiring hardware with a floating-point unit s390x IBM ESA/390 architecture and z/Architecture with 64-bit userland alpha DEC Alpha architecture avr32 Atmel AVR32 architecture hppa HP PA-RISC architecture m68k Motorola 68k architecture on Amiga Atari Macintosh and various embedded VME systems powerpcspe PowerPCSPE architecture binary-incompatible variant of the PowerPC sh4 Hitachi SuperH architecture sparc64 Sun SPARC architecture with 64-bit userland Comparison of Linux distributions DCC Alliance Debian Live List of Linux distributions Krafft Martin F."	913	Linux
+"x86-64 architecture"	"be designed"	"for Intel AMD 64-bit single/multi core PCs armel little endian ARM architecture on RiscPC sparc Sun SPARC architecture on sun4u/v systems powerpc PowerPC architecture ia64 Intel Itanium architecture mips MIPS architecture little-endian s390 IBM ESA/390 architecture and z/Architecture kfreebsd-i386 Kernel of FreeBSD on 32-bit architecture kfreebsd-amd64 Kernel of FreeBSD on 64-bit architecture hurd-i386 GNU Hurd kernel on 32-bit architecture armhf ARM hard-float architecture requiring hardware with a floating-point unit s390x IBM ESA/390 architecture and z/Architecture with 64-bit userland alpha DEC Alpha architecture avr32 Atmel AVR32 architecture hppa HP PA-RISC architecture m68k Motorola 68k architecture on Amiga Atari Macintosh and various embedded VME systems powerpcspe PowerPCSPE architecture binary-incompatible variant of the PowerPC sh4 Hitachi SuperH architecture sparc64 Sun SPARC architecture with 64-bit userland Comparison of Linux distributions DCC Alliance Debian Live List of Linux distributions Krafft Martin F."	913	Linux
+"x86-64 architecture"	"be designed"	"for Intel AMD 64-bit single/multi core PCs armel little endian ARM architecture on RiscPC sparc Sun SPARC architecture on sun4u/v systems powerpc PowerPC architecture ia64 Intel Itanium architecture mips MIPS architecture big-endian s390 IBM ESA/390 z/Architecture kfreebsd-i386 Kernel of FreeBSD on 32-bit architecture kfreebsd-amd64 Kernel of FreeBSD on 64-bit architecture hurd-i386 GNU Hurd kernel on 32-bit architecture armhf ARM hard-float architecture requiring hardware with a floating-point unit s390x IBM ESA/390 architecture and z/Architecture with 64-bit userland alpha DEC Alpha architecture avr32 Atmel AVR32 architecture hppa HP PA-RISC architecture m68k Motorola 68k architecture on Amiga Atari Macintosh and various embedded VME systems powerpcspe PowerPCSPE architecture binary-incompatible variant of the PowerPC sh4 Hitachi SuperH architecture sparc64 Sun SPARC architecture with 64-bit userland Comparison of Linux distributions DCC Alliance Debian Live List of Linux distributions Krafft Martin F."	913	Linux
+"x86-64 architecture"	"be designed"	"for Intel AMD 64-bit single/multi core PCs armel little endian ARM architecture on RiscPC sparc Sun SPARC architecture on sun4u/v systems powerpc PowerPC architecture ia64 Intel Itanium architecture mips MIPS architecture big-endian s390 IBM ESA/390 architecture Kernel of FreeBSD on 32-bit architecture kfreebsd-amd64 Kernel of FreeBSD on 64-bit architecture hurd-i386 GNU Hurd kernel on 32-bit architecture armhf ARM hard-float architecture requiring hardware with a floating-point unit s390x IBM ESA/390 z/Architecture with 64-bit userland alpha DEC Alpha architecture avr32 Atmel AVR32 architecture hppa HP PA-RISC architecture m68k Motorola 68k architecture on Amiga Atari Macintosh and various embedded VME systems powerpcspe PowerPCSPE architecture binary-incompatible variant of the PowerPC sh4 Hitachi SuperH architecture sparc64 Sun SPARC architecture with 64-bit userland Comparison of Linux distributions DCC Alliance Debian Live List of Linux distributions Krafft Martin F."	913	Linux
+"x86-64 architecture"	"be designed"	"for Intel AMD 64-bit single/multi core PCs armel little endian ARM architecture on RiscPC sparc Sun SPARC architecture on sun4u/v systems powerpc PowerPC architecture ia64 Intel Itanium architecture mips MIPS architecture big-endian s390 IBM ESA/390 architecture Kernel of FreeBSD on 32-bit architecture kfreebsd-amd64 Kernel of FreeBSD on 64-bit architecture hurd-i386 GNU Hurd kernel on 32-bit architecture armhf ARM hard-float architecture requiring hardware with a floating-point unit s390x IBM ESA/390 architecture with 64-bit userland alpha DEC Alpha architecture avr32 Atmel AVR32 architecture hppa HP PA-RISC architecture m68k Motorola 68k architecture on Atari PowerPCSPE architecture binary-incompatible variant of the PowerPC sh4 Hitachi SuperH architecture sparc64 Sun SPARC architecture with 64-bit userland Comparison of Linux distributions DCC Alliance Debian Live List of Linux distributions Krafft Martin F."	913	Linux
+"x86-64 architecture"	"be designed"	"for Intel AMD 64-bit single/multi core PCs armel little endian ARM architecture on RiscPC sparc Sun SPARC architecture on sun4u/v systems powerpc PowerPC architecture ia64 Intel Itanium architecture mips MIPS architecture big-endian s390 IBM ESA/390 architecture Kernel of FreeBSD on 32-bit architecture kfreebsd-amd64 Kernel of FreeBSD on 64-bit architecture hurd-i386 GNU Hurd kernel on 32-bit architecture armhf ARM hard-float architecture requiring hardware with a floating-point unit s390x IBM ESA/390 architecture with 64-bit userland alpha DEC Alpha architecture avr32 Atmel AVR32 architecture hppa HP PA-RISC architecture m68k Motorola 68k architecture on Macintosh PowerPCSPE architecture binary-incompatible variant of the PowerPC sh4 Hitachi SuperH architecture sparc64 Sun SPARC architecture with 64-bit userland Comparison of Linux distributions DCC Alliance Debian Live List of Linux distributions Krafft Martin F."	913	Linux
+"x86-64 architecture"	"be designed"	"for Intel AMD 64-bit single/multi core PCs armel little endian ARM architecture on RiscPC sparc Sun SPARC architecture on sun4u/v systems powerpc PowerPC architecture ia64 Intel Itanium architecture mips MIPS architecture big-endian s390 IBM ESA/390 architecture Kernel of FreeBSD on 32-bit architecture kfreebsd-amd64 Kernel of FreeBSD on 64-bit architecture hurd-i386 GNU Hurd kernel on 32-bit architecture armhf ARM hard-float architecture requiring hardware with a floating-point unit s390x IBM ESA/390 architecture with 64-bit userland alpha DEC Alpha architecture avr32 Atmel AVR32 architecture hppa HP PA-RISC architecture m68k Motorola 68k architecture on various embedded VME systems powerpcspe PowerPCSPE architecture binary-incompatible variant of the PowerPC sh4 Hitachi SuperH architecture sparc64 Sun SPARC architecture with 64-bit userland Comparison of Linux distributions DCC Alliance Debian Live List of Linux distributions Krafft Martin F."	913	Linux
+"Intel Itanium architecture mips MIPS architecture big-endian s390 IBM ESA/390 architecture Kernel of FreeBSD on 32-bit architecture kfreebsd-amd64 Kernel of FreeBSD on 64-bit architecture hurd-i386 GNU Hurd kernel on 32-bit architecture armhf ARM hard-float architecture requiring hardware with a floating-point unit s390x IBM ESA/390 architecture with 64-bit userland alpha DEC Alpha architecture avr32 Atmel AVR32 architecture hppa HP PA-RISC architecture m68k Motorola 68k architecture on Amiga PowerPCSPE architecture binary-incompatible variant of the PowerPC sh4 Hitachi SuperH architecture sparc64 Sun SPARC architecture with 64-bit userland Comparison of Linux distributions DCC Alliance Debian Live List of Linux distributions Krafft Martin F."	"is"	"mipsel"	913	Linux
+"Intel Itanium architecture mips MIPS architecture little-endian s390 IBM ESA/390 architecture and z/Architecture kfreebsd-i386 Kernel of FreeBSD on 32-bit architecture kfreebsd-amd64 Kernel of FreeBSD on 64-bit architecture hurd-i386 GNU Hurd kernel on 32-bit architecture armhf ARM hard-float architecture requiring hardware with a floating-point unit s390x IBM ESA/390 architecture and z/Architecture with 64-bit userland alpha DEC Alpha architecture avr32 Atmel AVR32 architecture hppa HP PA-RISC architecture m68k Motorola 68k architecture on Amiga Atari Macintosh and various embedded VME systems powerpcspe PowerPCSPE architecture binary-incompatible variant of the PowerPC sh4 Hitachi SuperH architecture sparc64 Sun SPARC architecture with 64-bit userland Comparison of Linux distributions DCC Alliance Debian Live List of Linux distributions Krafft Martin F."	"is"	"mipsel"	913	Linux
+"Intel Itanium architecture mips MIPS architecture big-endian s390 IBM ESA/390 z/Architecture kfreebsd-i386 Kernel of FreeBSD on 32-bit architecture kfreebsd-amd64 Kernel of FreeBSD on 64-bit architecture hurd-i386 GNU Hurd kernel on 32-bit architecture armhf ARM hard-float architecture requiring hardware with a floating-point unit s390x IBM ESA/390 architecture and z/Architecture with 64-bit userland alpha DEC Alpha architecture avr32 Atmel AVR32 architecture hppa HP PA-RISC architecture m68k Motorola 68k architecture on Amiga Atari Macintosh and various embedded VME systems powerpcspe PowerPCSPE architecture binary-incompatible variant of the PowerPC sh4 Hitachi SuperH architecture sparc64 Sun SPARC architecture with 64-bit userland Comparison of Linux distributions DCC Alliance Debian Live List of Linux distributions Krafft Martin F."	"is"	"mipsel"	913	Linux
+"Intel Itanium architecture mips MIPS architecture big-endian s390 IBM ESA/390 architecture Kernel of FreeBSD on 32-bit architecture kfreebsd-amd64 Kernel of FreeBSD on 64-bit architecture hurd-i386 GNU Hurd kernel on 32-bit architecture armhf ARM hard-float architecture requiring hardware with a floating-point unit s390x IBM ESA/390 z/Architecture with 64-bit userland alpha DEC Alpha architecture avr32 Atmel AVR32 architecture hppa HP PA-RISC architecture m68k Motorola 68k architecture on Amiga Atari Macintosh and various embedded VME systems powerpcspe PowerPCSPE architecture binary-incompatible variant of the PowerPC sh4 Hitachi SuperH architecture sparc64 Sun SPARC architecture with 64-bit userland Comparison of Linux distributions DCC Alliance Debian Live List of Linux distributions Krafft Martin F."	"is"	"mipsel"	913	Linux
+"Intel Itanium architecture mips MIPS architecture big-endian s390 IBM ESA/390 architecture Kernel of FreeBSD on 32-bit architecture kfreebsd-amd64 Kernel of FreeBSD on 64-bit architecture hurd-i386 GNU Hurd kernel on 32-bit architecture armhf ARM hard-float architecture requiring hardware with a floating-point unit s390x IBM ESA/390 architecture with 64-bit userland alpha DEC Alpha architecture avr32 Atmel AVR32 architecture hppa HP PA-RISC architecture m68k Motorola 68k architecture on Atari PowerPCSPE architecture binary-incompatible variant of the PowerPC sh4 Hitachi SuperH architecture sparc64 Sun SPARC architecture with 64-bit userland Comparison of Linux distributions DCC Alliance Debian Live List of Linux distributions Krafft Martin F."	"is"	"mipsel"	913	Linux
+"Intel Itanium architecture mips MIPS architecture big-endian s390 IBM ESA/390 architecture Kernel of FreeBSD on 32-bit architecture kfreebsd-amd64 Kernel of FreeBSD on 64-bit architecture hurd-i386 GNU Hurd kernel on 32-bit architecture armhf ARM hard-float architecture requiring hardware with a floating-point unit s390x IBM ESA/390 architecture with 64-bit userland alpha DEC Alpha architecture avr32 Atmel AVR32 architecture hppa HP PA-RISC architecture m68k Motorola 68k architecture on Macintosh PowerPCSPE architecture binary-incompatible variant of the PowerPC sh4 Hitachi SuperH architecture sparc64 Sun SPARC architecture with 64-bit userland Comparison of Linux distributions DCC Alliance Debian Live List of Linux distributions Krafft Martin F."	"is"	"mipsel"	913	Linux
+"Intel Itanium architecture mips MIPS architecture big-endian s390 IBM ESA/390 architecture Kernel of FreeBSD on 32-bit architecture kfreebsd-amd64 Kernel of FreeBSD on 64-bit architecture hurd-i386 GNU Hurd kernel on 32-bit architecture armhf ARM hard-float architecture requiring hardware with a floating-point unit s390x IBM ESA/390 architecture with 64-bit userland alpha DEC Alpha architecture avr32 Atmel AVR32 architecture hppa HP PA-RISC architecture m68k Motorola 68k architecture on various embedded VME systems powerpcspe PowerPCSPE architecture binary-incompatible variant of the PowerPC sh4 Hitachi SuperH architecture sparc64 Sun SPARC architecture with 64-bit userland Comparison of Linux distributions DCC Alliance Debian Live List of Linux distributions Krafft Martin F."	"is"	"mipsel"	913	Linux
+"ARM hard-float architecture DEC Alpha architecture avr32 Atmel AVR32 architecture hppa HP PA-RISC architecture m68k Motorola 68k architecture on Amiga PowerPCSPE architecture binary-incompatible variant of the PowerPC sh4 Hitachi SuperH architecture sparc64 Sun SPARC architecture with 64-bit userland Comparison of Linux distributions DCC Alliance Debian Live List of Linux distributions Krafft Martin F."	"be requiring"	"hardware with a floating-point unit s390x IBM ESA/390 architecture with 64-bit userland alpha"	913	Linux
+"ARM hard-float architecture DEC Alpha architecture avr32 Atmel AVR32 architecture hppa HP PA-RISC architecture m68k Motorola 68k architecture on Amiga PowerPCSPE architecture binary-incompatible variant of the PowerPC sh4 Hitachi SuperH architecture sparc64 Sun SPARC architecture with 64-bit userland Comparison of Linux distributions DCC Alliance Debian Live List of Linux distributions Krafft Martin F."	"be requiring"	"hardware with a floating-point unit s390x IBM ESA/390 z/Architecture with 64-bit userland alpha"	913	Linux
+"ARM hard-float architecture DEC Alpha architecture avr32 Atmel AVR32 architecture hppa HP PA-RISC architecture m68k Motorola 68k architecture on Atari PowerPCSPE architecture binary-incompatible variant of the PowerPC sh4 Hitachi SuperH architecture sparc64 Sun SPARC architecture with 64-bit userland Comparison of Linux distributions DCC Alliance Debian Live List of Linux distributions Krafft Martin F."	"be requiring"	"hardware with a floating-point unit s390x IBM ESA/390 architecture with 64-bit userland alpha"	913	Linux
+"ARM hard-float architecture DEC Alpha architecture avr32 Atmel AVR32 architecture hppa HP PA-RISC architecture m68k Motorola 68k architecture on Atari PowerPCSPE architecture binary-incompatible variant of the PowerPC sh4 Hitachi SuperH architecture sparc64 Sun SPARC architecture with 64-bit userland Comparison of Linux distributions DCC Alliance Debian Live List of Linux distributions Krafft Martin F."	"be requiring"	"hardware with a floating-point unit s390x IBM ESA/390 z/Architecture with 64-bit userland alpha"	913	Linux
+"ARM hard-float architecture DEC Alpha architecture avr32 Atmel AVR32 architecture hppa HP PA-RISC architecture m68k Motorola 68k architecture on Macintosh PowerPCSPE architecture binary-incompatible variant of the PowerPC sh4 Hitachi SuperH architecture sparc64 Sun SPARC architecture with 64-bit userland Comparison of Linux distributions DCC Alliance Debian Live List of Linux distributions Krafft Martin F."	"be requiring"	"hardware with a floating-point unit s390x IBM ESA/390 architecture with 64-bit userland alpha"	913	Linux
+"ARM hard-float architecture DEC Alpha architecture avr32 Atmel AVR32 architecture hppa HP PA-RISC architecture m68k Motorola 68k architecture on Macintosh PowerPCSPE architecture binary-incompatible variant of the PowerPC sh4 Hitachi SuperH architecture sparc64 Sun SPARC architecture with 64-bit userland Comparison of Linux distributions DCC Alliance Debian Live List of Linux distributions Krafft Martin F."	"be requiring"	"hardware with a floating-point unit s390x IBM ESA/390 z/Architecture with 64-bit userland alpha"	913	Linux
+"ARM hard-float architecture DEC Alpha architecture avr32 Atmel AVR32 architecture hppa HP PA-RISC architecture m68k Motorola 68k architecture on various embedded VME systems powerpcspe PowerPCSPE architecture binary-incompatible variant of the PowerPC sh4 Hitachi SuperH architecture sparc64 Sun SPARC architecture with 64-bit userland Comparison of Linux distributions DCC Alliance Debian Live List of Linux distributions Krafft Martin F."	"be requiring"	"hardware with a floating-point unit s390x IBM ESA/390 architecture with 64-bit userland alpha"	913	Linux
+"ARM hard-float architecture DEC Alpha architecture avr32 Atmel AVR32 architecture hppa HP PA-RISC architecture m68k Motorola 68k architecture on various embedded VME systems powerpcspe PowerPCSPE architecture binary-incompatible variant of the PowerPC sh4 Hitachi SuperH architecture sparc64 Sun SPARC architecture with 64-bit userland Comparison of Linux distributions DCC Alliance Debian Live List of Linux distributions Krafft Martin F."	"be requiring"	"hardware with a floating-point unit s390x IBM ESA/390 z/Architecture with 64-bit userland alpha"	913	Linux
+The Debian System No Starch Press 2005 U.S.A. 	914
+1-59327-069-0 Mako Hill Benjamin Benjamin Mako Hill Debian GNU/Linux 3.1 	917
+Bible John Wiley &amp; Sons 2005 672 0-7645-7644-5 Jurzik Heike Debian GNU / Linux Galileo Press GmbH 2005 630 3898426270 Schoblick Robert Debian / GNU Linux BHV Verlag 2005 767 3826681517 Bellomo Michael Debian GNU/Linux for Dummies Hungry Minds 2000 324 0764507133 McCarty Bill Learning Debian GNU/Linux O'Reilly 1999 360 1565927052 Goerzen John John Goerzen Debian Gnu/Linux : Guide to Installation and Usage New Riders Pub 1999 158 0735709149 Scheetz Dale The Debian Linux User 's Guide Linux Press 1998 268 0965957519 http ://www.debian 	918
+"Linux Galileo Press GmbH"	"is"	"2005 630 389842627 0 Schoblick Robert Debian GNU Linux BHV Verlag 2005 767 382668151 7 Bellomo Michael Debian GNU/Linux for Dummies Hungry Minds 2000 324 076450713 3 McCarty Bill Learning Debian GNU/Linux O'Reilly 1999 360 156592705 2 Goerzen John John Goerzen Debian Gnu/Linux"	918	Linux
+"Installation New Riders Pub 1999 158 073570914 9 Scheetz Dale The Debian Linux User"	"has"	"Guide Linux Press 1998 268 096595751 9 http"	918	Linux
+"Usage New Riders Pub 1999 158 073570914 9 Scheetz Dale The Debian Linux User"	"has"	"Guide Linux Press 1998 268 096595751 9 http"	918	Linux
+Official website for Debian http ://live .debian 	920
+Official website for Debian Live debian Debian GNU/Linux 	922

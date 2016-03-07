@@ -1,0 +1,424 @@
+V: available@13	 S: front-ends@12	
+S: i386@16	 V: "is"	 C: IA-64@35	
+S: Linux@38	 V: "is"	 C: FreeBSD@40	
+S: Micro@43	 V: "is"	 C: Hurd@45	
+V: http@60	 S: licenses@59	
+C: system@17	 V: is@13	 S: 12@1	 A?: composed@18	
+V: "be composed"	 S: system@17	 A!: of@19	
+V: "be released"	 S: packages@21	 A!: as@23	
+C: distribution@14	 V: is@8	 S: website@6	
+V: distrowatch.com@10	 S: section@1	
+V: distrowatch.com@10	 S: section@1	
+V: known@4	 S: Debian@2	 A!: for@5	
+V: used@15	 S: Debian@12	 A!: on@16	 A?: from@22	
+V: governed@6	 S: Project@4	 A!: by@7	
+V: set@16	 S: Contract@14	 O: structure@20	
+V: states@26	 S: Contract@14	 O: structure@20	 A?: explicitly@25	
+C: development@35	 V: is@33	 S: goal@29	 A?: of@36	
+V: developed@9	 S: Debian@7	 A!: by@10	
+C: organization@12	 V: is@8	 S: Project@7	
+V: backed@17	 S: it@14	 A!: by@18	
+V: included@9	 S: cost@3	 A!: in@10	
+V: known@4	 S: Debian@2	 A!: for@5	
+V: install@14	 S: standard@13	 A?: Debian@9	 O: issues@8	
+V: makes@15	 S: issues@8	 O: use@16	
+V: span@19	 S: discs@16	 O: DVDs@21	
+V: contain@27	 S: Debian@12	
+V: available@31	 S: packages@29	 A?: currently@30	
+C: necessary@35	 V: are@33	 S: packages@29	 A?: currently@30	 A?: install@39	
+V: install@39	 S: standard@38	
+V: obtained@16	 S: GNU/Linux@4	 A?: freely@15	 A!: by@17	
+C: one@10	 V: was@9	 S: GNU/Linux@3	 A?: of@11	
+V: "be compose"	 S: distributions@15	 O: itself@18	 A!: from@19	
+C: feature@16	 V: is@10	 S: Hillesley@2	 A?: perhaps@11	 O: 123@1	
+S: Debian@12	 V: "has"	 O: feature@16	
+C: base@5	 V: is@3	 S: dpkg@2	 A?: of@6	
+C: version@8	 V: is@6	 S: system@5	 A?: of@9	
+V: booted@14	 S: version@8	 A!: directly@15	 A?: from@16	 A?: without@30	
+S: CDs@20	 V: "is"	 C: DVDs@22	
+S: CDs@20	 V: "is"	 C: keys@25	
+V: allows@9	 S: This@8	 O: user@11	 IO: Debian@6	 IO: Debian@6	
+V: are@3	 S: images@7	 O: 143@1	
+V: achieved@8	 S: installation@5	
+V: generate@16	 S: Live@10	 A?: only@15	 O: Images@18	
+V: DVDs@23	 S: Live@10	 A?: only@15	 O: Images@18	 A?: also@21	
+S: DVDs@23	 V: "is"	 C: images@25	
+C: GNU@6	 V: is@3	 S: Ging@2	
+V: "be built"	 S: images@14	 A!: specifically@15	 A?: for@17	
+S: GNOME@18	 V: "is"	 C: default@21	
+V: installed@29	 S: manager@9	 A?: also@27	
+V: supported@6	 S: NSLU2@4	 A!: by@7	
+V: "be Installing"	 S: 180@1	
+V: "be Installing"	 S: 183@1	
+C: What@2	 V: 's@3	 S: new@4	
+C: What@2	 V: 's@3	 S: new@4	
+C: What@2	 V: 's@3	 S: new@4	
+C: What@2	 V: 's@3	 S: new@4	
+V: "be supported"	 S: devices@5	 A!: by@7	
+V: include@19	 S: devices@5	
+C: device@29	 V: is@25	 S: Tank@24	 A?: described@31	
+V: "be described"	 S: device@29	 A!: on@32	 A?: as@40	
+S: 221@1	 V: "is"	 C: ARM@8	
+C: new@11	 V: 's@10	 S: ARM@8	 A?: in@12	
+S: 228@1	 V: "is"	 C: ARM@8	
+C: new@11	 V: 's@10	 S: ARM@8	 A?: in@12	
+S: TS-109@8	 V: "is"	 C: TS-209@10	
+S: TS-109@8	 V: "is"	 C: TS-409@12	
+S: TS-11x@6	 V: "is"	 C: TS-21x@8	
+S: TS-11x@6	 V: "is"	 C: OpenRD@12	
+V: announced@5	 S: Debian@2	 A?: first@4	 A!: on@6	 A?: by@10	
+S: Murdock@12	 V: "is"	 C: http@14	
+V: called@5	 S: 2008-05-12@2	 A?: initially@4	 O: system@7	
+V: formed@9	 S: 2008-10-31@2	 A!: as@10	
+S: his@18	 V: "has"	 O: Lynn@21	
+S: his@23	 V: "has"	 O: name@26	
+V: Started@3	 S: 261@1	 A!: with@4	
+V: Started@3	 S: 266@1	 A!: with@4	
+S: Debian@4	 V: "has"	 O: release@6	
+S: System@11	 V: "is"	 C: SLS@13	
+C: distribution@20	 V: been@16	 S: System@11	
+V: released@6	 S: 278@1	 A?: also@5	 O: Manifesto@9	
+S: Manifesto@9	 V: "is"	 C: A@12	
+V: "be outlining"	 S: 2008-08-13@3	 O: view@6	
+S: his@5	 V: "has"	 O: view@6	
+V: called@5	 S: he@4	 A?: for@6	 O: it@3	
+V: "be maintained"	 S: distribution@11	 A!: in@15	
+V: grew@5	 S: Project@4	 A!: slowly@6	 A?: at@7	
+V: released@10	 S: Project@4	 A?: slowly@6	 A?: at@7	 O: x@14	
+V: released@6	 S: version@2	 A!: in@7	
+V: decided@3	 S: Perens@2	
+V: "be defining"	 S: created@12	 O: commitments@43	
+V: broke@3	 S: He@2	 A?: apart@4	 O: system@8	 IO: 304@1	 IO: 304@1	
+V: maintained@20	 S: Debian@15	 A!: by@21	
+V: created@3	 S: He@2	 O: program@6	 A?: make@8	 IO: 307@1	 IO: 307@1	
+V: "be make"	 S: He@2	
+V: run@12	 S: it@9	 O: installer@15	 A?: on@16	
+V: deployed@7	 S: Tool@5	 A!: during@8	
+S: port@14	 V: "is"	 C: GNU/Hurd@23	
+V: started@26	 S: port@14	
+V: "be based"	 S: distribution@5	 A!: on@7	
+S: Stormix@16	 V: "has"	 O: Linux@19	
+V: started@22	 S: distribution@5	 A!: in@23	
+S: woody@3	 V: "is"	 C: release@23	
+V: named@10	 S: release@8	 A!: after@11	
+V: see@26	 S: release@23	 O: updates@29	 A?: until@30	
+V: "be employed"	 S: cycle@5	 A!: by@7	 A?: during@11	
+V: "be date"	 S: cycle@5	 O: one@37	
+V: drew@14	 S: cycle@5	 O: criticism@16	 A?: from@17	 A?: date@36	
+V: triggered@27	 S: this@26	 O: creation@29	 A?: in@32	
+C: new@7	 V: 's@6	 S: What@5	 A?: in@8	
+C: new@7	 V: 's@6	 S: What@5	 A?: in@8	
+V: replaced@7	 S: installer@6	 O: installer@11	 A?: with@12	
+V: included@4	 S: release@3	 O: efforts@6	
+V: ones@37	 S: release@3	 O: efforts@6	 A?: made@38	
+V: had@31	 S: release@3	 O: efforts@6	 O: affiliation@34	
+V: raised@22	 S: sub-projects@20	 O: number@24	
+C: educational@29	 V: were@28	 S: packages@26	
+V: "be made"	 S: ones@37	 A!: for@39	
+V: rebranded@16	 S: 348@1	 A?: as@5	 A!: in@17	 A?: with@20	
+V: rebranded@16	 S: software@14	 A?: as@5	 A!: in@17	 A?: with@20	
+V: becoming@22	 S: Firefox@21	 O: Iceweasel@23	
+S: Iceweasel@23	 V: "is"	 C: Thunderbird@25	
+V: "be becoming"	 S: Thunderbird@25	 A!: Icedove@27	
+V: stated@5	 S: Corporation@4	
+V: use@10	 S: Debian@7	 O: trademark@13	 A?: distributes@16	
+V: distributes@16	 S: it@15	 O: Firefox@17	 A?: with@18	
+V: approved@24	 S: modifications@19	 A!: by@25	
+V: modifies@7	 S: Debian@6	 O: reasons@4	 O: software@10	
+V: are@11	 S: reasons@4	
+V: consider@6	 S: Guidelines@5	 O: artwork@9	
+S: Mozilla@7	 V: "has"	 O: artwork@9	
+V: provides@3	 S: Debian@2	 O: support@6	
+V: prefers@19	 S: Mozilla@18	 A?: where@17	 O: release@15	
+V: supported@25	 S: versions@22	
+V: were@3	 S: packages@7	 O: 362@1	
+V: "be maintained"	 S: packages@7	 A!: by@9	
+V: "be released"	 S: 375@1	 O: release@7	
+V: dedicated@9	 S: 375@1	 A!: to@10	
+S: Seufer@12	 V: "is"	 C: developer@16	
+V: died@23	 S: developer@16	 A?: in@24	 A?: on@28	
+V: dedicated@3	 S: Lenny@2	 A!: to@4	 A?: www.debian@14	
+V: dedicated@3	 S: Lenny@2	 A!: to@4	 A?: On@10	
+V: acquired@18	 S: Debian@16	 A?: dedicated@3	 A?: officially@17	 O: service@21	
+V: "be dedicated"	 S: Debian@16	 A!: to@4	 A?: On@10	
+V: provides@24	 S: service@21	 O: versions@27	
+V: "be becoming"	 S: service@7	
+V: introduced@12	 S: GNU@8	 A!: with@13	 A?: as@16	
+C: organization@18	 V: is@15	 S: Project@14	 A?: with@19	
+V: includes@28	 S: project@27	 O: developers@33	
+V: used@28	 S: system@26	 A?: by@29	 O: packages@18	
+V: has@6	 S: Leader@5	 O: powers@9	
+V: is@14	 S: power@13	 A!: from@16	
+V: used@21	 S: power@13	 A?: from@16	 A!: rarely@20	
+V: is@15	 S: that@16	
+V: is@15	 S: role@3	
+S: Leader@6	 V: "is"	 C: DPL@8	
+C: face@13	 V: is@10	 S: Leader@6	 A?: of@14	
+C: defines@18	 V: is@10	 S: Leader@6	 A?: of@14	 O: direction@21	
+S: position@15	 V: "is"	 C: Second@18	
+S: position@15	 V: "is"	 C: 2IC@22	
+V: created@26	 S: position@15	 A!: by@27	
+V: Note@9	 S: Debian@8	 O: Platform@3	
+V: includes@13	 S: list@12	 O: managers@17	
+V: include@22	 S: it@19	 O: assistants@25	
+V: has@5	 S: project@4	 O: influx@8	
+V: "be wishing"	 S: applicants@10	
+V: join@9	 S: Developers@8	 O: Project@11	
+V: cited@22	 S: some@18	 A!: in@23	
+S: some@18	 V: include@26	 O: join@9	
+V: Join@5	 S: You@3	 A?: How@2	 O: http@8	
+V: Join@5	 S: You@3	 A?: How@2	 O: Developers@9	
+V: resign@11	 S: 470@1	 O: positions@13	 A?: at@14	 A?: by@17	
+S: their@12	 V: "has"	 O: positions@13	
+C: responsible@23	 V: were@22	 S: they@21	 A?: for@24	 O: packages@20	
+S: their@39	 V: "has"	 O: authorization@41	
+V: revoked@44	 S: authorization@41	 O: maintainer@35	
+V: uploaded@4	 S: packages@3	 A!: to@5	
+V: are@7	 S: versions@9	
+V: with@22	 S: versions@9	 A!: packaging@28	
+V: "be introduced"	 S: packaging@28	 A!: by@33	
+V: remained@23	 S: Debian@14	 A?: in@24	 A?: for@26	
+S: software@39	 V: "has"	 O: changes@41	
+V: migrated@48	 S: package@45	 A?: automatically@47	 A?: to@49	 O: changes@41	
+V: contain@13	 S: updates@3	 O: features@15	
+V: choose@18	 S: some@17	 A?: 481@1	
+S: their@27	 V: "has"	 O: packages@29	
+V: matured@14	 S: team@5	
+V: met@23	 S: goals@17	
+V: becomes@28	 S: distribution@27	 O: release@32	
+V: has@16	 S: package@15	 O: maintainer@18	 IO: package@11	 IO: package@11	
+V: keeps@20	 S: maintainer@18	 O: track@21	 A!: by@24	
+V: ensures@34	 S: maintainer@18	 O: track@21	 A?: by@24	
+C: compliant@39	 V: is@38	 S: package@37	 A?: with@40	
+V: makes@18	 S: maintainer@17	 O: release@20	 A?: by@24	
+V: batch-transmits@47	 S: queue@43	 A?: periodically@46	 O: packages@48	
+V: processed@6	 S: uploads@3	 A?: automatically@5	
+C: well-formed@12	 V: are@11	 S: they@10	
+V: signed@28	 S: package@25	 A?: digitally@27	 A!: by@29	
+V: "be using"	 S: developer@32	 O: OpenPGP@34	
+V: have@5	 S: developers@4	 O: pairs@9	
+S: Developer@4	 V: "has"	 O: Packages@8	
+V: signed@10	 S: Packages@8	
+V: permit@26	 S: Packages@8	 O: accountability@27	
+V: contains@34	 S: package@33	 O: bug@37	
+V: "be become"	 S: packages@3	 A!: for@7	
+V: need@21	 S: 527@1	 A?: first@20	
+V: need@21	 S: they@19	 A?: first@20	
+S: Debian@8	 V: "is"	 C: bug@13	
+V: depend@21	 S: packages@20	 A?: on@17	 O: package@16	
+V: prevent@30	 S: Debian@8	 O: packages@32	 A?: from@33	 A?: considered@43	
+V: considered@43	 S: library@41	
+V: handles@10	 S: Project@4	 O: policy@12	 A?: through@13	 A?: through@20	
+V: coordinated@5	 S: advisories@3	 A!: with@6	
+V: published@21	 S: advisories@3	 A?: with@6	 O: day@24	
+C: member@15	 V: is@13	 S: Debian@12	 O: vendors@10	 A?: of@16	
+V: made@28	 S: vulnerability@26	 O: day@24	
+V: has@3	 S: Debian@2	 O: team@7	
+V: reviews@9	 S: team@7	 O: archive@11	
+V: "be looking"	 S: archive@11	 A!: for@13	
+V: participates@4	 S: Debian@2	 A?: also@3	 A!: in@5	
+C: compatible@15	 V: are@14	 S: advisories@13	 A?: with@16	
+V: represented@30	 S: Debian@28	 A!: in@31	
+S: Language@40	 V: "is"	 C: OVAL@42	
+V: offers@10	 S: Project@9	 O: documentation@12	
+V: "be harden"	 S: documentation@12	 O: installation@19	
+S: SELinux@7	 V: "is"	 C: Linux@10	
+V: installed@14	 S: packages@12	 A!: by@15	 A?: enabled@19	
+C: What@2	 V: 's@3	 S: new@4	
+C: What@2	 V: 's@3	 S: new@4	
+V: provides@5	 S: Debian@4	 O: wrapper@9	 A?: unlike@33	
+V: compile@13	 S: Debian@4	 O: wrapper@9	 O: packages@15	 A?: by@16	 A?: unlike@33	
+S: their@14	 V: "has"	 O: packages@15	
+V: "be using"	 S: default@17	 O: features@20	
+V: "be harden"	 S: protection@27	 O: software@31	
+S: their@30	 V: "has"	 O: software@31	
+S: Installer@15	 V: "is"	 C: release@22	
+C: version@24	 V: is@23	 S: Installer@15	
+V: released@12	 S: version@10	 A?: When@7	
+V: becomes@18	 S: version@17	 A?: released@12	
+V: becomes@18	 S: Debian@6	 A?: released@12	
+V: releases@8	 S: scheme@4	 A!: to@10	
+S: 603@1	 V: "is"	 C: lenny@3	
+S: 603@1	 V: "is"	 C: scheme@8	
+V: changed@14	 S: 603@1	
+V: conforms@16	 S: 603@1	 A!: to@17	
+V: "be waiting"	 S: squeeze@3	 A!: for@5	
+V: releases@12	 S: squeeze@3	 O: updates@14	
+V: for@23	 S: squeeze@3	 O: updates@14	 A?: release@27	
+V: freezes@3	 S: Time-based@2	
+S: its@20	 V: "has"	 O: policy@21	
+V: aims@6	 S: policy@5	 O: 628@1	
+V: expect@4	 S: developers@3	
+V: "be reducing"	 S: cycle@9	 O: inconveniences@19	
+V: give@11	 S: cycle@9	 O: time@13	 A?: reducing@18	
+V: "be caused"	 S: inconveniences@19	 A!: for@21	
+V: decides@3	 S: Debian@2	
+V: decides@3	 S: Debian@2	
+V: abandoned@20	 S: cycle@16	 A?: However@12	
+C: names@17	 V: are@16	 S: goals@6	 A?: of@18	
+S: guidelines@7	 V: "is"	 C: transitions@9	
+V: made@7	 S: 655@1	 O: releases@11	
+V: stands@14	 S: TBA@13	 A!: for@15	
+S: 659@1	 V: "is"	 C: each@9	
+V: offers@5	 S: Project@4	 O: distributions@7	 IO: 659@1	 IO: 659@1	
+V: include@4	 S: distributions@3	 O: packages@5	
+V: comply@7	 S: packages@5	 A!: with@8	
+S: Guidelines@13	 V: "is"	 C: DFSG@15	
+V: included@20	 S: Guidelines@13	 A!: inside@21	
+S: Guidelines@12	 V: "is"	 C: DFSG@14	
+V: adhere@16	 S: Resources@2	 A!: to@17	 A?: endorsed@37	
+S: software@27	 V: "is"	 C: FOSS@29	
+V: endorsed@37	 S: it@33	 A?: still@35	 A!: by@38	 A?: includes@45	
+V: includes@45	 S: it@44	
+V: supports@47	 S: it@44	 O: repository@50	
+V: recommends@54	 S: repository@50	 O: software@56	
+V: Endorse@8	 S: We@5	 O: http@13	
+V: Endorse@8	 S: We@5	 O: http@13	
+C: part@8	 V: are@5	 S: repositories@4	 A?: officially@7	 A?: of@9	
+C: repositories@5	 V: are@3	 S: These@2	
+C: part@14	 V: are@12	 S: repositories@11	 A?: of@15	
+V: maintained@22	 S: they@20	 A?: by@23	 O: part@14	
+V: contain@3	 S: They@2	 O: packages@4	 IO: 681@1	 IO: 681@1	
+C: modern@9	 V: are@6	 S: packages@4	 A?: either@7	 A?: more@8	 A?: than@10	
+C: include@17	 V: are@6	 S: packages@4	 A?: either@7	 A?: more@8	 A?: than@10	 O: packages@18	
+V: "be found"	 S: ones@12	 A!: in@14	
+V: included@22	 S: packages@18	 A!: in@23	
+V: discourages@5	 S: Project@4	 O: use@7	 A?: part@15	
+C: part@15	 V: are@13	 S: they@12	 A?: of@16	
+V: provides@3	 S: Debian@2	 O: repositories@4	
+C: example@12	 V: is@10	 S: This@9	 A?: of@13	 O: Configuration@6	
+V: has@7	 S: Debian@6	 O: requirements@10	
+V: tool-sets@20	 S: Debian@6	 O: requirements@10	
+V: ported@14	 S: packages@11	 A?: to@8	 O: architecture@5	
+V: exists@22	 S: port@21	 A?: for@17	
+V: run@25	 S: architecture@5	 A?: Therefore@2	 O: Debian@26	 IO: 699@1	 IO: 699@1	
+V: supports@12	 S: Requirements@3	 O: processors@14	
+V: multiprocessing@18	 S: Requirements@3	 O: processors@14	
+S: Debian@2	 V: "has"	 O: requirements@6	
+V: differ@7	 S: requirements@6	 A!: depending@8	
+V: corresponds@16	 S: level@11	 A!: to@17	
+V: "be Meeting"	 S: 717@1	 O: Requirements@5	
+V: "be Meeting"	 S: 720@1	 O: Requirements@5	
+V: recommended@15	 S: 720@1	 A!: for@16	
+V: Depending@2	 S: 722@1	 A!: on@3	
+V: "be Depending"	 S: possible@9	 A!: on@3	
+C: possible@9	 V: is@8	 S: it@7	 A?: Depending@2	
+V: improves@6	 S: 724@1	 O: installation@7	 A?: by@16	
+C: available@33	 V: are@31	 S: ports@30	 A?: also@32	 A?: as@34	 A?: at@40	
+C: official@48	 V: was@45	 S: port@44	
+C: part@56	 V: was@45	 S: port@44	 A?: of@57	
+V: use@4	 S: distributions@3	 O: one@5	
+S: Debian@7	 V: "has"	 O: branches@9	
+S: their@8	 V: "has"	 O: website@9	
+V: won@11	 S: 2008-11-02@2	 O: awards@13	
+V: awarded@4	 S: Debian@2	 O: Award@10	
+S: Readers@7	 V: "has"	 O: Award@10	
+V: awarded@12	 S: total@5	 A!: throughout@13	
+S: Debian@14	 V: "has"	 O: lifetime@16	
+V: http@5	 S: Awards@4	
+V: received@7	 S: Debian@4	 A?: also@6	 O: assessments@9	
+V: revealed@9	 S: Developer@8	 O: discovery@11	 IO: 769@1	 IO: 769@1	
+S: his@10	 V: "has"	 O: discovery@11	
+V: "be made"	 S: changes@13	 A!: in@15	 A?: to@17	 A?: in@22	
+V: "be distributed"	 S: version@24	 A!: with@30	
+V: made@42	 S: changes@13	 O: variety@44	
+V: caused@6	 S: weakness@4	 A!: by@7	
+V: "be made"	 S: changes@8	 A!: to@10	 A?: by@14	 A?: in@18	
+V: patched@13	 S: hole@10	 A?: soon@12	 A!: by@14	
+C: cumbersome@25	 V: was@24	 S: procedure@23	 A?: for@26	 A?: involved@30	
+V: involved@30	 S: it@29	
+V: drew@38	 S: it@37	 O: criticism@39	 A?: to@40	
+S: Debian@41	 V: "has"	 O: practice@43	
+S: Foundation@8	 V: "is"	 C: FSF@10	
+V: criticized@13	 S: Stallman@3	 O: Project@16	 A?: for@17	
+V: Explaining@2	 S: 792@1	
+V: Endorse@7	 S: We@4	 O: opinion@15	
+V: echoed@17	 S: Endorse@7	 A?: also@16	 A!: by@18	
+V: "be regarding"	 S: Akkerman@3	 O: section@15	
+V: persisted@17	 S: Wichert@2	
+V: time@22	 S: Wichert@2	
+V: came@24	 S: it@23	 A?: to@25	 O: time@22	
+V: decided@34	 S: majority@33	 O: time@22	
+V: drew@24	 S: Project@23	 O: criticism@26	 A?: from@27	 A?: of@33	 IO: Status@5	 IO: Status@5	
+V: has@3	 S: Ubuntu@2	 O: releases@4	 A?: months@7	
+C: forks@10	 V: are@9	 S: months@7	 A?: of@11	
+S: Debian@12	 V: "has"	 O: distribution@15	
+C: appropriate@8	 V: be@6	 S: it@4	 A?: 809@1	 A?: more@7	
+V: continue@15	 S: which@14	 A?: to@26	
+S: Ubuntu@27	 V: "has"	 O: releases@32	
+V: supported@36	 S: which@34	 A!: for@37	
+V: for@44	 S: which@34	 A?: for@37	 A?: also@43	 A!: years@46	
+V: "be starting"	 S: desktops@48	 A!: with@50	
+V: produces@9	 S: Ubuntu@8	 O: release@13	 A?: years@16	
+C: similar@21	 V: is@19	 S: which@18	 A?: therefore@20	 A?: to@22	
+S: Debian@23	 V: "has"	 O: cycle@28	
+C: possible@13	 V: is@12	 S: it@11	 A?: in@3	
+V: contains@24	 S: it@22	 A?: usually@23	 O: modern@26	
+V: is@4	 S: alternative@3	
+C: packages@14	 V: are@11	 S: backports@8	 A?: from@15	
+V: run@9	 S: they@7	 A!: without@10	 A?: on@19	
+C: possible@17	 V: is@16	 S: it@15	 A?: wherever@14	
+V: is@135	 S: Debian@134	
+V: "be developed"	 S: Center@268	 A!: originally@270	 A?: for@272	
+V: "be discover"	 S: program@278	 O: applications@283	
+V: "be discover"	 S: program@278	 O: applications@283	
+C: program@278	 V: is@275	 S: Center@268	 A?: discover@280	
+C: front-end@11	 V: is@8	 S: KPackage@7	 A?: for@12	
+S: KDE@9	 V: "has"	 O: front-end@11	
+C: What@2	 V: 's@3	 S: new@4	
+C: What@2	 V: 's@3	 S: new@4	
+C: tool@12	 V: is@6	 S: aptitude@5	
+V: defines@6	 S: Contract@5	 O: set@8	
+S: its@17	 V: "has"	 O: developers@18	
+V: conduct@19	 S: developers@18	 O: affairs@20	
+V: define@7	 S: Guidelines@6	 O: criteria@9	 A?: thus@16	
+C: permissible@20	 V: is@19	 S: software@18	 O: what@17	 A?: in@21	
+V: describes@5	 S: Constitution@4	 O: structure@8	 A?: for@9	
+V: enumerates@17	 S: Constitution@4	 O: structure@8	 A?: for@9	 O: powers@19	
+S: Leader@26	 V: "is"	 C: Secretary@31	
+S: Murdock@3	 V: "is"	 C: August@5	
+S: Murdock@3	 V: "is"	 C: founder@12	
+S: Jackson@27	 V: "is"	 C: January@29	
+V: "be contribute"	 S: desire@11	 A!: back@14	 A?: to@15	
+C: users@24	 V: are@23	 S: applicants@22	 A?: of@25	 O: community@18	
+V: "be see"	 S: desire@30	
+V: accomplished@37	 S: task@36	
+V: view@40	 S: some@39	 O: community@44	 A?: as@45	
+V: proving@50	 S: some@39	 O: community@44	 A?: as@45	 O: desire@57	
+V: "be make"	 S: desire@57	
+V: "be make"	 S: desire@57	
+V: competitive@66	 S: software@65	 A!: with@67	
+V: "be work"	 S: desire@71	 A!: closely@74	 A?: with@75	
+V: share@78	 S: people@76	 O: some@79	
+S: their@81	 V: "has"	 O: aptitudes@82	
+V: is@90	 S: enjoyment@114	 A?: within@97	
+V: is@90	 S: sense@94	 A?: within@97	
+V: experience@106	 S: applicants@103	 O: project@100	 A?: in@107	
+S: their@108	 V: "has"	 O: jobs@110	
+V: been@127	 S: It@124	 A?: in@128	 A?: for@130	 O: enjoyment@114	
+V: depends@140	 S: duration@139	 A!: on@141	
+V: have@153	 S: It@150	 O: number@156	
+V: "be filed"	 S: bugs@161	 A!: against@163	
+S: architectures@6	 V: "is"	 C: squeeze@35	
+S: ABI@12	 V: "is"	 C: armel@14	
+C: release@40	 V: is@37	 S: architectures@6	
+V: has@42	 S: release@40	 O: software@46	
+V: found@9	 S: CDs@4	 A!: in@10	
+V: provided@8	 S: updates@3	 A!: by@9	
+V: found@9	 S: CDs@4	 A!: on@10	
+V: designed@5	 S: repository@3	 A!: for@6	 A?: therefore@34	
+V: participate@10	 S: developers@8	 A!: in@11	
+V: need@15	 S: developers@8	 A?: in@11	 O: libraries@18	
+V: like@25	 S: those@23	
+V: warns@3	 S: Debian@2	 A!: that@4	
+S: user@19	 V: "has"	 O: risk@22	
+V: recommends@3	 S: Debian@2	
+V: released@14	 S: it@11	
+V: "be designed"	 S: architecture@9	 A!: for@11	
+S: systems@31	 V: "is"	 C: EABI@33	
+S: Itanium@50	 V: "is"	 C: IA-64@52	
+S: mips@55	 V: "is"	 C: mipsel@57	
+V: "be requiring"	 S: architecture@101	 O: hardware@103	 A!: with@104	
+S: unit@107	 V: "is"	 C: FPU@109	
+S: GmbH@18	 V: "is"	 C: Debian@23	
+S: User@71	 V: "has"	 O: Press@75	

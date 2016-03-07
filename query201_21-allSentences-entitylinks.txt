@@ -1,0 +1,87 @@
+( "Squeeze " ) Debian GNU/Linux 6.0 
+( "Squeeze " ) with GNOME Debian Project Unix-like Current Free and open source software 1993 08 16 yes yes over 65 http ://debian .org/News/2011/20110113 
+Release Candidate 1 published 2011-01-13 Debian 2011-01-13 APT ( several front-ends available ) dpkg i386 , AMD64 , PowerPC , SPARC , DEC Alpha , ARM , MIPS , PA-RISC , S390 , IA-64 Monolithic ( Linux , FreeBSD ) , Micro ( Hurd ) GNU GNOME Free software , mainly the GNU GPL , and other licenses http ://www.debian 
+Debian ( icon ˈ d ɛ b i ə n ) is a computer operating system composed of software packages released as free and open source software primarily under the GNU General Public License along with other free software licenses . 
+What Does Free Mean ? or What do you mean by Free Software ? The Debian Project Debian official website 2009-12-01 Debian GNU/ Linux , which includes the GNU OS tools and Linux kernel , http ://debian .org/index 
+The Debian GNU/Linux FAQ : Definitions and overview Debian 2008-05-12 http ://www.debian 
+The Debian GNU/Linux FAQ : Definitions and overview Debian 2008-05-12 Debian can be used on a variety of hardware , from NAS devices to phones , laptops , desktops and servers . 
+lenny ( 323 million lines of code) , using the COCOMO model , has been estimated to be about US$ 8 billion . 
+libresoft Ohloh estimates that the codebase ( 54 million lines of code) , using the COCOMO model , would cost about US$ 1 billion to develop . 
+Debian GNU/Linux Ohloh .net 
+Debian GNU/Linux Ohloh .net 
+There are also packages for architectures using the FreeBSD kernel (kfreebsd-i386 and kfreebsd-amd64 ) . 
+The Debian GNU/Linux FAQ : Compatibility issues Debian 2008-05-12 http ://www.debian 
+The Debian GNU/Linux FAQ : Compatibility issues Debian 2008-05-12 The Debian standard install makes use of the GNOME desktop environment . 
+, Iceweasel ( a rebranding of Firefox ) , Evolution mail , CD/DVD writing programs , music and video players , image viewers and editors , and PDF viewers . 
+There are pre-built CD images for KDE Software Compilation , Xfce and LXDE also . 
+Installing Debian GNU/Linux via the Internet Debian 2008-12-11 http ://www.debian 
+Installing Debian GNU/Linux via the Internet Debian 2008-12-11 These CD/DVD images can be freely obtained by web download , BitTorrent , jigdo or from online retailers . 
+Debian GNU/Linux on CDs Debian 2009-01-06 http ://www.debian 
+Debian GNU/Linux on CDs Debian 2009-01-06 Debian was one of the earlier Linux distributions to compose itself from packages , Debian and the grass roots of Linux http ://www.itpro.co.uk/applications/features/135084/debian-and-the-grass-roots-of-linux 
+Debian Wiki dpkg Debian 2008-12-10 GDebi is a tool that expands the functionality of dpkg by not only installing local .deb 
+GDebi can be used both in a graphical interface and by command-line . 
+There are prebuilt Debian Live images for rescue , standard , GNOME , KDE Plasma Workspaces , Xfce and LXDE for several architectures . 
+Ging is a Debian GNU/ kFreeBSD Live CD . 
+/ The Ging FAQ Debian 2008-10-31 Debian offers stable and testing CD images specifically built for GNOME ( the default ) , KDE Plasma Workspaces , Xfce and LXDE . 
+Debian GNU/Linux 4.0 
+Debian GNU/Linux 4.0 
+released Debian 2008-04-08 2008-10-31 Less common window manager such as Enlightenment , Openbox , Fluxbox , GNUstep , IceWM , Window Maker and others can also be installed . 
+The cheap NSLU2 was supported by Debian 4.0 
+Installing Debian on NSLU2 Cyrius.com 
+Installing Debian on NSLU2 Cyrius.com 
+What 's new in Debian GNU/Linux 5.0 
+What 's new in Debian GNU/Linux 5.0 
+for the SheevaPlug . 
+What 's new in Debian GNU/Linux 6.0 
+What 's new in Debian GNU/Linux 6.0 
+Release Notes for Debian GNU/Linux 4.0 
+( "etch" ) , ARM What 's new in Debian GNU/Linux 4.0 
+Release Notes for Debian GNU/Linux 4.0 
+( "etch" ) , ARM What 's new in Debian GNU/Linux 4.0 
+In it he called for the creation of a distribution to be maintained in an open manner , in the spirit of Linux and GNU . 
+During this time it was sponsored by the Free Software Foundation 's GNU Project . 
+He created the BusyBox program to make it possible to run a Debian installer on a single floppy , and wrote a new installer . 
+The Advanced Packaging Tool was deployed during this time and the first port to a non - Linux kernel , Debian GNU/Hurd , was started . 
+The first Linux distribution based on Debian , namely Libranet , Corel Linux and Stormix 's Storm Linux , were started in 1999 . 
+Debian GNU/Linux 2.2 
+Debian GNU/Linux 2.2 
+In the same year , developers began holding an annual conference called DebConf with talks and workshops for developers and technical users . 
+Chapter 2 - What 's new in Debian GNU/Linux 3.1 
+Chapter 2 - What 's new in Debian GNU/Linux 3.1 
+This release included the efforts of the Debian- Edu/ Skolelinux , Debian-Med and Debian- Accessibility sub-projects which raised the number of packages that were educational , had a medical affiliation , and ones made for people with disabilities . 
+In 2006 , as a result of a much-publicized dispute , Mozilla software was rebranded in Debian , with Firefox becoming Iceweasel , Thunderbird becoming Icedove , along with other Mozilla programs . 
+The Mozilla Corporation stated that Debian may not use the Firefox trademark if it distributes Firefox with modifications which have not been approved by the Mozilla Corporation . 
+Two prominent reasons that Debian modifies the Firefox software are to change the artwork , and to provide security patches . 
+Debian provides long term support for older versions of Firefox in the stable release , where Mozilla prefers that old versions are not supported . 
+Behind the Debian and Mozilla dispute over use of Firefox 2006-10-10 Lisa Hoover 2009-02-09 http ://www.linux.com/feature/57675 
+Behind the Debian and Mozilla dispute over use of Firefox 2006-10-10 Lisa Hoover 2009-02-09 Debian 4.0 
+Debian GNU/Linux 5.0 
+Debian GNU/Linux 5.0 
+For the first time , Debian GNU/ kFreeBSD was introduced with this version as a technology preview . 
+The Debian GNU/Linux FAQ : Getting support for Debian GNU/Linux Debian 2008-05-12 http ://www.debian 
+The Debian GNU/Linux FAQ : Getting support for Debian GNU/Linux Debian 2008-05-12 For issues with single packages or domains , a public bug tracking system is used by developers and end-users . 
+2007-05-24 The Debian GNU/Linux FAQ Chapter 6 : The Debian FTP archives Debian http ://www .us.debian 
+2007-05-24 The Debian GNU/Linux FAQ Chapter 6 : The Debian FTP archives Debian After a version of a software package has remained in unstable for a certain length of time ( depending on the urgency of the software 's changes ) , that package is automatically migrated to the testing distribution . 
+What 's new in Debian GNU/Linux 5.0 
+What 's new in Debian GNU/Linux 5.0 
+2009-07-21 2009-04-08 Debian GNU/Linux 4.0 
+2009-07-21 2009-04-08 Debian GNU/Linux 4.0 
+( lenny ) , the numbering scheme of point releases has been changed and conforms to the GNU version numbering standard ; so , for example , the first point release of Debian 5.0 
+Debian GNU/Linux 6.0 
+Debian GNU/Linux 6.0 
+These two repositories are not officially part of Debian GNU/ Linux . 
+squeeze main contrib non-free Debian has no hardware requirements beyond those of the Linux kernel and the GNU tool-sets ( gcc , coreutils , bash , etc. 
+For example , the LXDE desktop environment was released with lenny and has much lower processor and memory usages compared with GNOME or KDE Plasma Desktop . 
+In May 2008 , a Debian Developer revealed his discovery that changes made in 2006 to the random number generator in the version of the openSSL package distributed with Debian and other Debian-based distributions such as Ubuntu or Knoppix , made a variety of security keys vulnerable to a random number generator attack . 
+Debian Backports Debian Project 2010-04-10 Free software 30em Category :Debian Category :Debian-based distributions Category :1993 introductions Category :1993 software Category :X86-64 Linux distributions Category : Free software culture and documents Category :Cross-platform software ar af:Debian als :Debian ar :دبيان bn :ডেবিয়ান map-bms :Debian be :Debian bg :Дебиан bar :Debian bs :Debian br :Debian GNU/Linux ca :Debian cs :Debian da :Debian de :Debian et :Debian el :Debian es :Debian eo :Debiano eu:Debian fa :دبیان fr :Debian ga:Debian gl:Debian GNU/Linux gu :ડેબિયન ko :데비안 hi :डेबियन hsb :Debian hr:Debian id :Debian ia :Debian os :Debian is :Debian it :Debian he :דביאן jv:Debian ku:Debian la:Debian GNU/Linux lv:Debian lt :Debian hu:Debian mg :Debian ml :ഡെബിയൻ mr :डेबिअन ऑपरेटिंग सिस्टिम ms :Debian nl :Debian ne :डेबियन ja:Debian no:Debian nn :Debian nds :Debian GNU/Linux pl :Debian pt:Debian ro:Debian GNU/Linux ru:Debian simple :Debian sk :Debian sl :Debian so :Debian sr :Debian sh :Debian fi:Debian sv:Debian GNU/Linux tl:Debian GNU/Linux ta :டெபியன ் tt :Debian te :డెబియన ్ th :เดเบียน tr :Debian uk :Debian vi:Debian zh-yue :Debian zh :Debian Software Center , originally developed for Ubuntu , is a GNOME program to discover and install applications . 
+Synaptic is a GTK+ front-end for APT . 
+Debian Wiki Synaptic Debian 2008-12-10 KPackage is KDE 's front-end for APT . 
+Adept is a discontinued KDE front-end for APT . 
+Gnome Application Installer was a GNOME program to discover and install applications , now removed in favour of Software Center apt-get is the most basic package management tool and the preferred APT front-end for non-interactive package management . 
+What 's new in Debian GNU/Linux 6.0 
+What 's new in Debian GNU/Linux 6.0 
+lenny A A 11 architectures + 1 additional ARM binary ABI ( armel ) squeeze B B 9 architectures with Linux kernel + 2 architectures with kernel of FreeBSD stable , currently aliased squeeze , is the current release that has stable and well-tested software . 
+2008-10-11 Supported Hardware Debian amd64 : x86-64 architecture designed for Intel /AMD 64-bit single/multi core PCs armel : little - endian ARM architecture on RiscPC and various embedded systems ( EABI ) sparc : Sun SPARC architecture on sun4u/v systems powerpc : PowerPC architecture ia64 : Intel Itanium ( IA-64 ) architecture mips , mipsel : MIPS architecture ( big-endian and little-endian ) s390 : IBM ESA/390 architecture and z/Architecture kfreebsd-i386 : Kernel of FreeBSD on 32-bit architecture kfreebsd-amd64 : Kernel of FreeBSD on 64-bit architecture hurd-i386 : GNU Hurd kernel on 32-bit architecture armhf : ARM hard-float architecture requiring hardware with a floating-point unit ( FPU) s390x : IBM ESA/390 architecture and z/Architecture with 64-bit userland alpha : DEC Alpha architecture avr32 : Atmel AVR32 architecture hppa : HP PA-RISC architecture m68k : Motorola 68k architecture on Amiga , Atari , Macintosh and various embedded VME systems powerpcspe : PowerPCSPE architecture ( binary-incompatible variant of the PowerPC ) sh4 : Hitachi SuperH architecture sparc64 : Sun SPARC architecture with 64-bit userland Comparison of Linux distributions DCC Alliance Debian Live List of Linux distributions Krafft Martin F. 
+1-59327-069-0 Mako Hill Benjamin Benjamin Mako Hill Debian GNU/Linux 3.1 
+Bible John Wiley &amp; Sons 2005 672 0-7645-7644-5 Jurzik Heike Debian GNU / Linux Galileo Press GmbH 2005 630 3898426270 Schoblick Robert Debian / GNU Linux BHV Verlag 2005 767 3826681517 Bellomo Michael Debian GNU/Linux for Dummies Hungry Minds 2000 324 0764507133 McCarty Bill Learning Debian GNU/Linux O'Reilly 1999 360 1565927052 Goerzen John John Goerzen Debian Gnu/Linux : Guide to Installation and Usage New Riders Pub 1999 158 0735709149 Scheetz Dale The Debian Linux User 's Guide Linux Press 1998 268 0965957519 http ://www.debian 
+Official website for Debian Live debian Debian GNU/Linux 

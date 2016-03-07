@@ -1,0 +1,250 @@
+( "Squeeze " ) Debian GNU/Linux 6.0 	1
+( "Squeeze " ) with GNOME Debian Project Unix-like Current Free and open source software 1993 08 16 yes yes over 65 http ://debian .org/News/2011/20110113 	2
+Release Candidate 1 published 2011-01-13 Debian 2011-01-13 APT ( several front-ends available ) dpkg i386 , AMD64 , PowerPC , SPARC , DEC Alpha , ARM , MIPS , PA-RISC , S390 , IA-64 Monolithic ( Linux , FreeBSD ) , Micro ( Hurd ) GNU GNOME Free software , mainly the GNU GPL , and other licenses http ://www.debian 	6
+"dpkg i386"	"is"	"IA-64 Linux Micro GNU GNOME Free software"	6	GNOME
+"dpkg i386"	"is"	"IA-64 Linux mainly the GNU GPL"	6	GNU
+"dpkg AMD64"	"is"	"IA-64 Linux Micro GNU GNOME Free software"	6	GNOME
+"dpkg AMD64"	"is"	"IA-64 Linux mainly the GNU GPL"	6	GNU
+"dpkg PowerPC"	"is"	"IA-64 Monolithic Linux"	6	PowerPC
+"dpkg PowerPC"	"is"	"IA-64 Linux Micro GNU GNOME Free software"	6	GNOME
+"dpkg PowerPC"	"is"	"IA-64 Linux mainly the GNU GPL"	6	PowerPC
+"dpkg PowerPC"	"is"	"IA-64 Linux other licenses http"	6	PowerPC
+"dpkg SPARC"	"is"	"IA-64 Monolithic Linux"	6	SPARC
+"dpkg SPARC"	"is"	"IA-64 Linux Micro GNU GNOME Free software"	6	GNOME
+"dpkg SPARC"	"is"	"IA-64 Linux mainly the GNU GPL"	6	SPARC
+"dpkg SPARC"	"is"	"IA-64 Linux other licenses http"	6	SPARC
+"dpkg DEC Alpha"	"is"	"IA-64 Linux Micro GNU GNOME Free software"	6	GNOME
+"dpkg DEC Alpha"	"is"	"IA-64 Linux mainly the GNU GPL"	6	GNU
+"dpkg ARM"	"is"	"IA-64 Linux Micro GNU GNOME Free software"	6	GNOME
+"dpkg ARM"	"is"	"IA-64 Linux mainly the GNU GPL"	6	GNU
+"dpkg MIPS"	"is"	"IA-64 Linux Micro GNU GNOME Free software"	6	GNOME
+"dpkg MIPS"	"is"	"IA-64 Linux mainly the GNU GPL"	6	GNU
+"dpkg PA-RISC"	"is"	"IA-64 Monolithic Linux"	6	PA-RISC
+"dpkg PA-RISC"	"is"	"IA-64 Linux Micro GNU GNOME Free software"	6	GNOME
+"dpkg PA-RISC"	"is"	"IA-64 Linux mainly the GNU GPL"	6	PA-RISC
+"dpkg PA-RISC"	"is"	"IA-64 Linux other licenses http"	6	PA-RISC
+"dpkg S390"	"is"	"IA-64 Linux Micro GNU GNOME Free software"	6	GNOME
+"dpkg S390"	"is"	"IA-64 Linux mainly the GNU GPL"	6	GNU
+Debian ( icon ˈ d ɛ b i ə n ) is a computer operating system composed of software packages released as free and open source software primarily under the GNU General Public License along with other free software licenses . 	12
+"Debian icon ˈ d ɛ b i ə n"	"is a computer operating system"	"composed of software packages released as free source software primarily under the GNU General Public License along with other free software licenses"	12	GNU
+"Debian icon ˈ d ɛ b i ə n"	"is a computer operating system"	"composed of software packages released as open source software primarily under the GNU General Public License along with other free software licenses"	12	GNU
+"a computer operating system"	"be composed"	"of software packages released as free source software primarily under the GNU General Public License along with other free software licenses"	12	GNU
+"a computer operating system"	"be composed"	"of software packages released as open source software primarily under the GNU General Public License along with other free software licenses"	12	GNU
+"software packages"	"be released"	"as free source software primarily under the GNU General Public License along with other free software licenses"	12	GNU
+"software packages"	"be released"	"as open source software primarily under the GNU General Public License along with other free software licenses"	12	GNU
+What Does Free Mean ? or What do you mean by Free Software ? The Debian Project Debian official website 2009-12-01 Debian GNU/ Linux , which includes the GNU OS tools and Linux kernel , http ://debian .org/index 	15
+The Debian GNU/Linux FAQ : Definitions and overview Debian 2008-05-12 http ://www.debian 	34
+The Debian GNU/Linux FAQ : Definitions and overview Debian 2008-05-12 Debian can be used on a variety of hardware , from NAS devices to phones , laptops , desktops and servers . 	38
+lenny ( 323 million lines of code) , using the COCOMO model , has been estimated to be about US$ 8 billion . 	71
+"lenny using the COCOMO model"	"is"	"323 million lines of code"	71	COCOMO
+"lenny"	"be using"	"the COCOMO model"	71	COCOMO
+"lenny using the COCOMO model"	"has been estimated"	"to be about US$ 8 billion"	71	COCOMO
+libresoft Ohloh estimates that the codebase ( 54 million lines of code) , using the COCOMO model , would cost about US$ 1 billion to develop . 	76
+"the codebase"	"be using"	"the COCOMO model"	76	COCOMO
+"the codebase using the COCOMO model"	"is"	"54 million lines of code"	76	COCOMO
+"the codebase using the COCOMO model"	"would cost"	"about US$ 1 billion to develop"	76	COCOMO
+"the codebase using the COCOMO model"	"would cost"	"about US$ 1 billion"	76	COCOMO
+Debian GNU/Linux Ohloh .net 	79
+Debian GNU/Linux Ohloh .net 	82
+There are also packages for architectures using the FreeBSD kernel (kfreebsd-i386 and kfreebsd-amd64 ) . 	91
+"packages for architectures using the FreeBSD kernel kfreebsd-i386"	"There are"	"also 91"	91	FreeBSD
+"packages for architectures using the FreeBSD kernel kfreebsd-amd64"	"There are"	"also 91"	91	FreeBSD
+"packages for architectures using the FreeBSD kernel kfreebsd-i386"	"There are"	"91"	91	FreeBSD
+"packages for architectures using the FreeBSD kernel kfreebsd-amd64"	"There are"	"91"	91	FreeBSD
+"packages for architectures"	"be using"	"the FreeBSD kernel kfreebsd-i386"	91	FreeBSD
+"packages for architectures"	"be using"	"the FreeBSD kernel kfreebsd-amd64"	91	FreeBSD
+The Debian GNU/Linux FAQ : Compatibility issues Debian 2008-05-12 http ://www.debian 	96
+The Debian GNU/Linux FAQ : Compatibility issues Debian 2008-05-12 The Debian standard install makes use of the GNOME desktop environment . 	99
+"Compatibility issues"	"makes"	"use of the GNOME desktop environment"	99	GNOME
+, Iceweasel ( a rebranding of Firefox ) , Evolution mail , CD/DVD writing programs , music and video players , image viewers and editors , and PDF viewers . 	101
+There are pre-built CD images for KDE Software Compilation , Xfce and LXDE also . 	102
+"pre-built CD images for KDE Software Compilation also"	"There are"	"102"	102	KDE
+"pre-built CD images for KDE Software Xfce also"	"There are"	"102"	102	Xfce
+"pre-built CD images for KDE Software LXDE also"	"There are"	"102"	102	LXDE
+Installing Debian GNU/Linux via the Internet Debian 2008-12-11 http ://www.debian 	112
+Installing Debian GNU/Linux via the Internet Debian 2008-12-11 These CD/DVD images can be freely obtained by web download , BitTorrent , jigdo or from online retailers . 	114
+"Installing Debian GNU/Linux via the Internet Debian 2008-12-11 These CD/DVD images"	"can be obtained"	"by web download freely"	114	GNU
+"Installing Debian GNU/Linux via the Internet Debian 2008-12-11 These CD/DVD images"	"can be obtained"	"by web BitTorrent freely"	114	GNU
+"Installing Debian GNU/Linux via the Internet Debian 2008-12-11 These CD/DVD images"	"can be obtained"	"by web jigdo freely"	114	GNU
+"Installing Debian GNU/Linux via the Internet Debian 2008-12-11 These CD/DVD images"	"can be obtained"	"by web from online retailers freely"	114	GNU
+"Installing Debian GNU/Linux via the Internet Debian 2008-12-11 These CD/DVD images"	"can be obtained"	"by web download"	114	GNU
+"Installing Debian GNU/Linux via the Internet Debian 2008-12-11 These CD/DVD images"	"can be obtained"	"by web BitTorrent"	114	GNU
+"Installing Debian GNU/Linux via the Internet Debian 2008-12-11 These CD/DVD images"	"can be obtained"	"by web jigdo"	114	GNU
+"Installing Debian GNU/Linux via the Internet Debian 2008-12-11 These CD/DVD images"	"can be obtained"	"by web from online retailers"	114	GNU
+Debian GNU/Linux on CDs Debian 2009-01-06 http ://www.debian 	117
+Debian GNU/Linux on CDs Debian 2009-01-06 Debian was one of the earlier Linux distributions to compose itself from packages , Debian and the grass roots of Linux http ://www.itpro.co.uk/applications/features/135084/debian-and-the-grass-roots-of-linux 	119
+"Debian GNU/Linux on CDs Debian 2009-01-06 Debian"	"was one www.itpro.co.uk/applications/features/135084/debian-and-the-grass-roots-of-linux"	"of the earlier Linux distributions to compose itself from packages"	119	GNU
+"Debian GNU/Linux on CDs Debian 2009-01-06 Debian"	"was one www.itpro.co.uk/applications/features/135084/debian-and-the-grass-roots-of-linux"	"of the earlier Linux distributions to compose itself from Debian"	119	GNU
+"Debian GNU/Linux on CDs Debian 2009-01-06 Debian"	"was one www.itpro.co.uk/applications/features/135084/debian-and-the-grass-roots-of-linux"	"of the earlier Linux distributions to compose itself from the grass roots of Linux http"	119	GNU
+"Debian GNU/Linux on CDs Debian 2009-01-06 Debian"	"was"	"one www.itpro.co.uk/applications/features/135084/debian-and-the-grass-roots-of-linux"	119	GNU
+Debian Wiki dpkg Debian 2008-12-10 GDebi is a tool that expands the functionality of dpkg by not only installing local .deb 	132
+GDebi can be used both in a graphical interface and by command-line . 	134
+"GDebi"	"can be used"	"both in a graphical interface"	134	GDebi
+"GDebi"	"can be used"	"both a graphical interface by command-line"	134	GDebi
+There are prebuilt Debian Live images for rescue , standard , GNOME , KDE Plasma Workspaces , Xfce and LXDE for several architectures . 	143
+"prebuilt Debian Live images for GNOME for several architectures"	"There are"	"143"	143	GNOME
+"prebuilt Debian Live images for KDE Plasma Workspaces for several architectures"	"There are"	"143"	143	KDE
+"prebuilt Debian Live images for Xfce for several architectures"	"There are"	"143"	143	Xfce
+"prebuilt Debian Live images for LXDE for several architectures"	"There are"	"143"	143	LXDE
+Ging is a Debian GNU/ kFreeBSD Live CD . 	153
+"Ging"	"is"	"a Debian GNU kFreeBSD Live CD"	153	FreeBSD
+/ The Ging FAQ Debian 2008-10-31 Debian offers stable and testing CD images specifically built for GNOME ( the default ) , KDE Plasma Workspaces , Xfce and LXDE . 	158
+"stable CD images"	"be built"	"specifically for GNOME"	158	GNOME
+"stable CD images"	"be built"	"specifically for KDE Plasma Workspaces"	158	KDE
+"stable CD images"	"be built"	"specifically for Xfce"	158	Xfce
+"stable CD images"	"be built"	"specifically for LXDE"	158	LXDE
+"testing CD images"	"be built"	"specifically for GNOME"	158	GNOME
+"testing CD images"	"be built"	"specifically for KDE Plasma Workspaces"	158	KDE
+"testing CD images"	"be built"	"specifically for Xfce"	158	Xfce
+"testing CD images"	"be built"	"specifically for LXDE"	158	LXDE
+"KDE Plasma Workspaces"	"is"	"the default"	158	KDE
+Debian GNU/Linux 4.0 	161
+Debian GNU/Linux 4.0 	164
+released Debian 2008-04-08 2008-10-31 Less common window manager such as Enlightenment , Openbox , Fluxbox , GNUstep , IceWM , Window Maker and others can also be installed . 	165
+"released Debian 2008-04-08 2008-10-31 Less common window manager such as Openbox"	"can be installed"	"also"	165	Openbox
+"released Debian 2008-04-08 2008-10-31 Less common window manager such as Fluxbox"	"can be installed"	"also"	165	Fluxbox
+"released Debian 2008-04-08 2008-10-31 Less common window manager such as GNUstep"	"can be installed"	"also"	165	GNU
+"released Debian 2008-04-08 2008-10-31 Less common window manager such as IceWM"	"can be installed"	"also"	165	IceWM
+The cheap NSLU2 was supported by Debian 4.0 	167
+"The cheap NSLU2"	"was supported"	"by Debian 4.0"	167	NSLU2
+Installing Debian on NSLU2 Cyrius.com 	180
+Installing Debian on NSLU2 Cyrius.com 	183
+What 's new in Debian GNU/Linux 5.0 	190
+"new in Debian GNU/Linux 5.0"	"'s"	"What"	190	GNU
+What 's new in Debian GNU/Linux 5.0 	197
+"new in Debian GNU/Linux 5.0"	"'s"	"What"	197	GNU
+for the SheevaPlug . 	200
+What 's new in Debian GNU/Linux 6.0 	206
+"new in Debian GNU/Linux 6.0"	"'s"	"What"	206	GNU
+What 's new in Debian GNU/Linux 6.0 	213
+"new in Debian GNU/Linux 6.0"	"'s"	"What"	213	GNU
+Release Notes for Debian GNU/Linux 4.0 	220
+( "etch" ) , ARM What 's new in Debian GNU/Linux 4.0 	221
+Release Notes for Debian GNU/Linux 4.0 	227
+( "etch" ) , ARM What 's new in Debian GNU/Linux 4.0 	228
+In it he called for the creation of a distribution to be maintained in an open manner , in the spirit of Linux and GNU . 	285
+During this time it was sponsored by the Free Software Foundation 's GNU Project . 	288
+"the Free Software Foundation"	"has"	"GNU Project"	288	GNU
+He created the BusyBox program to make it possible to run a Debian installer on a single floppy , and wrote a new installer . 	307
+The Advanced Packaging Tool was deployed during this time and the first port to a non - Linux kernel , Debian GNU/Hurd , was started . 	312
+"the first port to a non Linux kernel"	"is"	"Debian GNU/Hurd"	312	GNU
+The first Linux distribution based on Debian , namely Libranet , Corel Linux and Stormix 's Storm Linux , were started in 1999 . 	313
+"The first Linux distribution"	"be based"	"on namely Libranet"	313	Libranet
+"The first Linux distribution"	"be based"	"on Stormix 's Storm Linux"	313	Stormix
+"The first Linux distribution based on namely Libranet"	"were started"	"in 1999"	313	Libranet
+"The first Linux distribution based on Stormix 's Storm Linux"	"were started"	"in 1999"	313	Stormix
+Debian GNU/Linux 2.2 	318
+Debian GNU/Linux 2.2 	322
+In the same year , developers began holding an annual conference called DebConf with talks and workshops for developers and technical users . 	325
+Chapter 2 - What 's new in Debian GNU/Linux 3.1 	337
+Chapter 2 - What 's new in Debian GNU/Linux 3.1 	342
+This release included the efforts of the Debian- Edu/ Skolelinux , Debian-Med and Debian- Accessibility sub-projects which raised the number of packages that were educational , had a medical affiliation , and ones made for people with disabilities . 	347
+"This release"	"included"	"the efforts of the Debian Edu Skolelinux Accessibility sub-projects"	347	Skolelinux
+"This release"	"included"	"the efforts of the Debian Edu Debian-Med Accessibility sub-projects"	347	Debian-Med
+"This release"	"ones"	"the efforts of the Debian Edu Skolelinux Accessibility sub-projects made for people with disabilities"	347	Skolelinux
+"This release"	"ones"	"the efforts of the Debian Edu Debian-Med Accessibility sub-projects made for people with disabilities"	347	Debian-Med
+"This release"	"ones"	"the efforts of the Debian Edu Skolelinux Accessibility sub-projects"	347	Skolelinux
+"This release"	"ones"	"the efforts of the Debian Edu Debian-Med Accessibility sub-projects"	347	Debian-Med
+"This release"	"had"	"the efforts of the Debian Edu Skolelinux Accessibility sub-projects a medical affiliation"	347	Skolelinux
+"This release"	"had"	"the efforts of the Debian Edu Debian-Med Accessibility sub-projects a medical affiliation"	347	Debian-Med
+In 2006 , as a result of a much-publicized dispute , Mozilla software was rebranded in Debian , with Firefox becoming Iceweasel , Thunderbird becoming Icedove , along with other Mozilla programs . 	348
+"In 2006"	"Mozilla software was rebranded"	"in Debian with Firefox becoming Iceweasel"	348	Firefox
+"Mozilla software"	"348 In 2006 was rebranded"	"in Debian with Firefox becoming Iceweasel"	348	Firefox
+The Mozilla Corporation stated that Debian may not use the Firefox trademark if it distributes Firefox with modifications which have not been approved by the Mozilla Corporation . 	349
+"The Mozilla Corporation"	"stated"	"that Debian may not use the Firefox trademark if it distributes Firefox with modifications"	349	Firefox
+Two prominent reasons that Debian modifies the Firefox software are to change the artwork , and to provide security patches . 	350
+Debian provides long term support for older versions of Firefox in the stable release , where Mozilla prefers that old versions are not supported . 	352
+"Debian"	"provides"	"long term support for older versions of Firefox in the stable release"	352	Firefox
+Behind the Debian and Mozilla dispute over use of Firefox 2006-10-10 Lisa Hoover 2009-02-09 http ://www.linux.com/feature/57675 	356
+Behind the Debian and Mozilla dispute over use of Firefox 2006-10-10 Lisa Hoover 2009-02-09 Debian 4.0 	358
+Debian GNU/Linux 5.0 	370
+Debian GNU/Linux 5.0 	374
+For the first time , Debian GNU/ kFreeBSD was introduced with this version as a technology preview . 	391
+"For the first time Debian GNU kFreeBSD"	"was introduced"	"with this version as a technology preview"	391	FreeBSD
+"For the first time Debian GNU kFreeBSD"	"was introduced"	"with this version"	391	FreeBSD
+The Debian GNU/Linux FAQ : Getting support for Debian GNU/Linux Debian 2008-05-12 http ://www.debian 	407
+The Debian GNU/Linux FAQ : Getting support for Debian GNU/Linux Debian 2008-05-12 For issues with single packages or domains , a public bug tracking system is used by developers and end-users . 	411
+2007-05-24 The Debian GNU/Linux FAQ Chapter 6 : The Debian FTP archives Debian http ://www .us.debian 	477
+2007-05-24 The Debian GNU/Linux FAQ Chapter 6 : The Debian FTP archives Debian After a version of a software package has remained in unstable for a certain length of time ( depending on the urgency of the software 's changes ) , that package is automatically migrated to the testing distribution . 	479
+What 's new in Debian GNU/Linux 5.0 	563
+"new in Debian GNU/Linux 5.0"	"'s"	"What"	563	GNU
+What 's new in Debian GNU/Linux 5.0 	569
+"new in Debian GNU/Linux 5.0"	"'s"	"What"	569	GNU
+2009-07-21 2009-04-08 Debian GNU/Linux 4.0 	598
+2009-07-21 2009-04-08 Debian GNU/Linux 4.0 	601
+( lenny ) , the numbering scheme of point releases has been changed and conforms to the GNU version numbering standard ; so , for example , the first point release of Debian 5.0 	603
+Debian GNU/Linux 6.0 	639
+Debian GNU/Linux 6.0 	642
+These two repositories are not officially part of Debian GNU/ Linux . 	679
+"These two repositories"	"are not part"	"of Debian GNU Linux"	679	GNU
+squeeze main contrib non-free Debian has no hardware requirements beyond those of the Linux kernel and the GNU tool-sets ( gcc , coreutils , bash , etc. 	697
+For example , the LXDE desktop environment was released with lenny and has much lower processor and memory usages compared with GNOME or KDE Plasma Desktop . 	727
+"the LXDE desktop environment"	"was released"	"727 For example with lenny"	727	LXDE
+"the LXDE desktop environment"	"was released"	"727 For example"	727	LXDE
+"the LXDE desktop environment"	"was has"	"727 For example much lower processor with lenny"	727	LXDE
+"the LXDE desktop environment"	"was has"	"727 For example much lower memory usages with lenny"	727	LXDE
+"the LXDE desktop environment"	"was has"	"727 For example much lower processor compared with GNOME"	727	GNOME
+"the LXDE desktop environment"	"was has"	"727 For example much lower processor compared with KDE Plasma Desktop"	727	LXDE
+"the LXDE desktop environment"	"was has"	"727 For example much lower memory usages compared with GNOME"	727	GNOME
+"the LXDE desktop environment"	"was has"	"727 For example much lower memory usages compared with KDE Plasma Desktop"	727	LXDE
+"the LXDE desktop environment"	"was has"	"727 For example much lower processor"	727	LXDE
+"the LXDE desktop environment"	"was has"	"727 For example much lower memory usages"	727	LXDE
+In May 2008 , a Debian Developer revealed his discovery that changes made in 2006 to the random number generator in the version of the openSSL package distributed with Debian and other Debian-based distributions such as Ubuntu or Knoppix , made a variety of security keys vulnerable to a random number generator attack . 	769
+"a Debian Developer"	"revealed"	"his discovery that changes made in 2006 to the random number generator in the version of the openSSL package distributed with other Debian-based distributions such as Ubuntu or Knoppix made a variety of security keys vulnerable to a random number generator attack 769 In May 2008"	769	Knoppix
+"a Debian Developer"	"revealed"	"his discovery that changes made in 2006 to the random number generator in the version of the openSSL package distributed with Debian Debian-based distributions such as Knoppix made a variety of security keys vulnerable to a random number generator attack 769 In May 2008"	769	Knoppix
+"the version of the openSSL package"	"be distributed"	"with other Debian-based distributions such as Ubuntu or Knoppix"	769	Knoppix
+"the version of the openSSL package"	"be distributed"	"with Debian Debian-based distributions such as Knoppix"	769	Knoppix
+"changes made in 2006 to the random number generator in the version of the openSSL package distributed with other Debian-based distributions such as Ubuntu or Knoppix"	"made"	"a variety of security keys vulnerable to a random number generator attack"	769	Knoppix
+"changes made in 2006 to the random number generator in the version of the openSSL package distributed with Debian Debian-based distributions such as Knoppix"	"made"	"a variety of security keys vulnerable to a random number generator attack"	769	Knoppix
+Debian Backports Debian Project 2010-04-10 Free software 30em Category :Debian Category :Debian-based distributions Category :1993 introductions Category :1993 software Category :X86-64 Linux distributions Category : Free software culture and documents Category :Cross-platform software ar af:Debian als :Debian ar :دبيان bn :ডেবিয়ান map-bms :Debian be :Debian bg :Дебиан bar :Debian bs :Debian br :Debian GNU/Linux ca :Debian cs :Debian da :Debian de :Debian et :Debian el :Debian es :Debian eo :Debiano eu:Debian fa :دبیان fr :Debian ga:Debian gl:Debian GNU/Linux gu :ડેબિયન ko :데비안 hi :डेबियन hsb :Debian hr:Debian id :Debian ia :Debian os :Debian is :Debian it :Debian he :דביאן jv:Debian ku:Debian la:Debian GNU/Linux lv:Debian lt :Debian hu:Debian mg :Debian ml :ഡെബിയൻ mr :डेबिअन ऑपरेटिंग सिस्टिम ms :Debian nl :Debian ne :डेबियन ja:Debian no:Debian nn :Debian nds :Debian GNU/Linux pl :Debian pt:Debian ro:Debian GNU/Linux ru:Debian simple :Debian sk :Debian sl :Debian so :Debian sr :Debian sh :Debian fi:Debian sv:Debian GNU/Linux tl:Debian GNU/Linux ta :டெபியன ் tt :Debian te :డెబియన ్ th :เดเบียน tr :Debian uk :Debian vi:Debian zh-yue :Debian zh :Debian Software Center , originally developed for Ubuntu , is a GNOME program to discover and install applications . 	820
+"a GNOME program to install"	"be discover"	"applications"	820	GNOME
+"a GNOME program to install"	"be discover"	"applications"	820	GNOME
+"Debian Software Center originally developed for Ubuntu"	"is"	"a GNOME program"	820	GNOME
+Synaptic is a GTK+ front-end for APT . 	821
+Debian Wiki Synaptic Debian 2008-12-10 KPackage is KDE 's front-end for APT . 	826
+"Debian Wiki Synaptic Debian 2008-12-10 KPackage"	"is KDE 's front-end"	"for APT"	826	KPackage
+"Debian Wiki Synaptic Debian 2008-12-10 KPackage"	"is"	"KDE 's front-end"	826	KPackage
+Adept is a discontinued KDE front-end for APT . 	827
+"Adept"	"is"	"a discontinued KDE front-end"	827	KDE
+Gnome Application Installer was a GNOME program to discover and install applications , now removed in favour of Software Center apt-get is the most basic package management tool and the preferred APT front-end for non-interactive package management . 	828
+"Gnome Application Installer"	"was"	"a GNOME program"	828	GNOME
+"a GNOME program to install"	"be discover"	"applications"	828	GNOME
+"a GNOME program to install"	"be discover"	"applications"	828	GNOME
+What 's new in Debian GNU/Linux 6.0 	835
+"new in Debian GNU/Linux 6.0"	"'s"	"What"	835	GNU
+What 's new in Debian GNU/Linux 6.0 	841
+"new in Debian GNU/Linux 6.0"	"'s"	"What"	841	GNU
+lenny A A 11 architectures + 1 additional ARM binary ABI ( armel ) squeeze B B 9 architectures with Linux kernel + 2 architectures with kernel of FreeBSD stable , currently aliased squeeze , is the current release that has stable and well-tested software . 	877
+"lenny A A 11 1 additional ARM binary ABI squeeze B B 9 architectures with Linux kernel with kernel of FreeBSD stable"	"is"	"currently aliased squeeze"	877	FreeBSD
+"lenny A A 11 1 additional ARM binary ABI squeeze B B 9 architectures with Linux 2 architectures with kernel of FreeBSD stable"	"is"	"currently aliased squeeze"	877	FreeBSD
+"lenny A A 11 1 additional ARM binary ABI squeeze B B 9 architectures with Linux kernel with kernel of FreeBSD stable"	"is"	"the current release"	877	FreeBSD
+"lenny A A 11 1 additional ARM binary ABI squeeze B B 9 architectures with Linux 2 architectures with kernel of FreeBSD stable"	"is"	"the current release"	877	FreeBSD
+2008-10-11 Supported Hardware Debian amd64 : x86-64 architecture designed for Intel /AMD 64-bit single/multi core PCs armel : little - endian ARM architecture on RiscPC and various embedded systems ( EABI ) sparc : Sun SPARC architecture on sun4u/v systems powerpc : PowerPC architecture ia64 : Intel Itanium ( IA-64 ) architecture mips , mipsel : MIPS architecture ( big-endian and little-endian ) s390 : IBM ESA/390 architecture and z/Architecture kfreebsd-i386 : Kernel of FreeBSD on 32-bit architecture kfreebsd-amd64 : Kernel of FreeBSD on 64-bit architecture hurd-i386 : GNU Hurd kernel on 32-bit architecture armhf : ARM hard-float architecture requiring hardware with a floating-point unit ( FPU) s390x : IBM ESA/390 architecture and z/Architecture with 64-bit userland alpha : DEC Alpha architecture avr32 : Atmel AVR32 architecture hppa : HP PA-RISC architecture m68k : Motorola 68k architecture on Amiga , Atari , Macintosh and various embedded VME systems powerpcspe : PowerPCSPE architecture ( binary-incompatible variant of the PowerPC ) sh4 : Hitachi SuperH architecture sparc64 : Sun SPARC architecture with 64-bit userland Comparison of Linux distributions DCC Alliance Debian Live List of Linux distributions Krafft Martin F. 	913
+"x86-64 architecture"	"be designed"	"for Intel AMD 64-bit single/multi core PCs armel little endian ARM architecture on RiscPC sparc Sun SPARC architecture on sun4u/v systems powerpc PowerPC architecture ia64 Intel Itanium architecture mips MIPS architecture big-endian s390 IBM ESA/390 architecture Kernel of FreeBSD on 32-bit architecture kfreebsd-amd64 Kernel of FreeBSD on 64-bit architecture hurd-i386 GNU Hurd kernel on 32-bit architecture armhf ARM hard-float architecture requiring hardware with a floating-point unit s390x IBM ESA/390 architecture with 64-bit userland alpha DEC Alpha architecture avr32 Atmel AVR32 architecture hppa HP PA-RISC architecture m68k Motorola 68k architecture on Amiga PowerPCSPE architecture binary-incompatible variant of the PowerPC sh4 Hitachi SuperH architecture sparc64 Sun SPARC architecture with 64-bit userland Comparison of Linux distributions DCC Alliance Debian Live List of Linux distributions Krafft Martin F."	913	PowerPC
+"x86-64 architecture"	"be designed"	"for Intel AMD 64-bit single/multi core PCs armel little endian ARM architecture on various embedded systems sparc Sun SPARC architecture on sun4u/v systems powerpc PowerPC architecture ia64 Intel Itanium architecture mips MIPS architecture big-endian and little-endian s390 IBM ESA/390 architecture and z/Architecture kfreebsd-i386 Kernel of FreeBSD on 32-bit architecture kfreebsd-amd64 Kernel of FreeBSD on 64-bit architecture hurd-i386 GNU Hurd kernel on 32-bit architecture armhf ARM hard-float architecture requiring hardware with a floating-point unit s390x IBM ESA/390 architecture and z/Architecture with 64-bit userland alpha DEC Alpha architecture avr32 Atmel AVR32 architecture hppa HP PA-RISC architecture m68k Motorola 68k architecture on Amiga Atari Macintosh and various embedded VME systems powerpcspe PowerPCSPE architecture binary-incompatible variant of the PowerPC sh4 Hitachi SuperH architecture sparc64 Sun SPARC architecture with 64-bit userland Comparison of Linux distributions DCC Alliance Debian Live List of Linux distributions Krafft Martin F."	913	PowerPC
+"x86-64 architecture"	"be designed"	"for Intel AMD 64-bit single/multi core PCs armel little endian ARM architecture on RiscPC sparc Sun SPARC architecture on sun4u/v systems powerpc PowerPC architecture ia64 Intel Itanium architecture mips MIPS architecture little-endian s390 IBM ESA/390 architecture and z/Architecture kfreebsd-i386 Kernel of FreeBSD on 32-bit architecture kfreebsd-amd64 Kernel of FreeBSD on 64-bit architecture hurd-i386 GNU Hurd kernel on 32-bit architecture armhf ARM hard-float architecture requiring hardware with a floating-point unit s390x IBM ESA/390 architecture and z/Architecture with 64-bit userland alpha DEC Alpha architecture avr32 Atmel AVR32 architecture hppa HP PA-RISC architecture m68k Motorola 68k architecture on Amiga Atari Macintosh and various embedded VME systems powerpcspe PowerPCSPE architecture binary-incompatible variant of the PowerPC sh4 Hitachi SuperH architecture sparc64 Sun SPARC architecture with 64-bit userland Comparison of Linux distributions DCC Alliance Debian Live List of Linux distributions Krafft Martin F."	913	PowerPC
+"x86-64 architecture"	"be designed"	"for Intel AMD 64-bit single/multi core PCs armel little endian ARM architecture on RiscPC sparc Sun SPARC architecture on sun4u/v systems powerpc PowerPC architecture ia64 Intel Itanium architecture mips MIPS architecture big-endian s390 IBM ESA/390 z/Architecture kfreebsd-i386 Kernel of FreeBSD on 32-bit architecture kfreebsd-amd64 Kernel of FreeBSD on 64-bit architecture hurd-i386 GNU Hurd kernel on 32-bit architecture armhf ARM hard-float architecture requiring hardware with a floating-point unit s390x IBM ESA/390 architecture and z/Architecture with 64-bit userland alpha DEC Alpha architecture avr32 Atmel AVR32 architecture hppa HP PA-RISC architecture m68k Motorola 68k architecture on Amiga Atari Macintosh and various embedded VME systems powerpcspe PowerPCSPE architecture binary-incompatible variant of the PowerPC sh4 Hitachi SuperH architecture sparc64 Sun SPARC architecture with 64-bit userland Comparison of Linux distributions DCC Alliance Debian Live List of Linux distributions Krafft Martin F."	913	PowerPC
+"x86-64 architecture"	"be designed"	"for Intel AMD 64-bit single/multi core PCs armel little endian ARM architecture on RiscPC sparc Sun SPARC architecture on sun4u/v systems powerpc PowerPC architecture ia64 Intel Itanium architecture mips MIPS architecture big-endian s390 IBM ESA/390 architecture Kernel of FreeBSD on 32-bit architecture kfreebsd-amd64 Kernel of FreeBSD on 64-bit architecture hurd-i386 GNU Hurd kernel on 32-bit architecture armhf ARM hard-float architecture requiring hardware with a floating-point unit s390x IBM ESA/390 z/Architecture with 64-bit userland alpha DEC Alpha architecture avr32 Atmel AVR32 architecture hppa HP PA-RISC architecture m68k Motorola 68k architecture on Amiga Atari Macintosh and various embedded VME systems powerpcspe PowerPCSPE architecture binary-incompatible variant of the PowerPC sh4 Hitachi SuperH architecture sparc64 Sun SPARC architecture with 64-bit userland Comparison of Linux distributions DCC Alliance Debian Live List of Linux distributions Krafft Martin F."	913	PowerPC
+"x86-64 architecture"	"be designed"	"for Intel AMD 64-bit single/multi core PCs armel little endian ARM architecture on RiscPC sparc Sun SPARC architecture on sun4u/v systems powerpc PowerPC architecture ia64 Intel Itanium architecture mips MIPS architecture big-endian s390 IBM ESA/390 architecture Kernel of FreeBSD on 32-bit architecture kfreebsd-amd64 Kernel of FreeBSD on 64-bit architecture hurd-i386 GNU Hurd kernel on 32-bit architecture armhf ARM hard-float architecture requiring hardware with a floating-point unit s390x IBM ESA/390 architecture with 64-bit userland alpha DEC Alpha architecture avr32 Atmel AVR32 architecture hppa HP PA-RISC architecture m68k Motorola 68k architecture on Atari PowerPCSPE architecture binary-incompatible variant of the PowerPC sh4 Hitachi SuperH architecture sparc64 Sun SPARC architecture with 64-bit userland Comparison of Linux distributions DCC Alliance Debian Live List of Linux distributions Krafft Martin F."	913	PowerPC
+"x86-64 architecture"	"be designed"	"for Intel AMD 64-bit single/multi core PCs armel little endian ARM architecture on RiscPC sparc Sun SPARC architecture on sun4u/v systems powerpc PowerPC architecture ia64 Intel Itanium architecture mips MIPS architecture big-endian s390 IBM ESA/390 architecture Kernel of FreeBSD on 32-bit architecture kfreebsd-amd64 Kernel of FreeBSD on 64-bit architecture hurd-i386 GNU Hurd kernel on 32-bit architecture armhf ARM hard-float architecture requiring hardware with a floating-point unit s390x IBM ESA/390 architecture with 64-bit userland alpha DEC Alpha architecture avr32 Atmel AVR32 architecture hppa HP PA-RISC architecture m68k Motorola 68k architecture on Macintosh PowerPCSPE architecture binary-incompatible variant of the PowerPC sh4 Hitachi SuperH architecture sparc64 Sun SPARC architecture with 64-bit userland Comparison of Linux distributions DCC Alliance Debian Live List of Linux distributions Krafft Martin F."	913	PowerPC
+"x86-64 architecture"	"be designed"	"for Intel AMD 64-bit single/multi core PCs armel little endian ARM architecture on RiscPC sparc Sun SPARC architecture on sun4u/v systems powerpc PowerPC architecture ia64 Intel Itanium architecture mips MIPS architecture big-endian s390 IBM ESA/390 architecture Kernel of FreeBSD on 32-bit architecture kfreebsd-amd64 Kernel of FreeBSD on 64-bit architecture hurd-i386 GNU Hurd kernel on 32-bit architecture armhf ARM hard-float architecture requiring hardware with a floating-point unit s390x IBM ESA/390 architecture with 64-bit userland alpha DEC Alpha architecture avr32 Atmel AVR32 architecture hppa HP PA-RISC architecture m68k Motorola 68k architecture on various embedded VME systems powerpcspe PowerPCSPE architecture binary-incompatible variant of the PowerPC sh4 Hitachi SuperH architecture sparc64 Sun SPARC architecture with 64-bit userland Comparison of Linux distributions DCC Alliance Debian Live List of Linux distributions Krafft Martin F."	913	PowerPC
+"Intel Itanium"	"is"	"IA-64"	913	Itanium
+"Intel Itanium architecture mips MIPS architecture big-endian s390 IBM ESA/390 architecture Kernel of FreeBSD on 32-bit architecture kfreebsd-amd64 Kernel of FreeBSD on 64-bit architecture hurd-i386 GNU Hurd kernel on 32-bit architecture armhf ARM hard-float architecture requiring hardware with a floating-point unit s390x IBM ESA/390 architecture with 64-bit userland alpha DEC Alpha architecture avr32 Atmel AVR32 architecture hppa HP PA-RISC architecture m68k Motorola 68k architecture on Amiga PowerPCSPE architecture binary-incompatible variant of the PowerPC sh4 Hitachi SuperH architecture sparc64 Sun SPARC architecture with 64-bit userland Comparison of Linux distributions DCC Alliance Debian Live List of Linux distributions Krafft Martin F."	"is"	"mipsel"	913	PowerPC
+"Intel Itanium architecture mips MIPS architecture little-endian s390 IBM ESA/390 architecture and z/Architecture kfreebsd-i386 Kernel of FreeBSD on 32-bit architecture kfreebsd-amd64 Kernel of FreeBSD on 64-bit architecture hurd-i386 GNU Hurd kernel on 32-bit architecture armhf ARM hard-float architecture requiring hardware with a floating-point unit s390x IBM ESA/390 architecture and z/Architecture with 64-bit userland alpha DEC Alpha architecture avr32 Atmel AVR32 architecture hppa HP PA-RISC architecture m68k Motorola 68k architecture on Amiga Atari Macintosh and various embedded VME systems powerpcspe PowerPCSPE architecture binary-incompatible variant of the PowerPC sh4 Hitachi SuperH architecture sparc64 Sun SPARC architecture with 64-bit userland Comparison of Linux distributions DCC Alliance Debian Live List of Linux distributions Krafft Martin F."	"is"	"mipsel"	913	PowerPC
+"Intel Itanium architecture mips MIPS architecture big-endian s390 IBM ESA/390 z/Architecture kfreebsd-i386 Kernel of FreeBSD on 32-bit architecture kfreebsd-amd64 Kernel of FreeBSD on 64-bit architecture hurd-i386 GNU Hurd kernel on 32-bit architecture armhf ARM hard-float architecture requiring hardware with a floating-point unit s390x IBM ESA/390 architecture and z/Architecture with 64-bit userland alpha DEC Alpha architecture avr32 Atmel AVR32 architecture hppa HP PA-RISC architecture m68k Motorola 68k architecture on Amiga Atari Macintosh and various embedded VME systems powerpcspe PowerPCSPE architecture binary-incompatible variant of the PowerPC sh4 Hitachi SuperH architecture sparc64 Sun SPARC architecture with 64-bit userland Comparison of Linux distributions DCC Alliance Debian Live List of Linux distributions Krafft Martin F."	"is"	"mipsel"	913	PowerPC
+"Intel Itanium architecture mips MIPS architecture big-endian s390 IBM ESA/390 architecture Kernel of FreeBSD on 32-bit architecture kfreebsd-amd64 Kernel of FreeBSD on 64-bit architecture hurd-i386 GNU Hurd kernel on 32-bit architecture armhf ARM hard-float architecture requiring hardware with a floating-point unit s390x IBM ESA/390 z/Architecture with 64-bit userland alpha DEC Alpha architecture avr32 Atmel AVR32 architecture hppa HP PA-RISC architecture m68k Motorola 68k architecture on Amiga Atari Macintosh and various embedded VME systems powerpcspe PowerPCSPE architecture binary-incompatible variant of the PowerPC sh4 Hitachi SuperH architecture sparc64 Sun SPARC architecture with 64-bit userland Comparison of Linux distributions DCC Alliance Debian Live List of Linux distributions Krafft Martin F."	"is"	"mipsel"	913	PowerPC
+"Intel Itanium architecture mips MIPS architecture big-endian s390 IBM ESA/390 architecture Kernel of FreeBSD on 32-bit architecture kfreebsd-amd64 Kernel of FreeBSD on 64-bit architecture hurd-i386 GNU Hurd kernel on 32-bit architecture armhf ARM hard-float architecture requiring hardware with a floating-point unit s390x IBM ESA/390 architecture with 64-bit userland alpha DEC Alpha architecture avr32 Atmel AVR32 architecture hppa HP PA-RISC architecture m68k Motorola 68k architecture on Atari PowerPCSPE architecture binary-incompatible variant of the PowerPC sh4 Hitachi SuperH architecture sparc64 Sun SPARC architecture with 64-bit userland Comparison of Linux distributions DCC Alliance Debian Live List of Linux distributions Krafft Martin F."	"is"	"mipsel"	913	PowerPC
+"Intel Itanium architecture mips MIPS architecture big-endian s390 IBM ESA/390 architecture Kernel of FreeBSD on 32-bit architecture kfreebsd-amd64 Kernel of FreeBSD on 64-bit architecture hurd-i386 GNU Hurd kernel on 32-bit architecture armhf ARM hard-float architecture requiring hardware with a floating-point unit s390x IBM ESA/390 architecture with 64-bit userland alpha DEC Alpha architecture avr32 Atmel AVR32 architecture hppa HP PA-RISC architecture m68k Motorola 68k architecture on Macintosh PowerPCSPE architecture binary-incompatible variant of the PowerPC sh4 Hitachi SuperH architecture sparc64 Sun SPARC architecture with 64-bit userland Comparison of Linux distributions DCC Alliance Debian Live List of Linux distributions Krafft Martin F."	"is"	"mipsel"	913	PowerPC
+"Intel Itanium architecture mips MIPS architecture big-endian s390 IBM ESA/390 architecture Kernel of FreeBSD on 32-bit architecture kfreebsd-amd64 Kernel of FreeBSD on 64-bit architecture hurd-i386 GNU Hurd kernel on 32-bit architecture armhf ARM hard-float architecture requiring hardware with a floating-point unit s390x IBM ESA/390 architecture with 64-bit userland alpha DEC Alpha architecture avr32 Atmel AVR32 architecture hppa HP PA-RISC architecture m68k Motorola 68k architecture on various embedded VME systems powerpcspe PowerPCSPE architecture binary-incompatible variant of the PowerPC sh4 Hitachi SuperH architecture sparc64 Sun SPARC architecture with 64-bit userland Comparison of Linux distributions DCC Alliance Debian Live List of Linux distributions Krafft Martin F."	"is"	"mipsel"	913	PowerPC
+"ARM hard-float architecture DEC Alpha architecture avr32 Atmel AVR32 architecture hppa HP PA-RISC architecture m68k Motorola 68k architecture on Amiga PowerPCSPE architecture binary-incompatible variant of the PowerPC sh4 Hitachi SuperH architecture sparc64 Sun SPARC architecture with 64-bit userland Comparison of Linux distributions DCC Alliance Debian Live List of Linux distributions Krafft Martin F."	"be requiring"	"hardware with a floating-point unit s390x IBM ESA/390 architecture with 64-bit userland alpha"	913	PowerPC
+"ARM hard-float architecture DEC Alpha architecture avr32 Atmel AVR32 architecture hppa HP PA-RISC architecture m68k Motorola 68k architecture on Amiga PowerPCSPE architecture binary-incompatible variant of the PowerPC sh4 Hitachi SuperH architecture sparc64 Sun SPARC architecture with 64-bit userland Comparison of Linux distributions DCC Alliance Debian Live List of Linux distributions Krafft Martin F."	"be requiring"	"hardware with a floating-point unit s390x IBM ESA/390 z/Architecture with 64-bit userland alpha"	913	PowerPC
+"ARM hard-float architecture DEC Alpha architecture avr32 Atmel AVR32 architecture hppa HP PA-RISC architecture m68k Motorola 68k architecture on Atari PowerPCSPE architecture binary-incompatible variant of the PowerPC sh4 Hitachi SuperH architecture sparc64 Sun SPARC architecture with 64-bit userland Comparison of Linux distributions DCC Alliance Debian Live List of Linux distributions Krafft Martin F."	"be requiring"	"hardware with a floating-point unit s390x IBM ESA/390 architecture with 64-bit userland alpha"	913	PowerPC
+"ARM hard-float architecture DEC Alpha architecture avr32 Atmel AVR32 architecture hppa HP PA-RISC architecture m68k Motorola 68k architecture on Atari PowerPCSPE architecture binary-incompatible variant of the PowerPC sh4 Hitachi SuperH architecture sparc64 Sun SPARC architecture with 64-bit userland Comparison of Linux distributions DCC Alliance Debian Live List of Linux distributions Krafft Martin F."	"be requiring"	"hardware with a floating-point unit s390x IBM ESA/390 z/Architecture with 64-bit userland alpha"	913	PowerPC
+"ARM hard-float architecture DEC Alpha architecture avr32 Atmel AVR32 architecture hppa HP PA-RISC architecture m68k Motorola 68k architecture on Macintosh PowerPCSPE architecture binary-incompatible variant of the PowerPC sh4 Hitachi SuperH architecture sparc64 Sun SPARC architecture with 64-bit userland Comparison of Linux distributions DCC Alliance Debian Live List of Linux distributions Krafft Martin F."	"be requiring"	"hardware with a floating-point unit s390x IBM ESA/390 architecture with 64-bit userland alpha"	913	PowerPC
+"ARM hard-float architecture DEC Alpha architecture avr32 Atmel AVR32 architecture hppa HP PA-RISC architecture m68k Motorola 68k architecture on Macintosh PowerPCSPE architecture binary-incompatible variant of the PowerPC sh4 Hitachi SuperH architecture sparc64 Sun SPARC architecture with 64-bit userland Comparison of Linux distributions DCC Alliance Debian Live List of Linux distributions Krafft Martin F."	"be requiring"	"hardware with a floating-point unit s390x IBM ESA/390 z/Architecture with 64-bit userland alpha"	913	PowerPC
+"ARM hard-float architecture DEC Alpha architecture avr32 Atmel AVR32 architecture hppa HP PA-RISC architecture m68k Motorola 68k architecture on various embedded VME systems powerpcspe PowerPCSPE architecture binary-incompatible variant of the PowerPC sh4 Hitachi SuperH architecture sparc64 Sun SPARC architecture with 64-bit userland Comparison of Linux distributions DCC Alliance Debian Live List of Linux distributions Krafft Martin F."	"be requiring"	"hardware with a floating-point unit s390x IBM ESA/390 architecture with 64-bit userland alpha"	913	PowerPC
+"ARM hard-float architecture DEC Alpha architecture avr32 Atmel AVR32 architecture hppa HP PA-RISC architecture m68k Motorola 68k architecture on various embedded VME systems powerpcspe PowerPCSPE architecture binary-incompatible variant of the PowerPC sh4 Hitachi SuperH architecture sparc64 Sun SPARC architecture with 64-bit userland Comparison of Linux distributions DCC Alliance Debian Live List of Linux distributions Krafft Martin F."	"be requiring"	"hardware with a floating-point unit s390x IBM ESA/390 z/Architecture with 64-bit userland alpha"	913	PowerPC
+1-59327-069-0 Mako Hill Benjamin Benjamin Mako Hill Debian GNU/Linux 3.1 	917
+Bible John Wiley &amp; Sons 2005 672 0-7645-7644-5 Jurzik Heike Debian GNU / Linux Galileo Press GmbH 2005 630 3898426270 Schoblick Robert Debian / GNU Linux BHV Verlag 2005 767 3826681517 Bellomo Michael Debian GNU/Linux for Dummies Hungry Minds 2000 324 0764507133 McCarty Bill Learning Debian GNU/Linux O'Reilly 1999 360 1565927052 Goerzen John John Goerzen Debian Gnu/Linux : Guide to Installation and Usage New Riders Pub 1999 158 0735709149 Scheetz Dale The Debian Linux User 's Guide Linux Press 1998 268 0965957519 http ://www.debian 	918
+"Linux Galileo Press GmbH"	"is"	"2005 630 389842627 0 Schoblick Robert Debian GNU Linux BHV Verlag 2005 767 382668151 7 Bellomo Michael Debian GNU/Linux for Dummies Hungry Minds 2000 324 076450713 3 McCarty Bill Learning Debian GNU/Linux O'Reilly 1999 360 156592705 2 Goerzen John John Goerzen Debian Gnu/Linux"	918	GNU
+Official website for Debian Live debian Debian GNU/Linux 	922
